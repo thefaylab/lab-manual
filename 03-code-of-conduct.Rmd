@@ -1,3 +1,3 @@
-# Methods
+# Code of Conduct
 
 We describe our methods in this chapter.
