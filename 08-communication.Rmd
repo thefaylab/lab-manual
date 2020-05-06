@@ -37,5 +37,23 @@ DO NOTs:
 
 ##Personal Websites
 
+Information has been adapted from Gavin's Web Presence Lecture from his Science Communication course (MAR 580)
+
+**Why have a curated website?**
+
+1. People will Google you. They might as well see what you want them to.
+2. Give people an easy way to find you and your work.
+
+**What should you include?**
+*not an exhaustive list*
+
+- BioSketch
+- Research interests/overview
+- Projects
+- Publications
+- CV
+- Blog posts
+- Contact info
+
 ##Social Media
 
