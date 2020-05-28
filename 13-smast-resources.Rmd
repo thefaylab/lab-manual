@@ -1,1 +1,11 @@
-# SMAST resources
+# SMAST Resources {#smast-resources}
+
+There is some overlap between this page and the UMassD Resource chapter
+Link to UMassD Resouces chapter 
+
+[Department website](https://www.umassd.edu/smast/) 
+
+[SMAST Directory](https://www.umassd.edu/smast/about/directory/)
+
+- [Staff at SMAST that are useful resources](https://github.com/AshleighNovak/Fay-Lab/blob/master/SMAST%20admin%20support%20matrix%20update_REVISED_11.29.18.xlsx) - click on view raw at bottom of page.
+    - Excel spreadlists which lists the primary and secondary points of contact for SMAST related business. 
