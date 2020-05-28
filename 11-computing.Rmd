@@ -1,1 +1,20 @@
-# Computing resources
+# Computing resources {#computing}
+
+Because our work is quantitative, research computing skills are an important part of your toolset. Most of our team uses the open source software `R` for a lot of their workflow, though you probably want to also learn an additional tool during your time in the lab (for many, the natural choice here is `TMB` and/or `ADMB`, as these `C++` template languages are the basis for many statistical population dynamics models in fisheries stock assessment).  
+
+Fortunuately, there are heaps of resources (including your labmates!) to help you with your learning.  
+
+## Introductory R learning resources
+
+Welcome to `R`! There are so many learning resources out there it can feel a little overwhelming in terms of what to choose! Right now, we REALLY like [this short intro course](https://rstudio-conf-2020.github.io/r-for-excel/) by [@juliesquid](https://twitter.com/juliesquid) & [@allisonhorst](https://twitter.com/allisonhorst). They teach a lot of the workflow and tools around using R right from the get go, which we think is more helpful than knowing how to do all the things. The (excellent) materials are thoughtfully put together, link to a ton of other great resources, and just like the online #rstats community in general, are super supportive of new learners.  
+
+If you want a book to work from/through, [R for Data Science](r4ds.had.co.nz) is highly recommended.  (book is free online)  
+
+A plug for the online R community. Follow the hashtag #rstats, & also check out accounts [@RLadiesGlobal](https://twitter.com/RLadiesGlobal) & [@R4dsCommunity](https://twitter.com/R4dsCommunity). The weekly #TidyTuesday social coding project is also a great way to practice your growing R skills. Have fun!  
+
+[RStudio Community](https://community.rstudio.com/)
+[stat545.com](stat545.com)
+[swirlstats.com](swirlstats.com)
+[carpentries R lessons](https://datacarpentry.org/R-ecology-lesson/)
+
+
