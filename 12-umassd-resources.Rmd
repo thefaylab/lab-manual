@@ -2,7 +2,7 @@
 
 ## General information about UMass Dartmouth
 
-Access SMAST's directory [here](https://www.umassd.edu/smast/about/directory/) *though doesn't get updated frequently.
+Access SMAST's directory [here](https://www.umassd.edu/smast/about/directory/)...though doesn't get updated frequently.
 
 ### University Codes of Conduct
 - [Student conduct and dispute resolution](https://www.umassd.edu/studentaffairs/departments/student-conduct-and-dispute-resolution/)
