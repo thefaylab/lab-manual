@@ -1,6 +1,6 @@
-#Communication
+# Communication {#communication}
 
-##CV Building
+## CV Building
 
 [Link to Lab Google Drive folder with CVs](https://drive.google.com/drive/folders/1_VDBjhUkH4Tx4IeUTPKsmQueFKEhQi4f)
 
@@ -31,7 +31,7 @@ DO NOTs:
 - Avoid including personal information (i.e., SSNs, marital status, etc), but also make sure you are including apprpriate contact information.
 - In longer CVs, do not bury the essential items (listed above). Keep them clear, succinct, and at the beginning.
 
-##Personal Websites
+## Personal Websites
 
 Information has been adapted from Gavin's Web Presence Lecture from his Science Communication course (MAR 580)
 
@@ -51,18 +51,17 @@ Information has been adapted from Gavin's Web Presence Lecture from his Science 
 - Blog posts
 - Contact info
 
-##Social Media
+## Social Media
 
 Platforms:
-
 - Twitter
 - Instagram
 - Facebook
 - LinkedIn
 - Researchgate
 
-All have a different purpose and type of engagement level.
+All have a different purpose and type of engagement.
 
-Most important tip: Think deliberately about how you want to use these tools. It is important to remember you are essentially **building a ‘brand’** for yourself using these platforms. For example, it may be useful to have a science twitter (in addition to a personal one) where you exclusively follow scientists, journals, organizations to directly engage with science that your interested in. 
+Most important tip: Think deliberately about how you want to use these tools. It is important to remember you are essentially **building a ‘brand’** for yourself using these platforms. For example, it may be useful to have a science twitter (in addition to a personal one if you have one) where you exclusively follow and engage with scientists, journals, organizations, etc to directly interact with science that your interested in. 
 
 
