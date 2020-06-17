@@ -1,7 +1,19 @@
 # Onboarding {#onboarding}
 
-Some _significant_ applications are demonstrated in this chapter.
+## Set up to Lab server
 
-## Example one
+See information provided on a [GitHub issue](https://github.com/thefaylab/lab-chat/issues/5)
 
-## Example two
+## Timesheets
+
+You can access you timesheets through the [HR portal in](https://my.umassd.edu/). Navigate to Quicklaunch and click on HRDirect. You need to enter your UMassD user ID, password, and select the Dartmouth campus. If this is the first time you do this, you will also need to verify your account through DUO authorization. We recommend using the DUO app on your phone. You can choose to have push access, or send codes. After your initial setup, you can also opt to go through DUO 1/month (instead of every time you login to HRDirect).   
+
+Even if you are salaried, it's still important to keep track of and submit your vacation and sick time!
+
+## Key card building & room access
+
+[Mike Marino](mmarino@umassd.edu) will have building & room access forms for you to fill out and have approved and signed by Gavin. Typically, you will have access to the SMAST gate, SMAST East building, the lab space (room #245), classrooms, and if you are a grad student you will have access to the room where your desk will be.
+
+## Individual Development/Mentoring plans
+
+Within the first few weeks of joining the Fay Lab, you should work with Gavin to develop a plan outlining your short, medium, and long term goals. More on individual developing plans can be found in Chapter \@ref(expectations).
