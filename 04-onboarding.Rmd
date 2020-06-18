@@ -1,6 +1,10 @@
 # Onboarding {#onboarding}
 
-![](img/forestgump.gif)
+**Congrats on getting sorted into the Fay Lab at the UMass Dartmouth!**
+
+![](img/sortinghat.gif)
+
+Here are some resources to help you get settled into the Lab
 
 ## Set up to Lab server
 
