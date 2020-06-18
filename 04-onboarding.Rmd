@@ -1,5 +1,7 @@
 # Onboarding {#onboarding}
 
+![](img/forestgump.gif)
+
 ## Set up to Lab server
 
 See information provided on a [GitHub issue](https://github.com/thefaylab/lab-chat/issues/5)
