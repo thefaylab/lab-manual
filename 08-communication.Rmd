@@ -53,7 +53,8 @@ Information has been adapted from Gavin's Web Presence Lecture from his Science 
 
 ## Social Media
 
-Platforms:
+Platforms
+
 - Twitter
 - Instagram
 - Facebook
