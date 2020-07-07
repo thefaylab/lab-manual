@@ -5,8 +5,28 @@ Because our work is quantitative, research computing skills are an important par
 Fortunuately, there are heaps of resources (including your labmates!) to help you with your learning.  
 
 
-## Set up to Lab server for backups
+## Overview of Computing at UMassD
+[intro to CITS / how to update your computer, links to site license software]
 
+## SMAST computing facilities
+[SMAST server/computing access forms]
+
+## Administrator Privileges
+As your computer is your main piece of lab research equipment, it is important to be able to use it effectively. Please ensure you are familiar with procedures for and have the ability to make changes on your computer as an administrator.   
+
+## Remote meetings via Zoom
+
+UMassD uses Zoom as its conference call software solution. Everyone should activate their Zoom Pro account which is part of the university license.  
+[Links to university Zoom stuff]
+
+## Collaborative software
+
+For writing, we collaborate using GoogleDocs. For code and analyses we encourage the use of version control (see Wilson et al. paper for what this could look like), stepping toward the use of git and github for sharing code and analyses. We believe there are many advantages of using these tools to help simplify workflows and shift cognitive load to the science being done rather than on organization and bookkeeping (which computers are good at). Recognizing that these tools represent a learning curve, we provide training in their use, and also encourage alternatives for sharing and documenting work. For example, code and analyses may also be shared among collaborators using a GoogleDrive folder.  
+
+
+## Backups and set up to Lab storage server 
+
+The average life expectancy of a hard drive is less than the duration of most graduate programs. Thus it is critical to ensure your data and work are backed up regularly. You may have personal baackup solutions (e.g. through Dropbox, Google Drive, etc.) but the lab has dedicated storage space on a university server that is backed up in multiple locations. Your data should be backed up on here. Information for logging on and accessing this
 See information provided on a [GitHub issue](https://github.com/thefaylab/lab-chat/issues/5)
 
 
@@ -23,4 +43,7 @@ A plug for the online R community. Follow the hashtag #rstats, & also check out 
 [swirlstats.com](swirlstats.com)
 [carpentries R lessons](https://datacarpentry.org/R-ecology-lesson/)
 
+
+## TMB and ADMB
+[resources detail]
 
