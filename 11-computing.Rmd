@@ -4,6 +4,12 @@ Because our work is quantitative, research computing skills are an important par
 
 Fortunuately, there are heaps of resources (including your labmates!) to help you with your learning.  
 
+
+## Set up to Lab server for backups
+
+See information provided on a [GitHub issue](https://github.com/thefaylab/lab-chat/issues/5)
+
+
 ## Introductory R learning resources
 
 Welcome to `R`! There are so many learning resources out there it can feel a little overwhelming in terms of what to choose! Right now, we REALLY like [this short intro course](https://rstudio-conf-2020.github.io/r-for-excel/) by [`@juliesquid`](https://twitter.com/juliesquid) & [`@allisonhorst`](https://twitter.com/allisonhorst). They teach a lot of the workflow and tools around using R right from the get go, which we think is more helpful than knowing how to do all the things. The (excellent) materials are thoughtfully put together, link to a ton of other great resources, and just like the online #rstats community in general, are super supportive of new learners.  
