@@ -8,14 +8,13 @@ Everybody will at some point leave the group. Degrees get completed, jobs are ob
 
 ## Exit Interview
 
-Set up a dedicated time to meet with Gavin and/or your main collaborator (for undergraduate researchers) to talk about your time in the lab, and to go through the below checklist to make sure these have been done. Besides the checklist, things to talk about include the best part of being in our team, whether you got the support you needed and what could we improve for mentoring and training someone in your role in the future.  
-
+Set up a dedicated time to meet with Gavin and/or your main collaborator (for undergraduate researchers) to talk about your time in the lab, and to go through the below checklist to make sure these have been done. Besides the checklist, things to talk about include the best part of being in our team, whether you got the support you needed and what could we improve for mentoring and training someone in your role in the future. 
 
 ## Project Documentation 
 
 Project work should be hosted either in a github repository linked to from the faylab account, or saved on the lab_fay server drive (prefereably both).  
 
-Each project should have an easily found README text file that provides information for others so they can navigate and use your work, and given contact information for authors (and any data creators/use restrictions if propietary data). Ideally, the README should also include links to publications and presentations from the work.  
+Each project should have an easily found README text file that provides information for others so they can navigate and use your work, and give contact information for authors (and any data creators/use restrictions if propietary data). Ideally, the README should also include links to publications and presentations from the work.  
 
 ## Publications and Presentations
 
