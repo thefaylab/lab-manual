@@ -64,7 +64,7 @@ We share our research at local, national, and international meetings, and publis
 
 ### Funding {#exp-funding}
 
-Gavin does not typically accept students into the lab without being able to guarantee at least 2 years of full funding. Students are encouraged to seek and apply for extramural funding to support their work. This includes scholarships and fellowships to pay for salary, but also smaller grants for travel, workshop attendance, or research costs. There are many opportunities out there, particularly for students. Some resources are outlined in Chapter \@{funding}.  
+Gavin does not typically accept students into the lab without being able to guarantee at least 2 years of full funding. Students are encouraged to seek and apply for extramural funding to support their work. This includes scholarships and fellowships to pay for salary, but also smaller grants for travel, workshop attendance, or research costs. There are many opportunities out there, particularly for students. Some resources are outlined in Chapter \@ref(funding).  
 
 
 ## Undergraduate students
