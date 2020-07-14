@@ -84,7 +84,7 @@ In general, postdocs are expected to:
 * Be present and involved in lab meetings, workshops, campus seminars, and conferences.  
 * Provide mentorship, technical support, and assistance to other lab members  
 * Communicate both successes and sticking points on a regular basis with the PI  
-* Work independently and collaboratively
+* Work independently and collaboratively  
 * Participate in professional development opportunities  
 * Lead and assist in designated research projects  
 * Develop and submit proposals to fund future research  
