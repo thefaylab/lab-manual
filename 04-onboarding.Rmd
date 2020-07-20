@@ -17,6 +17,8 @@ SMAST related resources, forms, policies, procedures, calendars, as well as job 
 ## New employee and student onboarding checklists
 [A work in progress.](https://docs.google.com/document/d/1ETgvSJ2ccryVKiEFZPPxgGKP50OxAyPuXed-eNCgQd8/edit?usp=sharing)
 
+* [IT Help](https://www.umassd.edu/cits/help/) for new students and staff/faculty
+
 ## Individual Development/Mentoring plans
 
 Within the first few weeks of joining the Fay Lab, you should work with Gavin to develop a plan outlining your short, medium, and long term goals. More on individual developing plans can be found in Chapter \@ref(expectations).
