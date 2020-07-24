@@ -1,7 +1,7 @@
 # Introduction {#intro}
 
 We do rigorous quantitative science to support decision-making for living marine resource management. We conduct our work using Open Data Science principles, emphasizing scientific excellence (not perfection) that is transparent, reproducible, collaborative, and ethical. We aim to make our methods and results available and support ongoing learning.  
-Our quantitative work is based on statistical thinking, using evidence-based approaches to compare among alternatives for models and managemeent options.  
+Our quantitative work is based on statistical thinking, using evidence-based approaches to compare among alternatives for models and management options.  
 
 See the next chapter for more detail on our lab culture and philosophy. We are motivated heavily by the following two papers - which provide a blueprint for how we think about the way we do our work.  
 
@@ -20,8 +20,8 @@ Currently, we meet virtually by Zoom for weekly lab meetings, individual meeting
 
 Feedback, both giving and receiving it, is an important aspect of our lab. Most of the feedback we give and receive is when giving and attending practice talks. We expect feedback to be supportive but constructive. 
 
-This [resource from UBC](https://scwrl.ubc.ca/student-resources/learning-strategies-for-communicating-science/how-to-give-and-receive-effective-feedback/) does a really great job of outlining the main points of how give and receive feedback. 
+This [resource from UBC](https://scwrl.ubc.ca/student-resources/learning-strategies-for-communicating-science/how-to-give-and-receive-effective-feedback/) does a really great job of outlining the main points of how to give and receive feedback. 
 
 ## How we share things (and send them to Gavin)
 
-[placeholder]
+To come.
