@@ -27,3 +27,5 @@ This lab manual resource is intended to provide an overview for lab members and 
 
 The content for this book was developed as part of our group's participation in the [Openscapes Champions program](https://openscapes.org).  
 We are extremely grateful to and acknowledge [Dr. Julia Stewart Lowndes](https://twitter.com/juliesquid)' role in helping shape how our lab both works and how we articulate our identity.  
+
+[![We're proud Openscapes Champions!](https://allisonhorst.github.io/img/openscapes_hex_badge.png)](https://openscapes.org)

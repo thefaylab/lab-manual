@@ -1,35 +1,11 @@
 # Communication {#communication}
 
-## CV Building
+## Curriculum Vitae
 
 [Link to Lab Google Drive folder with CVs](https://drive.google.com/drive/folders/1_VDBjhUkH4Tx4IeUTPKsmQueFKEhQi4f)
 
-Based on 5/5/2020 Lab Meeting Discussion
-*This is not an exhaustive list but should be used to guide CV development*
+[Link to lab-chat issue on CV building based on 05/05/2020 meeting]()
 
-## CV DOs:
-- Think about target audience (and what job/fellowship/grant you are using the CV for)
-- Keep a modular approach so it is easy to swap the order and move items around
-- Simple formatting is better, such as using headers, bolding and underlining text, and bullet points
-- Develop a master CV to use as a catch all for everything you have done. This can be used to select what items you want to bring into specific CVs
-- Label some sections as "Selected" (i.e., "Selected Presentations" or "Selected Publications"), and only chose the items you wish to showcase. These can be most recent, or focus on showing a diversity of publications/presentations/etc. You can also include a "9 of 15" for your selected works
-- Have **separate** sections for "Published" versus "In Prep/Review" work.
-- Put your thesis/dissertation title in the Education section (instead of in your published work)
-- Consider adding a "Research Interests" section, which is essentially a keywords list. This can be tailored to specific applications as well
-- What to **always** include:
-    - Degrees
-    - Positions held
-    - Publications
-    - Presentations
-    - Awards, Honors, Grants
-    - Professional activities
-
-## CV DO NOTs:
-- Avoid overloading your CV with excessive detail
-- Avoid fancy formatting
-- Avoid mixing published work with in prep/review/theses/dissertations
-- Avoid including personal information (i.e., SSNs, marital status, etc), but also make sure you are including apprpriate contact information
-- In longer CVs, do not bury the essential items (listed above). Keep them clear, succinct, and at the beginning
 
 ## Personal Websites
 
