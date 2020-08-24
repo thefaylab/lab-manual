@@ -17,7 +17,7 @@ rmd_files: [
   "10-courses.Rmd",
   "11-computing.Rmd",
   "12-umassd-resources.Rmd",
-  "13-smast-resources.Rmd",
-  "14-other-faylab-resources.Rmd",  
+#  "13-smast-resources.Rmd",
+#  "14-other-faylab-resources.Rmd",  
 ]
 output_dir: "docs"
