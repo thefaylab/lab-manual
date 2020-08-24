@@ -1,24 +1,57 @@
-# UMass Dartmouth Resources {#umassd-resources}
+# UMass Dartmouth, SMAST, and Fay Lab Resources {#umassd-resources}
 
-## General information about UMass Dartmouth
+## General information about UMass Dartmouth and SMAST
 
-Access SMAST's directory [here](https://www.umassd.edu/smast/about/directory/)...though doesn't get updated frequently.
+The SMAST [Department website](https://www.umassd.edu/smast/) lists all faculty, staff, and students across both departments (DEOS & DFO). This is not updated frequently but may help you in locating a specific person and their contact information.
+
+[SMAST directory](https://www.umassd.edu/smast/about/directory/)...though again doesn't get updated frequently. 
+
+If you need help with a specific task, there are some staff members that are more approproate to contact. Please use the link below to locate someone to help you. For example, if you are planning on traveling (DEOS & DFO), you see that Christine Fox is the primary contact with Sue Silva as the secondary point of contact. 
+
+- [Staff at SMAST that are useful resources](https://github.com/AshleighNovak/Fay-Lab/blob/master/SMAST%20admin%20support%20matrix%20update_REVISED_11.29.18.xlsx) - click on view raw at bottom of page.
+    - An excel spreadsheet which lists the primary and secondary points of contact for SMAST related business will be downloaded to your computer. 
+
+[SMAST occupants portal](https://my.umassd.edu/group/smast-occupants). Login in to 
 
 ### University Codes of Conduct
+
 - [Student conduct and dispute resolution](https://www.umassd.edu/studentaffairs/departments/student-conduct-and-dispute-resolution/)
 - [SMAST's code of conduct and diversity statement](https://www.umassd.edu/smast/about/). Note, link to a word document should be at the bottom of the linked webpage.
 
-### For Grad Students:
+### For Grad Students
+
 - [Official SMAST webpage for current and incoming students](https://www.umassd.edu/smast/admissions--aid/current-students/). This has information on orientation materials, forms, scholarships/fellowships/assistantships, and academics.
 
-### For New Employees:
-- New employee onboarding checklists and paperwork
-  - Key card access -> see Mike Marino, Assistant Dea of Operations (SMAST)
-  - New hire paperwork -> Refer to Leslie Mercure (main campus)
-  - Benefits package questions -> Refer to Sandra Escaleira (main campus)
-  - New hire goodie bag -> Cynthia Costa (SMAST)
-  - Setting up your new laptop/desktop -> Andre Schmidt, Systems Administrator (SMAST)
-      - Andre is useful in getting programs installed on your computer too. If you are staff, the Adobe suite (including Illustrator) is available. 
-- Key contacts if you are a new hire: 
-    - [Leslie Mercure: Recruitment Manager & Sandra Escaleira: Benefits Specialist](https://www.umassd.edu/hr/hr-team/)
-- [Parking](https://www.umassd.edu/parking/) and transportation: Parking at SMAST is free and if you are a new hire (staff) then parking on Main Campus is also free. Go to the lower level of the campus center on Main Campus to get a parking decal. But there is short/temporary parking available on campus so you may feel it's not necessary to obtain a pass. It's up to you and your preferences!
+### For Employees
+
+- [Employee resources](https://www.umassd.edu/hr/employee-resources/)
+- [Human Resources](https://www.umassd.edu/hr/)
+
+##  Fay Lab Resources
+
+*[Fay Lab website](http://www.smast.umassd.edu/lab_fay/)
+*Fay Lab Google Drive & Calendar - ask Ashleigh for a link to access & collaborate!
+    - Lab email -> thefaylab@gmail.com
+*[Fay Lab GitHub account](https://github.com/thefaylab)
+    - Lab-chat repository houses an Issues list that retains institutional and Fay Lab knowledge. It's private so be sure to ask Gavin for access!
+*[Our current team](http://www.smast.umassd.edu/lab_fay/?page_id=10) 
+*[Lab publications](http://www.smast.umassd.edu/lab_fay/?page_id=15)
+*Professional development materials: [Jobs, Grants, & Degrees](https://github.com/thefaylab/labhub/wiki/Job,-Funding,-and-Degree-Resources)
+*Outreach opportunities
+    - [UMassD Society for Women in Marine Science (SWMS) Chapter](https://twitter.com/swms_umassd)
+    - UMassD Underrepresented Women as Leaders in STEAM 
+*[Travel Procedures](https://github.com/thefaylab/labhub/blob/master/02-protocols/Travel.Rmd)
+
+### Weekly Lab Meetings
+- Every Tuesday from 1 - 2:30 PM EST
+- On occasion, this time is used for [Quantfish woRkshops](https://twitter.com/gavin_fay/status/1247634965782806529?lang=en) where lab members or invited guests come to teach the group and larger community a quantative skill (could be an introduction to a new R package, new statistical tool, etc)
+
+### Shut Up and Write
+- Every Thursday from 3 - 4:30 PM EST (besides the 1st Thursday of every month which is reserved for Hacky Hour -> see below!)
+- Pomodoro-style workflow. Three, 20-minute sessions interspersed by ~5 minute breaks.
+
+### Hacky Hours/Southcoast useR group
+- 1st Thursday of every month
+- Mixed bag including working through tidy tuesdays, informal feedback presentations, etc.
+
+![](img/fay_lab.png)
