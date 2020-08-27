@@ -1,46 +1,42 @@
 # Communication {#communication}
 
-## CV Building
+Communication includes both communicating with the team, your peers, and collaborators, and also communicating your work to others.  
 
-[Link to Lab Google Drive folder with CVs](https://drive.google.com/drive/folders/1_VDBjhUkH4Tx4IeUTPKsmQueFKEhQi4f)
+Acknowledge communication, and engage with others about your work.  
+If someone works on something for you or provides you with feedback on your work, thank them and engage with them on their feedback. Our science improves by engaging with conversations about your work. View such interactions as opportunities to be collaborative rather than evaluative. Chances are if someone asks you questions about your work it is because they are interested in your science.   
+Acknowledging communication and thanking others for their work is part of professional , and it also helps collaboration by continuing conversation.  
+While our philosophy applies, in that you shouldn't feel like you have to be on email all the time, don't let you email inbox become a black hole where questions / thoughts  get sucked into and no response emerges.  
 
-Based on 5/5/2020 Lab Meeting Discussion
-*This is not an exhaustive list but should be used to guide CV development*
+We also believe in being intentional in communicating our work. While publishing and conference presentations are thought of as the standard forms in which science is disseminated, there are a large number of ways in which you can communicate your work with others, depending on your audiences and chosen levels of engagement. You should always invest in these at the level that is of interest to you. Here are some things we recommend as members of our team.  
 
-## CV DOs:
-- Think about target audience (and what job/fellowship/grant you are using the CV for)
-- Keep a modular approach so it is easy to swap the order and move items around
-- Simple formatting is better, such as using headers, bolding and underlining text, and bullet points
-- Develop a master CV to use as a catch all for everything you have done. This can be used to select what items you want to bring into specific CVs
-- Label some sections as "Selected" (i.e., "Selected Presentations" or "Selected Publications"), and only chose the items you wish to showcase. These can be most recent, or focus on showing a diversity of publications/presentations/etc. You can also include a "9 of 15" for your selected works
-- Have **separate** sections for "Published" versus "In Prep/Review" work.
-- Put your thesis/dissertation title in the Education section (instead of in your published work)
-- Consider adding a "Research Interests" section, which is essentially a keywords list. This can be tailored to specific applications as well
-- What to **always** include:
-    - Degrees
-    - Positions held
-    - Publications
-    - Presentations
-    - Awards, Honors, Grants
-    - Professional activities
 
-## CV DO NOTs:
-- Avoid overloading your CV with excessive detail
-- Avoid fancy formatting
-- Avoid mixing published work with in prep/review/theses/dissertations
-- Avoid including personal information (i.e., SSNs, marital status, etc), but also make sure you are including apprpriate contact information
-- In longer CVs, do not bury the essential items (listed above). Keep them clear, succinct, and at the beginning
+## Curriculum Vita
+
+Keep your CV up to date. We share our CVs within the group in [this Google Drive folder](https://drive.google.com/drive/folders/1_VDBjhUkH4Tx4IeUTPKsmQueFKEhQi4f), both to give each other ideas about what to include, but also having these in one place makes it easier for Gavin and others to reference information from them when needed.  
+
+[Here is a link to a lab-chat issue on CV building based on a 05/05/2020 lab meeting.](https://github.com/thefaylab/lab-chat/issues/10)
+
+
+### Google Scholar profiles
+Having a Google Scholar profile is a very easy way to curate your web presence and have a place where people can find you and your published papers, etc.  
+We recommend everyone sets up a Google Scholar profile as soon as they have a paper or technical report. It takes about 5-10 minutes to set up, and one advantage is that Google Scholar self-updates and will add your papers, citations, etc. as you publish and people use your work. A really easy step to creating a web presence without having to set up a website
+
 
 ## Personal Websites
 
-Information has been adapted from Gavin's Web Presence Lecture from his Science Communication course (MAR 580)
-
-**Why have a curated website?**
+**Why have your own website?**
 
 1. People will Google you. They might as well see what you want them to.
 2. Give people an easy way to find you and your work.
 
+One way to do this is a personal website. This doesn't have to be extensive, but can be a good way to curate your web presence.  
+
+There are heaps of tools out there to create and publish websites. Our recommendation is to choose something that it is easy to update, and fun / interesting for you to use. Many options are free.  
+Some options for creating sites include: GoogleSites, Weebly, Squarespace, WordPress, R Markdown, Github.  
+
 **What should you include?**
+
+Ultimately this is up to you and how you would like to present yourself and your work. But some common things you could include are:
 *not an exhaustive list*
 
 - BioSketch
@@ -51,18 +47,30 @@ Information has been adapted from Gavin's Web Presence Lecture from his Science 
 - Blog posts
 - Contact info
 
+
+## Twitter
+
+Twitter is a great tool for interacting with others about your science. It is also a great platform for learning about new research and papers, finding out about jobs and fellowships, learning and discussing methods, discussing topics about how we do science, professional development, mental health and expectations around science and graduate school, and is a great venue for bringing ones whole self to the science. etc. Most of us have our own Twitter accounts. Everyone in the lab can post to the lab Twitter account too. Ask Ashleigh if you are interested in doing a takeover of thefaylab account for a week (which could also be a chance to dip your toe in to Twitter if you don't use it).  
+
+[link to paper on use of twitter for rstats!]
+
 ## Social Media
 
-Platforms
+[Link to papers on social media in fisheries ]
+
+As you know, there are many social media platforms, and many (all?) of these are being used in some way by some for science communication. This includes but not limited to: 
 
 - Twitter
 - Instagram
 - Facebook
 - LinkedIn
+- TikTok
+- Youtube
 - Researchgate
 
-All have a different purpose and type of engagement.
-
-Most important tip: Think deliberately about how you want to use these tools. It is important to remember you are essentially **building a ‘brand’** for yourself using these platforms. For example, it may be useful to have a science twitter (in addition to a personal one if you have one) where you exclusively follow and engage with scientists, journals, organizations, etc to directly interact with science that your interested in. 
+All have a different purpose and type of engagement. Think deliberately about how (and if) you want to use these tools. Using social media as part of your science communication portfolio can be useful and is popular, but it is not a requirement to be a successful scientist.  
 
 
+## Contributing to regional publications  
+
+[more to come on engaging with our local press, etc.]
