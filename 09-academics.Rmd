@@ -15,6 +15,9 @@ Most students take many of their core program requirements in the first year. An
 
 Thesis credits: These are required for both MS (thesis-based) and PhD degrees. For the PhD, research credits take the form of pre-dissertation credits if completed before advancing to candidacy. Pre-dissertation research credits taken during the semester in which a student completes their comprehensive exams (i.e. passes their proposal defense) can be converted after the fact to dissertation credits. Once thesis and dissertation credit requirements have been met, MS and PhD students will often maintain registration through 'continuation of program' credit, where no credits are earned but enrollment status is maintained.  
 
+[UMassD student thesis templates and guidance](https://www.umassd.edu/graduate/student-resources/)
+
+[Chang Liu's LaTeX thesis templates](https://github.com/cliu3/SMAST-Thesis-Template)
 
 ## MS students
 
