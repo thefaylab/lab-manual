@@ -25,13 +25,13 @@ Several SMAST courses are offered on an alternating basis every 2 years. Particu
 
 Most students take many of their core program requirements (denoted below with [C] or [PC] for policy core courses) in the first year. An exception may be PhD students who save one of the Oceanography requirements for the 2nd year, depending on other courses.  
 
-#### Fall 
+*Fall*
 MAR 540: Introduction to Fisheries Science (Stokesbury)  
 MAR 544: Stock Assessment of Fishery Resources (even years) (Cadrin)  
 MAR 555: Introduction to Physical Oceanography (Cowles/Sundermeyer)  [C]  
 MAR 700: Graduate Seminar (Fisheries Oceanography)  [C]  
 
-#### Spring  
+*Spring*
 MAR 545: Biological Oceanography (Turner) [C]  
 MAR 536: Biological Statistics II (Fay) (even years)  
 MAR 530: Ecosystem-Based Fisheries Management (odd years) (Fay)  [PC]  
@@ -46,15 +46,15 @@ MAR 580: Advanced Population Modeling (Fay) (odd years)
 
 ### Other courses you might want to take
 
-## Fall
+*Fall*
 MAR 525: US Ocean Policy (Pierce, fall even yrs)  [PC]
 MAR 522: Science Communication for Research Scientists (Fay, fall)
 MAR 599: Bayesian Statistics and Hierarchical Modeling (Fay, fall even yrs)
 MAR 527: Fisheries Management (Cadrin, fall odd yrs)
-## Spring
+*Spring*
 BIO XXX: Biological Statistics I (Kozak, spring)
 MAR 622: Stock Identification Methods (Cadrin, spring even)
-## Based on interest
+*Based on interest*
 MAR 5XX: Marine Resource Economics (Griffin & DePiper)  [PC]
 MAR 580: Conservation in World Marine Capture Fisheries (He)  [PC]
 MAR 580: Fish Behavior & Conservation Engineering (He)  
