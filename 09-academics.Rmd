@@ -15,6 +15,9 @@ Most students take many of their core program requirements in the first year. An
 
 Thesis credits: These are required for both MS (thesis-based) and PhD degrees. For the PhD, research credits take the form of pre-dissertation credits if completed before advancing to candidacy. Pre-dissertation research credits taken during the semester in which a student completes their comprehensive exams (i.e. passes their proposal defense) can be converted after the fact to dissertation credits. Once thesis and dissertation credit requirements have been met, MS and PhD students will often maintain registration through 'continuation of program' credit, where no credits are earned but enrollment status is maintained.  
 
+[UMassD student thesis templates and guidance](https://www.umassd.edu/graduate/student-resources/)
+
+[Chang Liu's LaTeX thesis templates](https://github.com/cliu3/SMAST-Thesis-Template)
 
 ## MS students
 
@@ -28,7 +31,7 @@ MS Thesis: [guidance on thesis structure to come]
 
 ## Ph.D. students  
 
-A PhD dissertation in the Fay lab tends to comprise chapters that will form ~4 publications. Gavin encourages students to think about dissertation chapters as publishable units. In the dissertation, these 4 chapters will be accompanied by a general Introduction, and a concluding synthesis chapter that ties the work presented in the dissertation together under the overarching research theme and goals.  
+A PhD dissertation in the Fay lab tends to comprise chapters that will form ~4 publications. Gavin encourages students to think about dissertation chapters as publishable units. In the dissertation, these 4 chapters will be accompanied by a general Introduction, and a concluding synthesis chapter that ties the work presented in the dissertation together under the overarching research theme and goals. Having some of your chapters published before your dissertation defense is benefical as it is less writing at the end of your degree and it is less likely that your committee will require additional work if your chapter(s) have been peer-reviewed and published. 
 
 Milestones
 
