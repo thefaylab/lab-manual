@@ -16,7 +16,6 @@ description: "This is the lab manual for the Fay Lab at the University of Massac
 Welcome to our book of magical secrets.  
 
 <br>
-
 This is the lab manual for the Fay Lab at the University of Massachusetts Dartmouth School for Marine Science and Technology.  
 The focus of our work centers around developing interdisciplinary modeling approaches to extend the scope of applications for fisheries and ecosystem-based management. More about our group's research activity can be found on our [website](https://thefaylab.com).
 
@@ -28,4 +27,10 @@ This lab manual resource is intended to provide an overview for lab members and 
 The content for this book was developed as part of our group's participation in the [Openscapes Champions program](https://openscapes.org).  
 We are extremely grateful to and acknowledge [Dr. Julia Stewart Lowndes](https://twitter.com/juliesquid)' role in helping shape how our lab both works and how we articulate our identity.  
 
-[![We're proud Openscapes Champions!](https://allisonhorst.github.io/img/openscapes_hex_badge.png)](https://openscapes.org)
+
+
+```{r, out.width = "25%", echo = FALSE}
+knitr::include_graphics("https://allisonhorst.github.io/img/openscapes_hex_badge.png")
+```
+<br>
+*[We're proud Openscapes Champions!](https://openscapes.org)*
