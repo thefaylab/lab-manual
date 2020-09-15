@@ -1,7 +1,7 @@
 --- 
 title: "Faylab Lab Manual"
 author: "Gavin Fay & Ashleigh Novak"
-date: "`r Sys.Date()`"
+date: "Last updated: `r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
