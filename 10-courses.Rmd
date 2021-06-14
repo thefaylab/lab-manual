@@ -61,7 +61,7 @@ MAR 580: Fish Behavior & Conservation Engineering (He)
 MAR 580: Field Methods in Fisheries Research (Cadrin/Bethoney)
 
 
-Of course there are lots of other course offerings - these are the ones that lab members have taken more than once. For present semester offerings, see the [SMAST website](https://www.umassd.edu/smast/academics/course-list/). Full list of current SMAST courses and for which courses meet IMS core course requirements can be found [here](https://github.com/thefaylab/lab-manual/blob/master/_book/smast_curriculum.html).  
+Of course there are lots of other course offerings - these are the ones that lab members have taken more than once. For present semester offerings, see the [SMAST website](https://www.umassd.edu/smast/academics/course-list/). Full list of current SMAST courses and for which courses meet IMS core course requirements can be found [here](https://thefaylab.github.io/lab-manual/smast_curriculum.html).  
 
 
 ### Other UMassD courses 
