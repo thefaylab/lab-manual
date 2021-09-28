@@ -38,3 +38,12 @@ Writing: Preferably via GoogleDoc, R Markdown, or Overleaf, but MS Word document
 We also share our insitutional knowledge through our lab-chat github 'issues' repository. This is community-driven troubleshooting resource, contribute!  
 
 We maintain a lab Google Drive folder for lab publications, presentations, photos, CVs, etc. Please make use of these so that others in the lab can make fair use of our work.  
+
+## Shared lab resources 
+Where to find shared resources:
+- Google Drive - You will be given access to the shared drive during onboarding, take a look at the Lab Meetings folder to find Lab Meeting Notes for each semester (previously called the Supercharge Plan)
+- GitHub - thefaylab is the shared GitHub account for the lab
+  - lab-manual - This repository contains the lab manual, see section \ref{#umassd-resources} for other useful resources and take a look at the Wiki to see the lab meeting schedule
+  - lab-chat - This repository contains shared institutional knowledge for the Fay lab, take a look at Issue #22 for Zoom meeting links
+- Website - Take a look at the lab website, most of its information is duplicated in one of the above resources: http://www.smast.umassd.edu/lab_fay/
+
