@@ -1,30 +1,29 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<html lang="" xml:lang="">
 <head>
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Chapter 10 Courses | A Minimal Book Example</title>
-  <meta name="description" content="This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook." />
-  <meta name="generator" content="bookdown 0.16 and GitBook 2.6.7" />
+  <title>Chapter 11 Courses | Faylab Lab Manual</title>
+  <meta name="description" content="This is the lab manual for the Fay Lab at the University of Massachusetts Dartmouth School for Marine Science and Technology" />
+  <meta name="generator" content="bookdown 0.24 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="Chapter 10 Courses | A Minimal Book Example" />
+  <meta property="og:title" content="Chapter 11 Courses | Faylab Lab Manual" />
   <meta property="og:type" content="book" />
   
   
-  <meta property="og:description" content="This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook." />
-  
+  <meta property="og:description" content="This is the lab manual for the Fay Lab at the University of Massachusetts Dartmouth School for Marine Science and Technology" />
+  <meta name="github-repo" content="thefaylab/lab-manual" />
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Chapter 10 Courses | A Minimal Book Example" />
+  <meta name="twitter:title" content="Chapter 11 Courses | Faylab Lab Manual" />
   
-  <meta name="twitter:description" content="This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook." />
+  <meta name="twitter:description" content="This is the lab manual for the Fay Lab at the University of Massachusetts Dartmouth School for Marine Science and Technology" />
   
 
-<meta name="author" content="Yihui Xie" />
+<meta name="author" content="Gavin Fay &amp; Ashleigh Novak" />
 
 
-<meta name="date" content="2020-05-21" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -32,8 +31,9 @@
   
   
 <link rel="prev" href="academics.html"/>
-<link rel="next" href="computing-resources.html"/>
-<script src="libs/jquery-2.2.3/jquery.min.js"></script>
+<link rel="next" href="computing.html"/>
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
@@ -49,71 +49,12 @@
 
 
 
+<script src="libs/accessible-code-block-0.0.1/empty-anchor.js"></script>
+<link href="libs/anchor-sections-1.0.1/anchor-sections.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.0.1/anchor-sections.js"></script>
 
 
 
-<style type="text/css">
-a.sourceLine { display: inline-block; line-height: 1.25; }
-a.sourceLine { pointer-events: none; color: inherit; text-decoration: inherit; }
-a.sourceLine:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode { white-space: pre; position: relative; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
-}
-@media print {
-code.sourceCode { white-space: pre-wrap; }
-a.sourceLine { text-indent: -1em; padding-left: 1em; }
-}
-pre.numberSource a.sourceLine
-  { position: relative; left: -4em; }
-pre.numberSource a.sourceLine::before
-  { content: attr(data-line-number);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; pointer-events: all; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-    color: #aaaaaa;
-  }
-pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
-div.sourceCode
-  {  }
-@media screen {
-a.sourceLine::before { text-decoration: underline; }
-}
-code span.al { color: #ff0000; font-weight: bold; } /* Alert */
-code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
-code span.at { color: #7d9029; } /* Attribute */
-code span.bn { color: #40a070; } /* BaseN */
-code span.bu { } /* BuiltIn */
-code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
-code span.ch { color: #4070a0; } /* Char */
-code span.cn { color: #880000; } /* Constant */
-code span.co { color: #60a0b0; font-style: italic; } /* Comment */
-code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
-code span.do { color: #ba2121; font-style: italic; } /* Documentation */
-code span.dt { color: #902000; } /* DataType */
-code span.dv { color: #40a070; } /* DecVal */
-code span.er { color: #ff0000; font-weight: bold; } /* Error */
-code span.ex { } /* Extension */
-code span.fl { color: #40a070; } /* Float */
-code span.fu { color: #06287e; } /* Function */
-code span.im { } /* Import */
-code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
-code span.kw { color: #007020; font-weight: bold; } /* Keyword */
-code span.op { color: #666666; } /* Operator */
-code span.ot { color: #007020; } /* Other */
-code span.pp { color: #bc7a00; } /* Preprocessor */
-code span.sc { color: #4070a0; } /* SpecialChar */
-code span.ss { color: #bb6688; } /* SpecialString */
-code span.st { color: #4070a0; } /* String */
-code span.va { color: #19177c; } /* Variable */
-code span.vs { color: #4070a0; } /* VerbatimString */
-code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
-</style>
 
 <link rel="stylesheet" href="style.css" type="text/css" />
 </head>
@@ -128,34 +69,113 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
       <nav role="navigation">
 
 <ul class="summary">
-<li><a href="./">A Minimal Book Example</a></li>
+<li><a href="./">Faylab manual</a></li>
+<li><a href="http://www.thefaylab.com">← Back to thefaylab.com</a></i>
 
 <li class="divider"></li>
-<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Prerequisites</a></li>
-<li class="chapter" data-level="2" data-path="intro.html"><a href="intro.html"><i class="fa fa-check"></i><b>2</b> Introduction</a></li>
-<li class="chapter" data-level="3" data-path="literature.html"><a href="literature.html"><i class="fa fa-check"></i><b>3</b> Literature</a></li>
-<li class="chapter" data-level="4" data-path="code-of-conduct.html"><a href="code-of-conduct.html"><i class="fa fa-check"></i><b>4</b> Code of Conduct</a></li>
+<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Welcome!</a></li>
+<li class="chapter" data-level="2" data-path="intro.html"><a href="intro.html"><i class="fa fa-check"></i><b>2</b> Introduction</a><ul>
+<li class="chapter" data-level="2.1" data-path="intro.html"><a href="intro.html#how-we-meet"><i class="fa fa-check"></i><b>2.1</b> How we meet</a></li>
+<li class="chapter" data-level="2.2" data-path="intro.html"><a href="intro.html#how-we-give-feedback"><i class="fa fa-check"></i><b>2.2</b> How we give feedback</a></li>
+<li class="chapter" data-level="2.3" data-path="intro.html"><a href="intro.html#how-we-share-things-and-send-them-to-gavin"><i class="fa fa-check"></i><b>2.3</b> How we share things (and send them to Gavin)</a></li>
+<li class="chapter" data-level="2.4" data-path="intro.html"><a href="intro.html#shared-lab-resources"><i class="fa fa-check"></i><b>2.4</b> Shared lab resources</a></li>
+</ul></li>
+<li class="chapter" data-level="3" data-path="culture.html"><a href="culture.html"><i class="fa fa-check"></i><b>3</b> Lab culture and philosophy</a></li>
+<li class="chapter" data-level="4" data-path="code.html"><a href="code.html"><i class="fa fa-check"></i><b>4</b> Code of Conduct</a><ul>
+<li class="chapter" data-level="4.1" data-path="code.html"><a href="code.html#short-version"><i class="fa fa-check"></i><b>4.1</b> Short version</a></li>
+<li class="chapter" data-level="4.2" data-path="code.html"><a href="code.html#longer-version"><i class="fa fa-check"></i><b>4.2</b> Longer version</a><ul>
+<li class="chapter" data-level="4.2.1" data-path="code.html"><a href="code.html#reporting"><i class="fa fa-check"></i><b>4.2.1</b> Reporting</a></li>
+<li class="chapter" data-level="4.2.2" data-path="code.html"><a href="code.html#consequences"><i class="fa fa-check"></i><b>4.2.2</b> Consequences</a></li>
+<li class="chapter" data-level="4.2.3" data-path="code.html"><a href="code.html#additional-resources"><i class="fa fa-check"></i><b>4.2.3</b> Additional resources</a></li>
+</ul></li>
+<li class="chapter" data-level="4.3" data-path="code.html"><a href="code.html#license-and-attribution"><i class="fa fa-check"></i><b>4.3</b> License and attribution</a></li>
+</ul></li>
 <li class="chapter" data-level="5" data-path="onboarding.html"><a href="onboarding.html"><i class="fa fa-check"></i><b>5</b> Onboarding</a><ul>
-<li class="chapter" data-level="5.1" data-path="onboarding.html"><a href="onboarding.html#example-one"><i class="fa fa-check"></i><b>5.1</b> Example one</a></li>
-<li class="chapter" data-level="5.2" data-path="onboarding.html"><a href="onboarding.html#example-two"><i class="fa fa-check"></i><b>5.2</b> Example two</a></li>
+<li class="chapter" data-level="5.1" data-path="onboarding.html"><a href="onboarding.html#myumassd-smast-occupants-page"><i class="fa fa-check"></i><b>5.1</b> MyUMassD SMAST Occupants page</a></li>
+<li class="chapter" data-level="5.2" data-path="onboarding.html"><a href="onboarding.html#new-employee-and-student-onboarding-checklists"><i class="fa fa-check"></i><b>5.2</b> New employee and student onboarding checklists</a></li>
+<li class="chapter" data-level="5.3" data-path="onboarding.html"><a href="onboarding.html#individual-developmentmentoring-plans"><i class="fa fa-check"></i><b>5.3</b> Individual Development/Mentoring plans</a></li>
+<li class="chapter" data-level="5.4" data-path="onboarding.html"><a href="onboarding.html#timesheets"><i class="fa fa-check"></i><b>5.4</b> Timesheets</a></li>
+<li class="chapter" data-level="5.5" data-path="onboarding.html"><a href="onboarding.html#facilities"><i class="fa fa-check"></i><b>5.5</b> Facilities</a><ul>
+<li class="chapter" data-level="5.5.1" data-path="onboarding.html"><a href="onboarding.html#office-space"><i class="fa fa-check"></i><b>5.5.1</b> Office space</a></li>
+<li class="chapter" data-level="5.5.2" data-path="onboarding.html"><a href="onboarding.html#key-card-building-room-access"><i class="fa fa-check"></i><b>5.5.2</b> Key card building &amp; room access</a></li>
+<li class="chapter" data-level="5.5.3" data-path="onboarding.html"><a href="onboarding.html#parking-and-transportation"><i class="fa fa-check"></i><b>5.5.3</b> Parking and transportation:</a></li>
 </ul></li>
-<li class="chapter" data-level="6" data-path="expectations.html"><a href="expectations.html"><i class="fa fa-check"></i><b>6</b> Expectations</a></li>
-<li class="chapter" data-level="7" data-path="off-boarding.html"><a href="off-boarding.html"><i class="fa fa-check"></i><b>7</b> Off-boarding</a></li>
+</ul></li>
+<li class="chapter" data-level="6" data-path="expectations.html"><a href="expectations.html"><i class="fa fa-check"></i><b>6</b> Expectations</a><ul>
+<li class="chapter" data-level="6.1" data-path="expectations.html"><a href="expectations.html#working-hours"><i class="fa fa-check"></i><b>6.1</b> Working hours</a></li>
+<li class="chapter" data-level="6.2" data-path="expectations.html"><a href="expectations.html#email"><i class="fa fa-check"></i><b>6.2</b> Email</a></li>
+<li class="chapter" data-level="6.3" data-path="expectations.html"><a href="expectations.html#attendance-at-regularly-scheduled-events"><i class="fa fa-check"></i><b>6.3</b> Attendance at regularly scheduled events</a></li>
+<li class="chapter" data-level="6.4" data-path="expectations.html"><a href="expectations.html#outreach"><i class="fa fa-check"></i><b>6.4</b> Outreach</a></li>
+<li class="chapter" data-level="6.5" data-path="expectations.html"><a href="expectations.html#expectations-for-the-pi"><i class="fa fa-check"></i><b>6.5</b> Expectations for the PI</a></li>
+<li class="chapter" data-level="6.6" data-path="expectations.html"><a href="expectations.html#graduate-students"><i class="fa fa-check"></i><b>6.6</b> Graduate students</a><ul>
+<li class="chapter" data-level="6.6.1" data-path="expectations.html"><a href="expectations.html#exp-funding"><i class="fa fa-check"></i><b>6.6.1</b> Funding</a></li>
+</ul></li>
+<li class="chapter" data-level="6.7" data-path="expectations.html"><a href="expectations.html#undergraduate-students"><i class="fa fa-check"></i><b>6.7</b> Undergraduate students</a></li>
+<li class="chapter" data-level="6.8" data-path="expectations.html"><a href="expectations.html#postdoctoral-researchers"><i class="fa fa-check"></i><b>6.8</b> Postdoctoral researchers</a></li>
+<li class="chapter" data-level="6.9" data-path="expectations.html"><a href="expectations.html#research-staff"><i class="fa fa-check"></i><b>6.9</b> Research staff</a></li>
+</ul></li>
+<li class="chapter" data-level="7" data-path="offboarding.html"><a href="offboarding.html"><i class="fa fa-check"></i><b>7</b> Offboarding</a><ul>
+<li class="chapter" data-level="7.1" data-path="offboarding.html"><a href="offboarding.html#exit-interview"><i class="fa fa-check"></i><b>7.1</b> Exit Interview</a></li>
+<li class="chapter" data-level="7.2" data-path="offboarding.html"><a href="offboarding.html#project-documentation"><i class="fa fa-check"></i><b>7.2</b> Project Documentation</a></li>
+<li class="chapter" data-level="7.3" data-path="offboarding.html"><a href="offboarding.html#publications-and-presentations"><i class="fa fa-check"></i><b>7.3</b> Publications and Presentations</a></li>
+<li class="chapter" data-level="7.4" data-path="offboarding.html"><a href="offboarding.html#data"><i class="fa fa-check"></i><b>7.4</b> Data</a></li>
+<li class="chapter" data-level="7.5" data-path="offboarding.html"><a href="offboarding.html#code-1"><i class="fa fa-check"></i><b>7.5</b> Code</a></li>
+<li class="chapter" data-level="7.6" data-path="offboarding.html"><a href="offboarding.html#timelines-for-publications"><i class="fa fa-check"></i><b>7.6</b> Timelines for publications</a></li>
+<li class="chapter" data-level="7.7" data-path="offboarding.html"><a href="offboarding.html#turning-in-equipment"><i class="fa fa-check"></i><b>7.7</b> Turning in equipment</a></li>
+<li class="chapter" data-level="7.8" data-path="offboarding.html"><a href="offboarding.html#lab-library"><i class="fa fa-check"></i><b>7.8</b> Lab library</a></li>
+<li class="chapter" data-level="7.9" data-path="offboarding.html"><a href="offboarding.html#removing-key-card-access"><i class="fa fa-check"></i><b>7.9</b> Removing key card access</a></li>
+</ul></li>
 <li class="chapter" data-level="8" data-path="funding.html"><a href="funding.html"><i class="fa fa-check"></i><b>8</b> Funding</a></li>
-<li class="chapter" data-level="9" data-path="academics.html"><a href="academics.html"><i class="fa fa-check"></i><b>9</b> Academics</a></li>
-<li class="chapter" data-level="10" data-path="courses.html"><a href="courses.html"><i class="fa fa-check"></i><b>10</b> Courses</a><ul>
-<li class="chapter" data-level="10.1" data-path="courses.html"><a href="courses.html#suggested-course-schedule"><i class="fa fa-check"></i><b>10.1</b> Suggested course schedule</a><ul>
-<li class="chapter" data-level="10.1.1" data-path="courses.html"><a href="courses.html#year-1"><i class="fa fa-check"></i><b>10.1.1</b> Year 1</a></li>
-<li class="chapter" data-level="10.1.2" data-path="courses.html"><a href="courses.html#other-courses-gavin-will-strongly-suggest-you-take"><i class="fa fa-check"></i><b>10.1.2</b> Other courses Gavin will strongly ‘suggest’ you take</a></li>
-<li class="chapter" data-level="10.1.3" data-path="courses.html"><a href="courses.html#other-courses-you-might-want-to-take"><i class="fa fa-check"></i><b>10.1.3</b> Other courses you might want to take</a></li>
-<li class="chapter" data-level="10.1.4" data-path="courses.html"><a href="courses.html#other-umassd-courses"><i class="fa fa-check"></i><b>10.1.4</b> Other UMassD courses</a></li>
-<li class="chapter" data-level="10.1.5" data-path="courses.html"><a href="courses.html#courses-outside-of-umass-dartmouth"><i class="fa fa-check"></i><b>10.1.5</b> Courses outside of UMass Dartmouth</a></li>
+<li class="chapter" data-level="9" data-path="communication.html"><a href="communication.html"><i class="fa fa-check"></i><b>9</b> Communication</a><ul>
+<li class="chapter" data-level="9.1" data-path="communication.html"><a href="communication.html#inclusive-science-communication"><i class="fa fa-check"></i><b>9.1</b> Inclusive science communication</a></li>
+<li class="chapter" data-level="9.2" data-path="communication.html"><a href="communication.html#curriculum-vitae"><i class="fa fa-check"></i><b>9.2</b> Curriculum Vitae</a><ul>
+<li class="chapter" data-level="9.2.1" data-path="communication.html"><a href="communication.html#google-scholar-profiles"><i class="fa fa-check"></i><b>9.2.1</b> Google Scholar profiles</a></li>
+</ul></li>
+<li class="chapter" data-level="9.3" data-path="communication.html"><a href="communication.html#personal-websites"><i class="fa fa-check"></i><b>9.3</b> Personal Websites</a></li>
+<li class="chapter" data-level="9.4" data-path="communication.html"><a href="communication.html#twitter"><i class="fa fa-check"></i><b>9.4</b> Twitter</a></li>
+<li class="chapter" data-level="9.5" data-path="communication.html"><a href="communication.html#social-media"><i class="fa fa-check"></i><b>9.5</b> Social Media</a></li>
+<li class="chapter" data-level="9.6" data-path="communication.html"><a href="communication.html#contributing-to-regional-publications"><i class="fa fa-check"></i><b>9.6</b> Contributing to regional publications</a></li>
+</ul></li>
+<li class="chapter" data-level="10" data-path="academics.html"><a href="academics.html"><i class="fa fa-check"></i><b>10</b> Academics</a><ul>
+<li class="chapter" data-level="10.1" data-path="academics.html"><a href="academics.html#ms-students"><i class="fa fa-check"></i><b>10.1</b> MS students</a></li>
+<li class="chapter" data-level="10.2" data-path="academics.html"><a href="academics.html#ph.d.-students"><i class="fa fa-check"></i><b>10.2</b> Ph.D. students</a><ul>
+<li class="chapter" data-level="10.2.1" data-path="academics.html"><a href="academics.html#pre-proposal-or-preposal-copyright-m.-winton"><i class="fa fa-check"></i><b>10.2.1</b> Pre-proposal <em>(or “Preposal”, copyright M. Winton)</em></a></li>
+<li class="chapter" data-level="10.2.2" data-path="academics.html"><a href="academics.html#dissertation-committee"><i class="fa fa-check"></i><b>10.2.2</b> Dissertation Committee</a></li>
+<li class="chapter" data-level="10.2.3" data-path="academics.html"><a href="academics.html#comprehensive-exams"><i class="fa fa-check"></i><b>10.2.3</b> Comprehensive Exams</a></li>
+<li class="chapter" data-level="10.2.4" data-path="academics.html"><a href="academics.html#dissertation-proposal"><i class="fa fa-check"></i><b>10.2.4</b> Dissertation Proposal</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="11" data-path="computing-resources.html"><a href="computing-resources.html"><i class="fa fa-check"></i><b>11</b> Computing resources</a></li>
-<li class="chapter" data-level="12" data-path="umass-dartmouth-resources.html"><a href="umass-dartmouth-resources.html"><i class="fa fa-check"></i><b>12</b> UMass Dartmouth resources</a></li>
-<li class="chapter" data-level="13" data-path="smast-resources.html"><a href="smast-resources.html"><i class="fa fa-check"></i><b>13</b> SMAST resources</a></li>
-<li class="chapter" data-level="14" data-path="other-faylab-resources.html"><a href="other-faylab-resources.html"><i class="fa fa-check"></i><b>14</b> Other Faylab resources</a></li>
+<li class="chapter" data-level="11" data-path="courses.html"><a href="courses.html"><i class="fa fa-check"></i><b>11</b> Courses</a><ul>
+<li class="chapter" data-level="11.1" data-path="courses.html"><a href="courses.html#suggested-course-schedule"><i class="fa fa-check"></i><b>11.1</b> Suggested course schedule</a><ul>
+<li class="chapter" data-level="11.1.1" data-path="courses.html"><a href="courses.html#year-1"><i class="fa fa-check"></i><b>11.1.1</b> Year 1</a></li>
+<li class="chapter" data-level="11.1.2" data-path="courses.html"><a href="courses.html#other-courses-gavin-will-strongly-suggest-you-take"><i class="fa fa-check"></i><b>11.1.2</b> Other courses Gavin will strongly ‘suggest’ you take</a></li>
+<li class="chapter" data-level="11.1.3" data-path="courses.html"><a href="courses.html#other-courses-you-might-want-to-take"><i class="fa fa-check"></i><b>11.1.3</b> Other courses you might want to take</a></li>
+<li class="chapter" data-level="11.1.4" data-path="courses.html"><a href="courses.html#other-umassd-courses"><i class="fa fa-check"></i><b>11.1.4</b> Other UMassD courses</a></li>
+<li class="chapter" data-level="11.1.5" data-path="courses.html"><a href="courses.html#courses-outside-of-umass-dartmouth"><i class="fa fa-check"></i><b>11.1.5</b> Courses outside of UMass Dartmouth</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="12" data-path="computing.html"><a href="computing.html"><i class="fa fa-check"></i><b>12</b> Computing resources</a><ul>
+<li class="chapter" data-level="12.1" data-path="computing.html"><a href="computing.html#overview-of-computing-at-umassd"><i class="fa fa-check"></i><b>12.1</b> Overview of Computing at UMassD</a></li>
+<li class="chapter" data-level="12.2" data-path="computing.html"><a href="computing.html#smast-computing-facilities"><i class="fa fa-check"></i><b>12.2</b> SMAST computing facilities</a></li>
+<li class="chapter" data-level="12.3" data-path="computing.html"><a href="computing.html#administrator-privileges"><i class="fa fa-check"></i><b>12.3</b> Administrator Privileges</a></li>
+<li class="chapter" data-level="12.4" data-path="computing.html"><a href="computing.html#remote-meetings-via-zoom"><i class="fa fa-check"></i><b>12.4</b> Remote meetings via Zoom</a></li>
+<li class="chapter" data-level="12.5" data-path="computing.html"><a href="computing.html#collaborative-software"><i class="fa fa-check"></i><b>12.5</b> Collaborative software</a></li>
+<li class="chapter" data-level="12.6" data-path="computing.html"><a href="computing.html#backups-and-set-up-to-lab-storage-server"><i class="fa fa-check"></i><b>12.6</b> Backups and set up to Lab storage server</a></li>
+<li class="chapter" data-level="12.7" data-path="computing.html"><a href="computing.html#learnr"><i class="fa fa-check"></i><b>12.7</b> Introductory R learning resources</a></li>
+<li class="chapter" data-level="12.8" data-path="computing.html"><a href="computing.html#tmb-and-admb"><i class="fa fa-check"></i><b>12.8</b> TMB and ADMB</a></li>
+</ul></li>
+<li class="chapter" data-level="13" data-path="umassd-resources.html"><a href="umassd-resources.html"><i class="fa fa-check"></i><b>13</b> UMass Dartmouth, SMAST, and Fay Lab Resources</a><ul>
+<li class="chapter" data-level="13.1" data-path="umassd-resources.html"><a href="umassd-resources.html#general-information-about-umass-dartmouth-and-smast"><i class="fa fa-check"></i><b>13.1</b> General information about UMass Dartmouth and SMAST</a><ul>
+<li class="chapter" data-level="13.1.1" data-path="umassd-resources.html"><a href="umassd-resources.html#university-codes-of-conduct"><i class="fa fa-check"></i><b>13.1.1</b> University Codes of Conduct</a></li>
+<li class="chapter" data-level="13.1.2" data-path="umassd-resources.html"><a href="umassd-resources.html#for-grad-students"><i class="fa fa-check"></i><b>13.1.2</b> For Grad Students</a></li>
+<li class="chapter" data-level="13.1.3" data-path="umassd-resources.html"><a href="umassd-resources.html#for-employees"><i class="fa fa-check"></i><b>13.1.3</b> For Employees</a></li>
+</ul></li>
+<li class="chapter" data-level="13.2" data-path="umassd-resources.html"><a href="umassd-resources.html#fay-lab-resources"><i class="fa fa-check"></i><b>13.2</b> Fay Lab Resources</a><ul>
+<li class="chapter" data-level="13.2.1" data-path="umassd-resources.html"><a href="umassd-resources.html#weekly-lab-meetings"><i class="fa fa-check"></i><b>13.2.1</b> Weekly Lab Meetings</a></li>
+<li class="chapter" data-level="13.2.2" data-path="umassd-resources.html"><a href="umassd-resources.html#shut-up-and-write"><i class="fa fa-check"></i><b>13.2.2</b> Shut Up and Write</a></li>
+<li class="chapter" data-level="13.2.3" data-path="umassd-resources.html"><a href="umassd-resources.html#hacky-hourssouthcoast-user-group"><i class="fa fa-check"></i><b>13.2.3</b> Hacky Hours/Southcoast useR group</a></li>
+</ul></li>
+</ul></li>
 <li class="divider"></li>
 <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
 
@@ -168,7 +188,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
       <div class="body-inner">
         <div class="book-header" role="navigation">
           <h1>
-            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">A Minimal Book Example</a>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Faylab Lab Manual</a>
           </h1>
         </div>
 
@@ -177,67 +197,67 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 
             <section class="normal" id="section-">
 <div id="courses" class="section level1">
-<h1><span class="header-section-number">Chapter 10</span> Courses</h1>
+<h1><span class="header-section-number">Chapter 11</span> Courses</h1>
 <p><img src="img/which_course.png" /></p>
 <p>There are many courses available to you within both UMass Dartmouth and the wider UMass system (as well as other options too!).</p>
-<p>Deciding on course of study should be done as part of your planning with Gavin, &amp; perhaps also through discussions with your committee.</p>
-<p>Remember, this is <strong>your</strong> program &amp; you should get out of it what you want, and that includes choosing courses.</p>
-<p>That said, there are some courses that most students in the lab will take (in part due to program requirements), so here we lay out some suggestions and provide resources for courses offered at both SMAST and elsewhere on campus that lab members have found useful.</p>
-<p>Course of study should be selected with the program requirements in mind - as always, refer to the <a href="https://my.umassd.edu/html/terminalfour/media/umassdartmouth/smast/lab-pdf-files/IMS-General-Policy.pdf">Intercampus Marine Science Program Manual</a>.</p>
+<p>Deciding on a course of study should be done as part of your planning with Gavin, and perhaps through discussions with your committee.</p>
+<p>Remember, this is <strong>your</strong> program and you should get out of it what you want, including the academic training of interest to you.</p>
+<p>That said, there are some courses that most students in the Fay lab take (in part due to program requirements), so here we lay out some suggestions and provide resources for courses offered at both SMAST and elsewhere on campus that lab members have found useful.</p>
+<p>Course of study should be selected with the program requirements in mind - as always, refer to the <a href="https://my.umassd.edu/html/terminalfour/media/umassdartmouth/smast/lab-pdf-files/IMS-General-Policy.pdf">Intercampus Marine Science Program Manual</a> for details.</p>
 <div id="suggested-course-schedule" class="section level2">
-<h2><span class="header-section-number">10.1</span> Suggested course schedule</h2>
+<h2><span class="header-section-number">11.1</span> Suggested course schedule</h2>
 <p>Students generally take a full time credit load of 9 credits per semester while they are fulfiling the credit requirements for the degree. An exception is in the first year of study when students take 10 credits to meet the graduate seminar credit program requirement.</p>
-<p>In the Fay lab, we tend to take more (ALL?) of the quantitative courses on offer.</p>
+<p>In the Fay lab, we tend to take most (ALL?) of the quantitative courses on offer.</p>
 <p>Several SMAST courses are offered on an alternating basis every 2 years. Particularly for MS students, you may want to take advantage of courses when they are offered, even if this means taking them out of the natural ‘sequence’.</p>
 <div id="year-1" class="section level3">
-<h3><span class="header-section-number">10.1.1</span> Year 1</h3>
-<p>Most students take many of their core program requirements in the first year. An exception may be PhD students who save one of the Oceanography requirements for the 2nd year, depending on other courses.</p>
-<div id="fall" class="section level4">
-<h4><span class="header-section-number">10.1.1.1</span> Fall</h4>
-<p>MAR 540: Introduction to Fisheries Science (Stokesbury)<br />
+<h3><span class="header-section-number">11.1.1</span> Year 1</h3>
+<p>Most students take many of their core program requirements (denoted below with [C] or [PC] for policy core courses) in the first year. An exception may be PhD students who save one of the Oceanography requirements for the 2nd year, depending on other courses.</p>
+<p><em>Fall</em>
+MAR 540: Introduction to Fisheries Science (Stokesbury)<br />
 MAR 544: Stock Assessment of Fishery Resources (even years) (Cadrin)<br />
 MAR 555: Introduction to Physical Oceanography (Cowles/Sundermeyer) [C]<br />
 MAR 700: Graduate Seminar (Fisheries Oceanography) [C]</p>
-</div>
-<div id="spring" class="section level4">
-<h4><span class="header-section-number">10.1.1.2</span> Spring</h4>
-<p>MAR 545: Biological Oceanography (Turner) [C]<br />
+<p><em>Spring</em>
+MAR 545: Biological Oceanography (Turner) [C]<br />
 MAR 536: Biological Statistics II (Fay) (even years)<br />
 MAR 530: Ecosystem-Based Fisheries Management (odd years) (Fay) [PC]<br />
 MAR 510: Chemical Oceanography [C]<br />
 MAR 700: Graduate Seminar (Fisheries Oceanography) [C]</p>
-</div>
+<p>Typically, most remaining coursework is completed in years 2-3, but this will vary by individual.</p>
 </div>
 <div id="other-courses-gavin-will-strongly-suggest-you-take" class="section level3">
-<h3><span class="header-section-number">10.1.2</span> Other courses Gavin will strongly ‘suggest’ you take</h3>
+<h3><span class="header-section-number">11.1.2</span> Other courses Gavin will strongly ‘suggest’ you take</h3>
 <p>MAR 580: Advanced Population Modeling (Fay) (odd years)</p>
 </div>
 <div id="other-courses-you-might-want-to-take" class="section level3">
-<h3><span class="header-section-number">10.1.3</span> Other courses you might want to take</h3>
-<p>MAR 525: US Ocean Policy (Pierce, fall even yrs) [PC]
-MAR 522: Science Communication for Research Scientists (Fay, fall)<br />
+<h3><span class="header-section-number">11.1.3</span> Other courses you might want to take</h3>
+<p><em>Fall</em>
+MAR 525: US Ocean Policy (Pierce, fall even yrs) [PC]
+MAR 522: Science Communication for Research Scientists (Fay, fall)
+MAR 599: Bayesian Statistics and Hierarchical Modeling (Fay, fall even yrs)
+MAR 527: Fisheries Management (Cadrin, fall odd yrs)
+<em>Spring</em>
+BIO XXX: Biological Statistics I (Kozak, spring)
+MAR 622: Stock Identification Methods (Cadrin, spring even)
+<em>Based on interest</em>
 MAR 5XX: Marine Resource Economics (Griffin &amp; DePiper) [PC]
-MAR 599: Bayesian Statistics and Hierarchical Modeling (Fay, fall even yrs)<br />
 MAR 580: Conservation in World Marine Capture Fisheries (He) [PC]
-BIO XXX: Biological Statistics I (Kozak, spring)<br />
 MAR 580: Fish Behavior &amp; Conservation Engineering (He)<br />
-MAR 527: Fisheries Management (Cadrin, fall odd yrs)<br />
-MAR 580: Field Methods in Fisheries Research (Cadrin/Bethoney)
-MAR 622: Stock Identification Methods (Cadrin, spring even)</p>
-<p>Of course there are lots of other course offerings - these are the ones that lab members have taken more than once. For present semester offerings, see the <a href="https://www.umassd.edu/smast/academics/course-list/">SMAST website</a>. Full list of current SMAST courses and for which courses meet IMS core course requirements can be found <a href="https://drive.google.com/open?id=1BRA0Tu0jXfs76_CVN0meXJGUOm-lr44Z">here</a>.</p>
+MAR 580: Field Methods in Fisheries Research (Cadrin/Bethoney)</p>
+<p>Of course there are lots of other course offerings - these are the ones that lab members have taken more than once. For present semester offerings, see the <a href="https://www.umassd.edu/smast/academics/course-list/">SMAST website</a>. Full list of current SMAST courses and for which courses meet IMS core course requirements can be found <a href="https://thefaylab.github.io/lab-manual/smast_curriculum.html">here</a>.</p>
 </div>
 <div id="other-umassd-courses" class="section level3">
-<h3><span class="header-section-number">10.1.4</span> Other UMassD courses</h3>
+<h3><span class="header-section-number">11.1.4</span> Other UMassD courses</h3>
 <p>Check out course offerings in Data Science (DSC), Mathematics (MTH), Public Policy (POL), Biology (BIO), Mechanical Engeering (MNE), and Computer Science (CSI) in the Graduate Handbook and on COIN.</p>
 </div>
 <div id="courses-outside-of-umass-dartmouth" class="section level3">
-<h3><span class="header-section-number">10.1.5</span> Courses outside of UMass Dartmouth</h3>
+<h3><span class="header-section-number">11.1.5</span> Courses outside of UMass Dartmouth</h3>
 <p>Some IMS courses are offered at UMass Amherst, Boston, and Lowell.<br />
 Instructions and forms for registering for intercampus courses can be found under the ‘Academics’ section of the <a href="https://my.umassd.edu/group/smast-occupants">SMAST Occupants</a> page.</p>
 <p>Jarrett Byrnes (UMass Boston) statistics &amp; R courses<br />
 <a href="https://byrneslab.net/teaching/biol-607/">Biol 607: An Introduction to Computational Data Analysis for Biology</a>
 <a href="https://byrneslab.net/teaching/data_science/">Introduction to Data Science for Biology</a></p>
-<p>You may also want to talk with Gavin about taking courses at another institution, say to take advantage of even more stock assessment and statistical computing courses (e.g. <a href="http://puntlab.washington.edu/courses/">Andre Punt’s courses at University of Washington</a>.</p>
+<p>You may also want to talk with Gavin about taking courses at another institution, say to take advantage of even more stock assessment and statistical computing courses (e.g. <a href="http://puntlab.washington.edu/courses/">Andre Punt’s courses at University of Washington</a>.</p>
 
 </div>
 </div>
@@ -248,11 +268,10 @@ Instructions and forms for registering for intercampus courses can be found unde
         </div>
       </div>
 <a href="academics.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
-<a href="computing-resources.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="computing.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
-<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
 <script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
@@ -271,6 +290,7 @@ gitbook.start({
 "weibo": false,
 "instapaper": false,
 "vk": false,
+"whatsapp": false,
 "all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
 },
 "fontsettings": {
@@ -290,7 +310,11 @@ gitbook.start({
 "link": null,
 "text": null
 },
-"download": ["lab-manual.pdf", "lab-manual.epub"],
+"download": ["lab-manual.pdf"],
+"search": {
+"engine": "fuse",
+"options": null
+},
 "toc": {
 "collapse": "subsection"
 }
