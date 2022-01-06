@@ -43,8 +43,9 @@ jobs:
          # Destination path
          path: docs # optional
      - name: Deploy to GitHub Pages
-       uses: Cecilapp/GitHub-Pages-deploy@v2
+       uses: Cecilapp/GitHub-Pages-deploy@v3
        env:
-         GH_TOKEN: ${{ secrets.GH_PAT }} # https://github.com/settings/tokens
+         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # https://github.com/settings/tokens
+       with:
          EMAIL: ${{ secrets.EMAIL }}               # must be a verified email
          BUILD_DIR: docs/                     # "_site/" by default
