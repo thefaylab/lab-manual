@@ -1,3 +1,4 @@
+
 on:
   push:
      branches:
@@ -10,7 +11,7 @@ name: renderbook
 jobs:
   bookdown:
     name: Render-Book
-    runs-on: ubuntu-latest
+    runs-on: macOS-latest
     steps:
       - uses: actions/checkout@v1
       - uses: r-lib/actions/setup-r@v1
@@ -18,11 +19,11 @@ jobs:
       - name: Install rmarkdown
         run: Rscript -e 'install.packages(c("rmarkdown","bookdown"))'
       - name: Render Book
-        run: Rscript -e 'bookdown::render_book("index.Rmd", "bookdown::gitbook")'
+        run: Rscript -e 'bookdown::render_book("index.Rmd")'
       - uses: actions/upload-artifact@v1
         with:
-          name: docs
-          path: docs/
+          name: _book
+          path: _book/
   
 # Need to first create an empty gh-pages branch
 # see https://pkgdown.r-lib.org/reference/deploy_site_github.html
@@ -38,14 +39,13 @@ jobs:
        uses: actions/download-artifact@v1.0.0
        with:
          # Artifact name
-         name: docs # optional
+         name: _book # optional
          # Destination path
-         path: docs # optional
+         path: _book # optional
      - name: Deploy to GitHub Pages
        uses: Cecilapp/GitHub-Pages-deploy@master
        env:
           EMAIL: ${{ secrets.EMAIL }}               # must be a verified email
           GH_TOKEN: ${{ secrets.GH_PAT }} # https://github.com/settings/tokens
-          BUILD_DIR: docs/                     # "_site/" by default
+          BUILD_DIR: _book/                     # "_site/" by default
     
- 
