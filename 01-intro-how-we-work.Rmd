@@ -25,7 +25,7 @@ This [resource from UBC](https://scwrl.ubc.ca/student-resources/learning-strateg
 
 ## How we share things (and send them to Gavin)
 
-It is useful to have standard ways of sharing things. These don't always have to be followed but are a useful guide and will make things easier. When sending material to someone, always make sure to describe what you are sending and try to make it as easy as possible for them to help you.  
+We think it is useful to have standard ways of sharing things. These don't always have to be followed but are a useful guide and will make things easier. When sending material to someone, always make sure to describe what you are sending and try to make it as easy as possible for them to help you.  
 
 Taking a project-based approach to organizing your work makes it easier to share and solicit feedback from others, as things tend to be self-contained. Try to keep only 1 working instance of material, and use some form of version control to facilitate this (see recommendations in Wilson et. al paper linked above).  
 
