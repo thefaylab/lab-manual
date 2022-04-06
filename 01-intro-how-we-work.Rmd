@@ -35,7 +35,7 @@ Code: can be shared via Github repositories, or via a dedicated Google Drive fol
 
 Writing: Preferably via GoogleDoc, R Markdown, or Overleaf, but MS Word documents can also be shared. Google docs are particularly useful for collaborative writing, and have the advantage of there only ever being one version (as opposed to files that are sent around via email). Word documents should always have your last name as the first part of the file name (e.g. please no "mythesis.doc").  
 
-We also share our insitutional knowledge through our lab-chat github 'issues' repository. This is community-driven troubleshooting resource, contribute!  
+We also share our insitutional knowledge through our lab-chat github 'issues' repository. This is a community-driven troubleshooting resource, please contribute!  
 
 We maintain a lab Google Drive folder for lab publications, presentations, photos, CVs, etc. Please make use of these so that others in the lab can make fair use of our work.  
 
