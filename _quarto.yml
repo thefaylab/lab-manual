@@ -1,0 +1,23 @@
+project: 
+  type: book
+  output-dir: docs
+  
+book:
+
+  chapters: [
+  "index.Rmd",
+  "01-intro-how-we-work.Rmd",
+  "02-lab-culture-philosophy.Rmd",
+  "03-code-of-conduct.Rmd",
+  "04-onboarding.Rmd",
+  "05-expectations.Rmd",
+  "06-offboarding.Rmd",
+  "07-funding.Rmd",
+  "08-communication.Rmd",
+  "09-academics.Rmd",
+  "10-courses.Rmd",
+  "11-computing.Rmd",
+  "12-umassd-resources.Rmd",
+#  "13-smast-resources.Rmd",
+#  "14-other-faylab-resources.Rmd",  
+]
