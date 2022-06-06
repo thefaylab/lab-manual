@@ -1,4 +1,4 @@
---- 
+---
 title: "Faylab Lab Manual"
 author: "Gavin Fay & Ashleigh Novak"
 date: "Last updated: `r Sys.Date()`"
@@ -13,28 +13,28 @@ description: "This is the lab manual for the Fay Lab at the University of Massac
 
 # Welcome!
 
-Welcome to our book of magical secrets.  
+Welcome to our book of magical secrets.
 
-<br>
-This is the lab manual for the Fay Lab at the University of Massachusetts Dartmouth School for Marine Science and Technology.  
+<br> This is the lab manual for the Fay Lab at the University of Massachusetts Dartmouth School for Marine Science and Technology.\
 The focus of our work centers around developing interdisciplinary modeling approaches to extend the scope of applications for fisheries and ecosystem-based management. More about our group's research activity can be found on our [website](https://thefaylab.com).
 
-This lab manual resource is intended to provide an overview for lab members and others about how we do our work, and our expectations for our team. It is also a space to document institutional knowledge and for important information about procedures and available resources. If you have suggestions for additions or changes, please contact Gavin (gfay@umassd.edu) or make a pull request.
+This lab manual resource is intended to provide an overview for lab members and others about how we do our work, and our expectations for our team. It is also a space to document institutional knowledge and for important information about procedures and available resources. If you have suggestions for additions or changes, please contact Gavin (gfay\@umassd.edu) or make a pull request.
 
 <br>
 
-The content for this book was developed as part of our group's participation in the [Openscapes Champions program](https://openscapes.org).  
-We are extremely grateful to and acknowledge [Dr. Julia Stewart Lowndes](https://twitter.com/juliesquid)' role in helping shape how our lab both works and how we articulate our identity.  
+The content for this book was developed as part of our group's participation in the [Openscapes Champions program](https://openscapes.org).\
+We are extremely grateful to and acknowledge [Dr. Julia Stewart Lowndes](https://twitter.com/juliesquid)' role in helping shape how our lab both works and how we articulate our identity.
 
-<a align="left" href="https://github.com/thefaylab/lab-manual/"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35px"></a> < link to this book's GitHub repository. Also see [Quick steps to making a copy of the lab manual and publishing it](https://github.com/thefaylab/lab-manual/wiki/Quick-steps-to-making-a-copy-of-the-lab-manual-&-publishing-it)!
+![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){fig-align="left" width="35px"} \< link to this book's GitHub repository. Also see [Quick steps to making a copy of the lab manual and publishing it](https://github.com/thefaylab/lab-manual/wiki/Quick-steps-to-making-a-copy-of-the-lab-manual-&-publishing-it)!
 
+<a align="left" href="https://github.com/thefaylab/lab-manual/"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35px"/></a> \< link to this book's GitHub repository. Also see [Quick steps to making a copy of the lab manual and publishing it](https://github.com/thefaylab/lab-manual/wiki/Quick-steps-to-making-a-copy-of-the-lab-manual-&-publishing-it)!
 
 ```{r, out.width = "25%", echo = FALSE}
 knitr::include_graphics("https://allisonhorst.github.io/img/openscapes_hex_badge.png")
 ```
-<br>
-*[We're proud Openscapes Champions!](https://openscapes.org)*
 
-----
+<br> [*We're proud Openscapes Champions!*](https://openscapes.org)
 
-<a rel='license' href='http://creativecommons.org/licenses/by/4.0/'><img alt='Creative Commons License' style='border-width:0' src='https://i.creativecommons.org/l/by/4.0/88x31.png' /></a>&nbsp;&nbsp;This lab manual is licensed under a <a rel='license' href='http://creativecommons.org/licenses/by/4.0/'>Creative Commons Attribution 4.0 International License</a>.
+------------------------------------------------------------------------
+
+<a rel='license' href='http://creativecommons.org/licenses/by/4.0/'><img src="https://i.creativecommons.org/l/by/4.0/88x31.png" alt="Creative Commons License" style="border-width:0"/></a>  This lab manual is licensed under a <a rel='license' href='http://creativecommons.org/licenses/by/4.0/'>Creative Commons Attribution 4.0 International License</a>.
