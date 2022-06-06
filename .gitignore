@@ -6,3 +6,5 @@ _book/*
 _bookdown_files/*
 
 /.quarto/
+*_cache/
+_site/
