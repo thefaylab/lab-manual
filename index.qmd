@@ -27,7 +27,7 @@ We are extremely grateful to and acknowledge [Dr. Julia Stewart Lowndes](https:/
 
 [![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){fig-align="left" width="35px"}](https://github.com/thefaylab/lab-manual) \< link to this book's GitHub repository. Also see [Quick steps to making a copy of the lab manual and publishing it](https://github.com/thefaylab/lab-manual/wiki/Quick-steps-to-making-a-copy-of-the-lab-manual-&-publishing-it)!
 
-![](img/openscapes_hex_badge.png)
+![](img/openscapes_hex_badge.png){width ="25%"}
 
 [*We're proud Openscapes Champions!*](https://openscapes.org)
 
