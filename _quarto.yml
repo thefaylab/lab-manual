@@ -4,7 +4,7 @@ project:
 book:
   title: "Faylab Lab Manual"
   author: "Gavin Fay & Ashleigh Novak"
-  date: "Last updated: `r Sys.date()`"
+  date: last-modified 
   description: "This is the lab manual for the Fay Lab at the University of Massachusetts Dartmouth School for Marine Science and Technology" 
   repo-url: https://github.com/thefaylab/lab-manual
   repo-actions: [edit,issue]
