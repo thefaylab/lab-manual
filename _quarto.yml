@@ -27,5 +27,6 @@ book:
 ]
 
 bibliography: [book.bib, packages.bib]
+# bibliography: references.bib; use for quarto bib and comment out the other?
 biblio-style: apalike
 link-citations: yes
