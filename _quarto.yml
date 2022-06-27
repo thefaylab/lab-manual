@@ -26,7 +26,5 @@ book:
 #  "14-other-faylab-resources.qmd",  
 ]
 
-bibliography: [book.bib, packages.bib]
-# bibliography: references.bib; use for quarto bib and comment out the other?
-biblio-style: apalike
-link-citations: yes
+bibliography: [references.bib, book.bib]
+
