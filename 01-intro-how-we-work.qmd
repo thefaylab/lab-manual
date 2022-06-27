@@ -7,15 +7,10 @@ bibliography: references.bib
 We do rigorous quantitative science to support decision-making for living marine resource management. We conduct our work using Open Data Science principles, emphasizing scientific excellence (not perfection) that is transparent, reproducible, collaborative, and ethical. We aim to make our methods and results available and support ongoing learning.\
 Our quantitative work is based on statistical thinking, using evidence-based approaches to compare among alternatives for models and management options.
 
-See the next chapter for more detail on our lab culture and philosophy. We are motivated heavily by the following two papers - which provide a blueprint for how we think about the way we do our work.
+See the next chapter for more detail on our lab culture and philosophy. We are motivated heavily by the following two papers - which provide a blueprint for how we think about the way we do our work:
 
-[@lowndes2017]
-
-[@wilson2017]
-
-[Lowndes, J.S.S., Best, B.D., Scarborough, C., Afflerbach, J.C., Frazier, M.R., O'Hara, C.C., Jiang, N. and Halpern, B.S., 2017. Our path to better science in less time using open data science tools. Nature ecology & evolution, 1(6), pp.1-7.](https://www.nature.com/articles/s41559-017-0160)
-
-[Wilson, G., Bryan, J., Cranston, K., Kitzes, J., Nederbragt, L. and Teal, T.K., 2017. Good enough practices in scientific computing. PLoS computational biology, 13(6), p.e1005510.](https://doi.org/10.1371/journal.pcbi.1005510)
+- Our path to better science in less time using open data science tools [@lowndes2017]
+- Good enough practices in scientific computing [@wilson2017]
 
 \[To come: recommended reading list\]
 
@@ -49,3 +44,4 @@ We maintain a lab Google Drive folder for lab publications, presentations, photo
 ## Shared lab resources
 
 Where to find shared resources: - Google Drive - You will be given access to the shared drive during onboarding, take a look at the Lab Meetings folder to find Lab Meeting Notes for each semester (previously called the Supercharge Plan) - GitHub - thefaylab is the shared GitHub account for the lab - lab-manual - This repository contains the lab manual, see section \ref{#umassd-resources} for other useful resources and take a look at the [Wiki](https://github.com/thefaylab/lab-manual/wiki/Lab-Meeting-Schedule) to see the lab meeting schedule - lab-chat - This repository contains shared institutional knowledge for the Fay lab, take a look at Issue #22 for Zoom meeting links - Website - Take a look at the lab website, most of its information is duplicated in one of the above resources: http://www.smast.umassd.edu/lab_fay/
+
