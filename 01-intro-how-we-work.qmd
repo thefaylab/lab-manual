@@ -45,3 +45,7 @@ We maintain a lab Google Drive folder for lab publications, presentations, photo
 
 Where to find shared resources: - Google Drive - You will be given access to the shared drive during onboarding, take a look at the Lab Meetings folder to find Lab Meeting Notes for each semester (previously called the Supercharge Plan) - GitHub - thefaylab is the shared GitHub account for the lab - lab-manual - This repository contains the lab manual, see section \ref{#umassd-resources} for other useful resources and take a look at the [Wiki](https://github.com/thefaylab/lab-manual/wiki/Lab-Meeting-Schedule) to see the lab meeting schedule - lab-chat - This repository contains shared institutional knowledge for the Fay lab, take a look at Issue #22 for Zoom meeting links - Website - Take a look at the lab website, most of its information is duplicated in one of the above resources: http://www.smast.umassd.edu/lab_fay/
 
+### References
+
+::: {#refs}
+:::
