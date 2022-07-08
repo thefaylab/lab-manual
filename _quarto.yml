@@ -1,13 +1,22 @@
 project: 
   type: book
+  output-dir: _book
   
 book:
   title: "Faylab Lab Manual"
   author: "Gavin Fay & Ashleigh Novak"
   date: last-modified 
   description: "This is the lab manual for the Fay Lab at the University of Massachusetts Dartmouth School for Marine Science and Technology" 
+  
+  page-footer:
+    left: |
+      <a href="http://www.smast.umassd.edu/lab_fay/">The Fay lab</a>
+    right: |
+      This book was built with <a href="https://quarto.org/">Quarto</a>.
+  site-url: https://thefaylab.github.io/lab-manual/
   repo-url: https://github.com/thefaylab/lab-manual
   repo-actions: [edit,issue]
+  
   chapters: [
   "index.qmd",
   "01-intro-how-we-work.qmd",
@@ -26,5 +35,6 @@ book:
 #  "14-other-faylab-resources.qmd",  
 ]
 
+# not sure what the following line does
 bibliography: [references.bib, book.bib]
 
