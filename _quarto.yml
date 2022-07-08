@@ -16,25 +16,25 @@ book:
   site-url: https://thefaylab.github.io/lab-manual/
   repo-url: https://github.com/thefaylab/lab-manual
   repo-actions: [edit,issue]
-  
-  chapters: [
-  "index.qmd",
-  "01-intro-how-we-work.qmd",
-  "02-lab-culture-philosophy.qmd",
-  "03-code-of-conduct.qmd",
-  "04-onboarding.qmd",
-  "05-expectations.qmd",
-  "06-offboarding.qmd",
-  "07-funding.qmd",
-  "08-communication.qmd",
-  "09-academics.qmd",
-  "10-courses.qmd",
-  "11-computing.qmd",
-  "12-umassd-resources.qmd",
-#  "13-smast-resources.qmd",
-#  "14-other-faylab-resources.qmd",  
-]
 
-# not sure what the following line does
+  chapters: 
+    - index.qmd
+    - 01-intro-how-we-work.qmd
+    - 02-lab-culture-philosophy.qmd
+    - 03-code-of-conduct.qmd
+    - 04-onboarding.qmd
+    - 05-expectations.qmd
+    - 06-offboarding.qmd
+    - 07-funding.qmd
+    - 08-communication.qmd
+    - 09-academics.qmd
+    - 10-courses.qmd
+    - 11-computing.qmd
+    - 12-umassd-resources.qmd
+#    - 13-smast-resources.qmd
+#    - 14-other-faylab-resources.qmd  
+
+
+# not sure what the following line does; those files are present
 bibliography: [references.bib, book.bib]
 
