@@ -1,23 +1,40 @@
 project: 
   type: book
-  output-dir: docs
+  output-dir: _book
   
 book:
+  title: "Faylab Lab Manual"
+  author: "Gavin Fay & Ashleigh Novak"
+  date: last-modified 
+  description: "This is the lab manual for the Fay Lab at the University of Massachusetts Dartmouth School for Marine Science and Technology" 
+  
+  page-footer:
+    left: |
+      <a href="http://www.smast.umassd.edu/lab_fay/">The Fay lab</a>
+    right: |
+      This book was built with <a href="https://quarto.org/">Quarto</a>.
+  site-url: https://thefaylab.github.io/lab-manual/
+  repo-url: https://github.com/thefaylab/lab-manual
+  repo-actions: [edit,issue]
 
-  chapters: [
-  "index.Rmd",
-  "01-intro-how-we-work.Rmd",
-  "02-lab-culture-philosophy.Rmd",
-  "03-code-of-conduct.Rmd",
-  "04-onboarding.Rmd",
-  "05-expectations.Rmd",
-  "06-offboarding.Rmd",
-  "07-funding.Rmd",
-  "08-communication.Rmd",
-  "09-academics.Rmd",
-  "10-courses.Rmd",
-  "11-computing.Rmd",
-  "12-umassd-resources.Rmd",
-#  "13-smast-resources.Rmd",
-#  "14-other-faylab-resources.Rmd",  
-]
+  chapters: 
+    - index.qmd
+    - 01-intro-how-we-work.qmd
+    - 02-lab-culture-philosophy.qmd
+    - 03-code-of-conduct.qmd
+    - 04-onboarding.qmd
+    - 05-expectations.qmd
+    - 06-offboarding.qmd
+    - 07-funding.qmd
+    - 08-communication.qmd
+    - 09-academics.qmd
+    - 10-courses.qmd
+    - 11-computing.qmd
+    - 12-umassd-resources.qmd
+#    - 13-smast-resources.qmd
+#    - 14-other-faylab-resources.qmd  
+
+
+# not sure what the following line does; those files are present
+bibliography: [references.bib, book.bib]
+
