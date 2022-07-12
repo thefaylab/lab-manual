@@ -1,16 +1,3 @@
----
-# title: "Faylab Lab Manual"
-# author: "Gavin Fay & Ashleigh Novak"
-# date: "Last updated: `r Sys.Date()`"
-# site: bookdown::bookdown_site
-# documentclass: book
-# bibliography: [book.bib, packages.bib]
-# biblio-style: apalike
-# link-citations: yes
-# github-repo: thefaylab/lab-manual
-# description: "This is the lab manual for the Fay Lab at the University of Massachusetts Dartmouth School for Marine Science and Technology"
----
-
 # Welcome!
 
 Welcome to our book of magical secrets.
