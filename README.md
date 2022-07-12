@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"> 
    :sparkles: Welcome to the Faylab Lab Manual! :sparkles: 
 </p>
 
