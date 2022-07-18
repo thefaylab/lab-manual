@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.0.14">
+<meta name="generator" content="quarto-1.0.28">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -230,7 +230,9 @@ ul.task-list{list-style: none;}
 <section id="learnr" class="level2" data-number="12.7">
 <h2 data-number="12.7" class="anchored" data-anchor-id="learnr"><span class="header-section-number">12.7</span> Introductory R learning resources</h2>
 <p>Welcome to <code>R</code>! There are so many learning resources out there it can feel a little overwhelming in terms of what to choose! To get you set up and started, <a href="https://happygitwithr.com/">Happy Git and Github for the useR</a> is a great resource, and is created by the same authors as the now-legendary <a href="stat545.com">stat545.com</a> course. Their resources are extremely comprehensive and they have a fantastic Intro R course, especially for those who will be using R for doing statistics.</p>
-<p>Right now, we REALLY like <a href="https://rstudio-conf-2020.github.io/r-for-excel/">this short intro course</a> by <a href="https://twitter.com/juliesquid"><code>@juliesquid</code></a> &amp; <a href="https://twitter.com/allisonhorst"><code>@allisonhorst</code></a>. They teach a lot of the workflow and tools around using R right from the get go, which we think is more helpful than knowing how to do all the things. The (excellent) materials are thoughtfully put together, link to a ton of other great resources, and just like the online #rstats community in general, are super supportive of new learners. We also really like the <a href="https://tinystats.github.io/teacups-giraffes-and-statistics/index.html">Teacup Giraffes</a> R and statistics materials from Desirée De Leon and Hasse Walum.</p>
+<p>Right now, we REALLY like <a href="https://rstudio-conf-2020.github.io/r-for-excel/">this short intro course</a> by <a href="https://twitter.com/juliesquid"><code>@juliesquid</code></a> &amp; <a href="https://twitter.com/allisonhorst"><code>@allisonhorst</code></a>. They teach a lot of the workflow and tools around using R right from the get go, which we think is more helpful than knowing how to do all the things. The (excellent) materials are thoughtfully put together, link to a ton of other great resources, and just like the online #rstats community in general, are super supportive of new learners.</p>
+<p>We also really like: * <a href="https://tinystats.github.io/teacups-giraffes-and-statistics/index.html">Teacup Giraffes</a> R and statistics materials from Desirée De Leon and Hasse Walum.<br>
+* <a href="https://datasciencebox.org">Data Science in a Box</a> course by Mine Çetinkaya-Rundel, and * <a href="https://www.adventures-in-r.com/">Adventures in R</a> by Kelly Bodwin.</p>
 <p>If you want a book to work from/through, <a href="r4ds.had.co.nz">R for Data Science</a> is highly recommended. (book is free online)</p>
 <p>The <a href="https://education.rstudio.com/">R Studio Education</a> team have assembled a phenomenal array of courses, tutorials, and other materials for learning R, and for many types of data analyses and modeling using R. These are top notch and so thoughtfully put together. There is something for learners at all levels.</p>
 <p>A plug for the online R community. Follow the hashtag #rstats, &amp; also check out accounts <a href="https://twitter.com/RLadiesGlobal"><code>@RLadiesGlobal</code></a> &amp; <a href="https://twitter.com/R4dsCommunity"><code>@R4dsCommunity</code></a>. The weekly #TidyTuesday social coding project is also a great way to practice your growing R skills. Have fun!</p>
@@ -261,7 +263,10 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   const toggleBodyColorPrimary = () => {
-    toggleBodyColorMode(window.document.querySelector("link#quarto-bootstrap"));
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
   }
   toggleBodyColorPrimary();  
   const icon = "";
