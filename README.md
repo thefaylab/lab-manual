@@ -3,7 +3,7 @@
 </p>
 
 
-This bookdown document is intended to be used for **incoming, current, and outgoing** members of the Fay lab group. If we missed anything, please let Gavin Fay (gfay@umassd.edu) or Madeleine Guyant (mguyant@umassd.edu) know. You can also do a pull request and we will review the changes. 
+This ~~bookdown~~ Quarto book is intended to be used for **incoming, current, and outgoing** members of the Fay lab group. If we missed anything, please let Gavin Fay (gfay@umassd.edu) or Madeleine Guyant (mguyant@umassd.edu) know. You can also do a pull request and we will review the changes. 
 
 We hope this has all the answers you need!
 
