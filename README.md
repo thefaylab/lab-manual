@@ -13,7 +13,8 @@ __Want to adapt the lab manual for your group?__ This [short tutorial](https://g
 **Acknowledgements**
 
 The content for this book was developed as part of our group’s participation in the Openscapes Champions program.
-We are extremely grateful to and acknowledge Dr. Julia Stewart Lowndes’ role in helping shape how our lab both works and how we articulate our identity.
+We are extremely grateful to and acknowledge Dr. Julia Stewart Lowndes’ role in helping shape how our lab both works and how we articulate our identity. 🙏
+Thanks also to [Ileana Fenwick](https://github.com/IleanaF) and [Stefanie Butland](https://github.com/stefaniebutland) for their work moving the lab-manual from bookdown to Quarto. 🙌
 
 ---
 
