@@ -19,16 +19,16 @@ book:
 
   chapters: 
     - index.qmd
-    - 01-introduction.qmd
+    - 01-Introduction.qmd
     - 02-Importance-of-RDM.qmd
     - 03-Essentials-for-Research-Data.qmd
     - 04-Assignment-Data-Flow-Map-1.qmd
     - 05-FAIR-principles.qmd
-    - 06-Realising-FAIR.qmd
-    - 07-Plan-for-RDM.qmd
-    - 08-Wrap-up.qmd
-    - 09-academics.qmd
-    - 10-courses.qmd
+    - 06-Realising-FAIR-Organisation.qmd
+    - 07-Realising-FAIR-Documentation.qmd
+    - 08-Realising-FAIR-Publication.qmd
+    - 09-Plan-for-RDM.qmd.qmd
+    - 10-Wrap-up.qmd
     - 11-computing.qmd
     - 12-umassd-resources.qmd
 #    - 13-smast-resources.qmd
