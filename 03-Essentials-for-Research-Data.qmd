@@ -1,0 +1,113 @@
+# Essentials for Research Data {#essentials}
+Estimated time: 120 minutes
+
+In this module, we start to dig deeper into RDM by introducing multiple topics concerning the essentials of RDM.
+At the end of this module you should be able to:
+*	Identify different types of research data 
+*	Recognize what is considered confidential data in research
+*	Realise what RDM entails within a research project
+*	Recognize the responsibilities regarding RDM for TUD PhD candidates
+*	Store and back up the research data of your project in a secure manner
+
+# Activities
+*	Watch videos of TU Delft researchers telling you about the research data and confidential research data they work with
+*	If you work with personal data, read the information on the two linked websites
+*	Tell your peers about the type of research data you work with using the Mentimeter word cloud. [Note: Mentimeter is a commercial software to create polls, quizzes, etc]
+*	Look at the research cycle interactive image and the RDM questions you need to ask yourself at each step of your project
+*	Watch the video about data storage & infrastructure available at TU Delft
+*	Complete the quiz about data storage
+*	Read the TU Delft RDM framework and ask any questions you have about it
+*	Participate in the Discussion topics (Q&A is optional) by posting your own comments or by looking at and replying to the comments of your peers
+
+## Research Data definition
+Research data is any information that has been collected, observed, generated or created to validate research findings.
+Depending on the discipline you work in, research data can be collected or produced in different ways. 
+You can capture them in real-time (e.g. sensors, images), you can collect them using laboratory instruments and they can derive from interviews or numerical simulations, among others. 
+Research Data can be digital such as tabular data, videos, algorithms, scripts, transcripts, and codebooks. 
+They can also be non-digital, for example, laboratory samples, sketchbooks, and prototypes.
+
+We talked to some TU Delft researchers working in different disciplines and we asked them: ‘What is the research data you work with?’ Let’s see what they shared with us:
+
+[Sian Jones – Faculty Of Civil Engineering and Geosciences (CEG)](https://youtu.be/X9ixhwUIGug)
+[Wirawan Agahari – TU Delft Faculty of Technology, Policy and Management (TPM)](https://youtu.be/sGtoAd8EZl8)
+
+## Confidential data
+There are multiple types of confidential data that you might be working with during your research project. Some examples include:
+*	personal data (information about an identified or identifiable natural person)
+*	national security data (such as nuclear research)
+*	data falling under export control regulations
+*	confidential data received from commercial, or other external partners
+*	data related to competitive advantage (for example, patent, IP)
+*	data which could lead to reputation/brand damage (e.g. climate change, personal information, animal research)
+*	politically-sensitive data (such as research commissioned by public authorities, research on societal issues)
+When working with confidential data, you need additional security measures for your data to make sure that they are not accidentally released. 
+
+In the next two videos, researchers from TU Delft tell us about the confidential data they work with and what RDM best-practice they follow:
+
+* [Sian Jones talking about collaboration with industry](https://youtu.be/5MbwTjgc8Vk)
+* [Wirawan Agahari talking about personal data in his research](https://youtu.be/YCXZce3qGXI)
+
+## Personal Data
+Only read these materials if you work with personal data (data that can identify a person)
+*	[TU Delft Information about privacy](https://www.tudelft.nl/en/privacy-security/privacy/)
+* Link to Turing Way
+
+## Your data workflow
+Now think about your own type of data and let us know in the next topic!
+WordCloud: What type of data will you collect? 
+Share what type of data you will collect in this WordCloud. This provides a first insight to data use, click here for the results of your peers.
+[Embedded Mentimeter with the following heading:]
+Name three types of data you will collect in your research
+Enter three types of data you plan to collect, how does it relate to your peers? [The combined results are also visible to everyone. See the snapshot 02-5_Module-2_Snapshot_Mentimeter ]
+
+
+## Relevant RDM steps within a research project
+In the following interactive image you can go through a simplified cycle which can represent your project. 
+Have a look at the RDM questions you might ask at each step of research.  
+[Interactive image: The Research Cycle (implemented in SCORM)]
+ 
+[Please refer to the PPTX slides under: 02-1_ Module-2_handout_RDM_steps_
+Interactive_image  and 02-2_Module-2_Implementation_Interactive_Image_RDM101 ] 
+Discussion topic -  Reflect on challenges in RDM
+Let us know what research cycle stage you find most challenging
+
+You have heard researchers talk about the data of their projects and you had an introduction to the research cycle. What stage from the research cycle will give most challenges regarding your data management? 
+[Post link to GitHub Issue](link)
+Please read your peers’ responses and reply to any you find interesting! 
+
+## Research Data infrastructure at TU Delft
+In the next video we will go through the infrastructure provided centrally at TU Delft for storing, backup and sharing Research Data.
+Before starting the data collection/creation within your project, it is good to reflect where you will store and how you will back up the data. Selecting a storage and backup strategy will mean that data is safe during your research project, including in the case of unpredicted problems. Following good data storage practices protect you from data loss and facilitate effective collaborations.
+In this video, we will go through the infrastructure provided centrally at TU Delft for storing, backup and sharing Research Data. You should ask your supervisor if within your research group/department/ project there is a preferred approach for data storage and backup, or if there are customised solutions already in place.
+
+[An embedded video is displayed here based on the following file: 02-4_Module-2 _Presentation _Data_StorageSharing] 
+
+### Resources:
+-	Additional information about infrastructure at TU Delft: https://tudelft.topdesk.net/
+-	To download WebDrive: https://webdata.tudelft.nl/
+-	Additional information about EduVPN: https://intranet.tudelft.nl/-/openvpn
+
+### Quiz - Use cases on storage
+After the topic on the Research data infrastructure, you should now be able to [answer the questions of this quiz](link to google form). Good luck!	
+
+
+## RDM responsibilities 
+In this section we would like to make you aware of the responsibilities of TU Delft PhD candidates regarding Research Data Management. 
+These responsibilities are detailed in the University and Faculty Policies.
+It is very important for TU Delft that researchers follow best practices on Research Data Management (RDM). 
+That is why since 2018 TU Delft has published a set of policies which provide a clear division of roles and responsibilities around RDM.
+*	[Research Data framework policy](http://doi.org/10.5281/zenodo.4088123) 
+This Framework policy is accompanied by Faculty-specific data management policies, which provide more detailed requirements and guidelines for the disciplines associated with each Faculty.
+*	[Faculty Research Data Management Policies](https://www.tudelft.nl/en/library/research-data-management/r/policies/tu-delft-faculty-policies) or [direct download of the TNW/AS policy](link). 
+
+Software is recognised at TU Delft as a valuable research output that needs to be well documented, preserved and, whenever possible, consistent with the FAIR principles. The TUD Research Software Policy provides a clear division of roles and responsibilities and sets out a simplified, streamlined process to help researchers share software. 
+* [TUD Research Software Policy](https://zenodo.org/record/4629662)
+
+# Discussion (Mandatory)
+Complete the discussion on the responsibilities of PhD candidates according to TUD policies 
+Open the ‘TU Delft RDM framework’ document  in the section 'Faculty-specific roles and responsibilities' and read the responsibilities of PhD students (and other stakeholders if you want). Also feel free to explore your Faculty policy to identify what is expected from you as part of the Faculty.
+If you are working with code in your PhD project, also open the ‘TU Delft RDM framework’ document and check the responsibilities of those creating software (or more if you like!).
+Were you already aware of any of these policies? And, now that you have looked at the different policies, are your responsibilities regarding RDM and software management clear to you? Let us know your answers, and if anything is unclear, your questions! Also feel free to comment on any of the policies, if you like. Please share your thoughts and read your peers’ responses and reply to any you find interesting! 
+
+
+

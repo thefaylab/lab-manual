@@ -1,0 +1,105 @@
+# FAIR principles {#FAIR}
+Estimated time: 90 minutes
+
+In this module, we will discover the FAIR data principles and their main elements. 
+At the end of this module, you should be able to:
+*	Understand the FAIR principles and their relation to RDM
+*	Identify key elements that help make research data Findable, Accessible, Interoperable and Reusable (FAIR)
+
+There are different activities in this module you should complete:
+*	Read topic 1: Why and how were the FAIR principles created?
+*	Watch the video about the key elements to make data FAIR and complete the ‘fill in the blanks’ quiz
+*	Share your thoughts on FAIR via the Discussion 
+
+# What are the FAIR principles?
+The FAIR principles were created in order to maximize the reuse of scientific data, to promote best practices on Research Data Management and to enable Open Science.
+Applying the FAIR principles means to make research data Findable, Accessible, Interoperable and Re-usable1.
+*	Findable means that others (both human and machines) can discover the data
+*	Accessible means that the data can be made available to others
+*	Interoperable means that the data can be integrated with other data and can be easily used by machines or in data analysis workflows.
+*	Reusable means that the data can be used for new research
+
+These four principles should be applied (as much as possible) throughout the entire research cycle and they are closely interconnected with each other.
+
+The FAIR Data principles are NOT:
+*	A standard. 
+The FAIR principles need to be adapted and followed as much as possible by considering the research practices in your field. FAIR principles should be rather seen as progressive steps that help you make your data re-usable.
+*	Equivalent to Open Data. 
+FAIR data does not necessarily mean openly available: it should be clear to others that the data exists and which steps they could take to potentially access the data.
+*	Applied using a particular technology or tool. 
+There might be different tools that enable FAIR data within different disciplines or research workflows.
+
+There are important elements to consider within your research workflows if you aim to make the data of your project FAIR:
+*	Documentation & Metadata  
+* Interoperability 
+*	Access to data
+*	Persistent identifiers
+*	Licences 
+
+In the next videos we will explore these different elements and their importance to make the data of your project FAIR.
+
+# References:
+1. “The FAIR Guiding Principles for scientific data management and stewardship” Wilkinson et al. 2016. https://doi.org/10.1038/sdata.2016.18
+2. Scripts of the videos copied or adapted from: Holmstrand, K.F., den Boer, S.P.A., Vlachos, E., Martínez-Lavanchy, P.M., Hansen, K.K. (Eds.) (2019). Research Data Management (eLearning course). doi: 10.11581/dtu:00000047
+Videos: Key elements to make data FAIR
+What are the key elements to make data FAIR? In the following videos we will explain these elements and give you the opportunity to test your knowledge. 
+The objective of the following videos is to identify the key elements that help make research data Findable, Accessible, Interoperable and Reusable (FAIR). The following videos are an elaboration on these key elements of FAIR. Test your knowledge afterwards with the 'Fill in the missing words' assignment beneath. 
+Documentation and Metadata
+[Embedded video: https://youtu.be/q-NxFTlcKgs  ]
+Quiz - Fill in the missing words based on the animation on Documentation and metadata
+1.	_______  _________ is the recording the changes of data and code in time to recall previous versions (Answers: versioning control, version control, Versioning control, Version control)
+2.	An important type of documentation is _____ which is data describing data (Answer: metadata)
+3.	Metadata ________ intend to establish a common understanding of the meaning of the data (Answer: standards)
+Interoperability
+
+[Embedded video: https://youtu.be/83Jnyd5_vxM ]
+
+Quiz - Fill in the missing words based on the animation on Interoperability
+1.	Storing and sharing data in ______ ________  formats increases interoperability (Answers: open file)
+2.	Data become more interoperable when using metadata __________ (Answer: standards)  and when _____________ (Answer: connecting / linking) them to other relevant datasets.
+3.	Making data ____________ (Answer: interoperable) allows you and others to ____________ (Answer: re-use /reuse ) the data without much pre-processing
+Access to Data
+
+[Embedded video: https://youtu.be/3TWye1ftR1w ]
+
+Quiz - Fill in the missing words based on the animation on Access to data
+1.	When following the FAIR principles, access to data ensures the _____________ (Possible Answers: re-usability/reusability/re-use/reuse) of data.
+2.	FAIR data is ___________ (Answer: not)  equivalent to ____________ data (Answer: open).
+3.	If data contains __________ (Possible Answers: confidential/sensitive/personal) information, the data should remain closed, but you need to provide access to the ____________ (Answer: metadata) to comply with the FAIR principles.
+Persistent Identifiers
+
+[Embedded video: https://youtu.be/m-oWVp92xG0 ]
+
+Quiz - Fill in the missing words based on the animation on Persistent Identifiers
+
+1.	If you want to make data ___________( Possible Answer: accessible*/*findable)  and ____________(Possible Answer: findable/accessible) a data set should have a persistent identifier.
+2.	An example of persistent identifier is a _______  ________  _______ (Answers: digital  object  identifier)  or DOI commonly used for referencing publications.
+3.	A DOI allows to easily _______ (Answer: cite) a dataset for those reusing it. 
+
+## Data and Code Licences
+
+[Embedded video: https://youtu.be/3nl_Z7Jt-Z4 ]
+
+More resources on licences:
+-	Information on the Creative Commons (CC) licences (for research outputs like data, presentations, papers): https://creativecommons.org/licenses/
+-	Overview of commonly used software licences: https://choosealicense.com/licenses/
+-	If in doubt, talk to the data steward of your faculty!
+
+Quiz - Fill in the missing words based on the animation on Licenses
+
+1.	When making the data or code of your project openly available, you should provide a usage ___________ (Possible Answers: license/ licence)
+2.	The most popular licenses for data are the_________  __________ (Possible Answers: creative/Creative  commons/Commons) licenses.
+3.	As for data, there are __________ (Possible Answer: permissive/ restrictive)  and _________ (Possible Answers: restrictive /permissive) licenses for software 
+4.	Before adding a license to your code or software consult the guidelines of the university or contact the _________   __________ (Answers: data steward) of your Faculty.
+
+## Summary
+By now, you have learned about different elements that help you make the data of your project FAIR. 
+Many of them are straightforward to implement in your daily work, for example organizing your files and folders, keeping documentation of the data, reflecting about data access, etc. Other elements might require special tools or at least special tools would make your work easier. 
+We will talk about some tools for documentation and data publication when we meet in **class 2**.
+
+## Discussion 
+Discussion topic - Share your thoughts on the FAIR principles
+This discussion is centered on the key elements of FAIR. Which principle is the most challenging, the easiest, the most relevant for the type of data you work with? 
+What topic around FAIR would you like to discuss in more detail?
+
+

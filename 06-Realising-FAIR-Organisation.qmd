@@ -1,0 +1,84 @@
+---
+bibliography: references.bib
+---
+
+# Realising FAIR: Data organisation {#realisingFAIR1}
+
+![](img/adventure.jpg)
+
+In this module, we will focus on the realisation of FAIR data. 
+We will explore some best practices and tools that can facilitate the implementation of the FAIR principles. 
+At the end of this module you should be able to:
+*	Understand the importance of good data organisation and be aware of best practices around data organisation
+*	Recognize the relevance of documentation and be familiar with diverse tools to document data
+*	Identify relevant tools to advance towards FAIR data 
+*	Discuss data publication, best practices and restrictions
+
+## Activities 
+*	Watch the videos about ‘Data organisation’ and complete the corresponding quizzes.
+* Try out Cookiecutter
+
+## Data Organisation 
+In the next video we will go through some best practices to help you organise the data of your project efficiently. These best practices are using a good folder structure and an appropriate file naming convention to enhance the findability of the data in your directories.
+
+In the previous module you learned that ‘Documentation’ is one of the main elements of the FAIR principles. 
+Good data documentation starts with good organisation and file naming of the data of your project! 
+Good data organisation on your computer or your Project Data (U:) drive will allow you to make the data Findable both for yourself and for your collaborators who have access to the data. 
+Making the data findable also indirectly improves the re-usability of the data. You need to be able to find the data before you can re-use it! 
+Implementing a good folder structure, data organisation and a meaningful file naming convention is a simple first step towards making data FAIR.
+
+In the next video, we will go through some best practices to help you organise the data of your project efficiently. These best practices are using a good folder structure, tagging files (if possible) and an appropriate file naming convention to enhance the findability of the data in your directories.
+
+04-1_Module-4_Video_Presentation_Data organisation
+
+## Resources
+*	Folder structure explanation of Neuroscientist Nikola Vukovic from UC San Francisco. URL: http://nikola.me/folder_structure.html
+*	CESSDA Training Team (2017 - 2020). CESSDA Data Management Expert Guide. Bergen, Norway: CESSDA ERIC - Chapter: File naming and folder structure. URL: https://www.cessda.eu/DMGuide
+*	Marwick B, Boettiger C, Mullen L. 2018. Packaging data analytical work reproducibly using R (and friends) PeerJ Preprints 6:e3192v2 https://doi.org/10.7287/peerj.preprints.3192v2
+*	The Turing Way Community (2019, March 25). The Turing Way: A Handbook for Reproducible Data Science (Version v0.0.4). Zenodo. http://doi.org/10.5281/zenodo.3233986
+*	Tagging and Finding Your Files: Home. MIT Libraries. URL: https://libguides.mit.edu/metadataTools 
+
+
+### Quiz Data Organisation 
+Test your knowledge after watching the 'Data organisation' video. Indicate if the following sentences are True or False.
+1.	Good data organisation makes the data Findable for yourself and your collaborators.
+(Answer:  True)
+2.	Thinking about data organisation at the beginning of your project can save you a lot of time later on.  (Answer: True)
+3.	A Research Compendium does not follow a Hierarchical structure.
+(Answer:  False)
+4.	In a Research Compendium data, methods, and outputs should be clearly separated.
+(Answer: True)
+5.	Consistency is not relevant in data organisation.  (Answer: False)
+
+## Assignment: Using Cookiecutter
+Estimated time: 20 minutes
+Note that you need to have Python and pip (or conda) installed to easily follow the video.
+
+1. Watch the video on setting up a research compendium using Cookiecutter: https://vimeo.com/462773031 (3:36 min). Watching the video requires logging in to vimeo (find another link) 
+2. For instructions on how to clone the cookiecutter template see here. 
+For instructions to see hidden folders on Windows, see here.
+b. If you couldn’t get the template when following any of the methods described in the video, see here.
+3. Work on your own to populate the template with information/files from your project. 
+4. Share your folder structure on [GitHub] and comment on another person's folder structure 
+4. Discuss with your peers how similar your own folder structure is to the one you created
+using Cookiecutter. What additional elements are there in the Cookiecutter project? Is
+there anything that the Cookiecutter template is missing?
+
+If you didn’t find this template useful, you can browse these templates to see if one of these fits your needs better:
+a. [Data Science](https://github.com/drivendata/cookiecutter-data-science)
+b. [Python template](https://github.com/NLeSC/python-template)
+c. [Reproducible Science](https://github.com/mkrapp/cookiecutter-reproducible-science)
+d. [More templates](http://cookiecutter-templates.sebastianruml.name/)
+
+## Discussion 
+[link to issue FAIR realisation](link)
+
+
+## Assignment 
+Data Flow map_part 2
+
+
+## References
+●	Colavizza, G., Hrynaszkiewicz, I., Staden, I., Whitaker, K., & McGillivray, B. The citation advantage of linking publications to research data. PLOS ONE 15(4), e0230416 (2020). https://doi.org/10.1371/journal.pone.0230416
+●	European Commission. Directorate-General for Research & Innovation. H2020 Programme Guidelines on FAIR Data Management in Horizon 2020. Version 3.0. 26 July 2016. URL:https://core.ac.uk/download/pdf/301306355.pdf
+Resources:

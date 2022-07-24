@@ -2,7 +2,8 @@
 bibliography: references.bib
 ---
 
-# Introduction {#intro}
+# Introduction {#intro} 
+Estimated time: 15 min
 
 This course provides PhD candidates with the essential knowledge and the core skills to manage research data according to best practice. You will be able to integrate good data management practices within your workflow from the beginning of your projects. The application of this knowledge to your research will allow you to reflect on how to work efficiently and in a reproducible manner with your research data, while complying with funders and institutional requirements.
 
@@ -25,6 +26,15 @@ After completing this course, you will be able to:
 *	List the main components of the FAIR data principles and connect them to your own research workflows.
 *	Employ the acquired knowledge to design an efficient research data management strategy for your projects according to best practices.
 
+## Code of Conduct
+* Everyone is learning, including instructors - please have patience and respect towards each other! 
+* Use welcoming and inclusive language when interacting with your peers and instructors
+* Be respectful of different viewpoints and experiences
+* Provide and gracefully accept constructive criticism
+
+Link to DIRECT + vertrouwenspersonen Delft
+
+
 ## Assessment criteria
 
 In order to receive the 1.5 Graduate School Credits you have to:
@@ -44,6 +54,8 @@ For all deadlines:
 *	see the [Course Schedule](link) 
 
 For other questions please contact Esther. 
+
+## License and attribution
 
 
 ## References

@@ -1,0 +1,10 @@
+# Assignment 1 - Data Flow Map {#assignment1}
+Estimated time: 60 minutes
+
+
+![](img/forestgump.gif)
+
+[Assignment 1]
+Assignment week 1- Data Flow map_part 1
+[After completing Modules 1 and 2, the course participants create a Data Flow Map to apply what they learned to their own research project. For a detailed description see the publication: https://doi.org/10.5281/zenodo.6325938 ]
+
