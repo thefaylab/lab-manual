@@ -46,12 +46,8 @@ In order to receive the 1.5 Graduate School Credits you have to:
 	* Write a Data Management Plan using DMPonline
 *	Attend and participate in all Class Sessions 
 
-<<<<<<< HEAD
 Note: you will not be graded on your assignments. 
 Use the class sessions and Discussions to gather feedback.
-=======
-Note: you will not be graded on your assignments. Use the class sessions and Discussions to gather feedback.
->>>>>>> 08c625f8cd8ee62a943c7c46cbb4f0169c56084d
 
 ## Support
 

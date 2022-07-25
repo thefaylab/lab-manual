@@ -110,7 +110,9 @@ This Framework policy is accompanied by Faculty-specific data management policie
 
 *	[Faculty Research Data Management Policies](https://www.tudelft.nl/en/library/research-data-management/r/policies/tu-delft-faculty-policies) or [direct download of the TNW/AS policy](https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Beleid/2020_AS_Research_Data_Management_Policy.pdf). 
 
-Software is recognised at TU Delft as a valuable research output that needs to be well documented, preserved and, whenever possible, consistent with the FAIR principles. The TUD Research Software Policy provides a clear division of roles and responsibilities and sets out a simplified, streamlined process to help researchers share software. 
+Software is recognised at TU Delft as a valuable research output that needs to be well documented, preserved and, whenever possible, consistent with the FAIR principles. 
+The TUD Research Software Policy provides a clear division of roles and responsibilities and sets out a simplified, streamlined process to help researchers share software. 
+
 * [TUD Research Software Policy](https://zenodo.org/record/4629662)
 
 ### Policy summary
@@ -123,6 +125,7 @@ This section summarises your responsibilities as a TU Delft/Applied Sciences PhD
 Interoperable and Reusable), unless there are [valid reasons](https://www.tudelft.nl/en/library/research-data-management/r/buttons/faqs#c547686) which make research data unsuitable for sharing. (For all PhDs starting from 1 January 2019 onwards.)
 
 When sharing software: 
+
 * Use a data repository to obtain a DOI for the software. If you use [4TU.ResearchData](https://data.4tu.nl/info//en/) your software will be automatically registered. If you use other repositories, such as [Zenodo](https://zenodo.org/), you will have the register the software via PURE
 * Choose one of the pre-approved licenses: MIT, BSD, Apache, GPL, AGPL, LGPL, EUPL, CC0.
 

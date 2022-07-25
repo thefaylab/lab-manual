@@ -1,0 +1,18 @@
+---
+bibliography: references.bib
+---
+
+# Realising FAIR: Data Publication {#realisingFAIR3}
+
+
+In the next video we will delve more into data access during and after a research project. You will also be introduced to the topic of data publication and data repositories.
+Data access is one of the main elements of the FAIR principles you heard about in Module 3. Remember that it is important to reflect about data access at the beginning of your project to ensure that the right people have access to the right data. 
+One way to make the data of your project Findable and Accessible to a broad audience is to publish it in a data repository. Data repositories help you comply with the FAIR principles and make it easy to apply some of their main elements, such as Licences and Persistent identifiers.
+In the next video we will delve into data access during and after a research project. You will also be introduced to the topic of data publication and data repositories.
+[An embedded video is displayed here based on the following file:    04-3_Module-4_Video_Presentation_DataAccess_DataPublication ]
+
+References:
+●	Colavizza, G., Hrynaszkiewicz, I., Staden, I., Whitaker, K., & McGillivray, B. The citation advantage of linking publications to research data. PLOS ONE 15(4), e0230416 (2020). https://doi.org/10.1371/journal.pone.0230416
+●	European Commission. Directorate-General for Research & Innovation. H2020 Programme Guidelines on FAIR Data Management in Horizon 2020. Version 3.0. 26 July 2016. URL:https://core.ac.uk/download/pdf/301306355.pdf
+Resources:
+●	For a list of data journals, both discipline-agnostic and discipline-specific see: https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-article.html

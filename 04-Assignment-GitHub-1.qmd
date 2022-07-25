@@ -1,0 +1,8 @@
+# Assignment 1 - Getting started with GitHub {#GitHub}
+
+This part of the course is only relevant if you do not have GitHub experience. 
+
+In 5.5 you were asked to respond to an Issue. This requires you to set up your GitHub Account. 
+
+## Learn more about GitHub
+

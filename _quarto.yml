@@ -12,7 +12,7 @@ book:
     left: |
       <a href="https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/research-data-management-101">adapted from RDM101</a>
     right: |
-      This book was built with <a href="https://quarto.org/">Quarto</a> & <a href="https://thefaylab.github.io/lab-manual/>the Faylab template</a>.
+      This book was built with <a href="https://quarto.org/">Quarto</a> & <a href="https://thefaylab.github.io/lab-manual/">the Faylab template</a>.
   site-url: https://estherplomp.github.io/TNW-RDM-101/
   repo-url: https://github.com/EstherPlomp/TNW-RDM-101/
   repo-actions: [edit,issue]
@@ -22,14 +22,14 @@ book:
     - 01-Introduction.qmd
     - 02-Importance-of-RDM.qmd
     - 03-Essentials-for-Research-Data.qmd
-    - 04-Assignment-Data-Flow-Map-1.qmd
-    - 05-FAIR-principles.qmd
-    - 06-Realising-FAIR-Organisation.qmd
-    - 07-Realising-FAIR-Documentation.qmd
-    - 08-Realising-FAIR-Publication.qmd
-    - 09-Plan-for-RDM.qmd
-    - 10-Wrap-up.qmd
-    - 11-computing.qmd
+    - 04-Assignment-GitHub-1.qmd
+    - 05-Assignment-Data-Flow-Map-1.qmd
+    - 06-FAIR-principles.qmd
+    - 07-Realising-FAIR-Organisation.qmd
+    - 08-Realising-FAIR-Documentation.qmd
+    - 09-Realising-FAIR-Publication.qmd
+    - 10-Plan-for-RDM.qmd
+    - 11-Wrap-up.qmd
     - 12-umassd-resources.qmd
 #    - 13-smast-resources.qmd
 #    - 14-other-faylab-resources.qmd  

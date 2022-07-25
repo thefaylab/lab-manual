@@ -4,7 +4,6 @@ bibliography: references.bib
 
 # Realising FAIR: Data Documentation {#realisingFAIR2}
 
-![](img/adventure.jpg)
 
 In this module, we will focus on the realisation of FAIR data. 
 We will explore some best practices and tools that can facilitate the implementation of the FAIR principles. 
