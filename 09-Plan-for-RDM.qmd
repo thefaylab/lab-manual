@@ -1,8 +1,10 @@
 # Plan for RDM {#plan}
+Estimated time: 120 minutes
 
 We will take a closer look at planning for RDM. 
 In relation to this, data management plans and the tool DMPonline will be further explained. 
 At the end of this module you should be able to:
+
 *	Recognize the relevance of planning research data management
 *	Get familiar with the concept of Data Management Plans and their format
 *	Create a data management plan using the appropriate tool
@@ -21,9 +23,10 @@ Script adapted from: Holmstrand, K.F., den Boer, S.P.A., Vlachos, E., Martínez-
 
 ## Why create a Data Management Plan?
 
-Why is it necessary to create a data management plan? Watch the following video in which a researcher and data steward talk about the importance of creating a data management plan.
-* Natalia Romero Herrera talking about the benefits of writing a DMP
-[Embedded video: https://youtu.be/2GSEqmFxNrc ]
+Why is it necessary to create a data management plan? 
+Watch the following video in which a researcher and data steward talk about the importance of creating a data management plan.
+
+* [Natalia Romero Herrera talking about the benefits of writing a DMP](https://youtu.be/2GSEqmFxNrc)
 * [Esther Plomp talking about the benefits of writing a DMP](https://youtu.be/li_3MkeACbY) 
 
 ## Introduction to DMP online
@@ -31,24 +34,28 @@ Why is it necessary to create a data management plan? Watch the following video 
 This introduction will provide you with a step-by-step guide for creating a DMPonline account and with an explanation of its main features. 
 You will create your own account and explore the TU Delft template.
 With DMPonline you can:
-●	Write your plan and easily update it throughout the lifecycle of your project;
-●	Share your plan with internal and external collaborators and ask for feedback from your Faculty Data Steward;
-●	Download your plan in a variety of formats.
+
+*	Write your plan and easily update it throughout the lifecycle of your project;
+*	Share your plan with internal and external collaborators and ask for feedback from your Faculty Data Steward;
+*	Download your plan in a variety of formats.
  
 
 ## Activity - Create a DMP:
 In this activity you will be creating an account for DMPonline, and use the TU Delft template to create a plan for your project. 
 In the following document, DMPonline user guide, you will find a clear step-by-step guide to complete this activity. We expect you to:
+
 1. Create an account in DMPonline 
 2. ‘Create a new plan’ for your project choosing ‘Delft University of Technology’ as the primary research organisation
-a.	Tick ‘No funder associated with this plan or my funder is not listed’ in the ‘primary funding organisation’
+and tick ‘No funder associated with this plan or my funder is not listed’ in the ‘primary funding organisation’
 3. Fill in the ‘Project Details’ according to your project.
 4. Go to ‘Write Plan’ 
 5. Go back to your slides or papers and post-it’s of your data flow map of week 1 and 2 and use the information in there to fill in the questions of the data management plan. If appropriate, you can use the ‘Additional Information’ box in the template to add as many details as possible according to your data flow map.
 6. If you don’t know how to answer any of the questions please let us know in [Issue ? on GitHub](link). 
 
 ## Discussion - Questions & Reflections about your DMP (mandatory)
-Please share your questions and/or reflections that came up while filling in the DMP of your project. For example:
+Please share your questions and/or reflections that came up while filling in the DMP of your project. 
+For example:
+
 *	Were you able to answer all the questions on the DMP template using your Data Flow Map? 
 *	If not, which sections were you not able to answer? What kind of additional information would you need?
 

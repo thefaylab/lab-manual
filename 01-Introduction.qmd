@@ -1,9 +1,6 @@
----
-bibliography: references.bib
----
 
 # Introduction {#intro} 
-Estimated time: 15 min
+Estimated time: 15 minutes
 
 This course provides PhD candidates with the essential knowledge and the core skills to manage research data according to best practice. You will be able to integrate good data management practices within your workflow from the beginning of your projects. The application of this knowledge to your research will allow you to reflect on how to work efficiently and in a reproducible manner with your research data, while complying with funders and institutional requirements.
 
@@ -33,23 +30,29 @@ After completing this course, you will be able to:
 * Be respectful of different viewpoints and experiences
 * Provide and gracefully accept constructive criticism
 
-Link to DIRECT + vertrouwenspersonen Delft
+See also the [TU Delft Code of Conduct](https://www.tudelft.nl/en/about-tu-delft/strategy/integrity-policy/tu-delft-code-of-conduct). 
+
+If at any point you're confronted with undesirable behaviour, please reach out to the instructor or the [TU Delft confidential advisors](https://www.tudelft.nl/en/about-tu-delft/strategy/integrity-policy/confidential-advisors).
 
 
 ## Assessment criteria
 
 In order to receive the 1.5 Graduate School Credits you have to:
+
 *	Complete all activities 
   * Interact with all course activities ( topics & quizzes)
   * Participate in all discussions (Q&A are optional)
 	* Submit assignments (data flow maps) in weeks 1 and 2 and the assignment of week 3 (reflection on RDM strategy).
+	* Write a Data Management Plan using DMPonline
 *	Attend and participate in all Class Sessions 
 
-Note: you will not be graded on your assignments. Use the class sessions and Discussions to gather your feedback.
+Note: you will not be graded on your assignments. 
+Use the class sessions and Discussions to gather feedback.
 
 ## Support
 
-You will get most out of this course by interacting with your peers and the instructor. You can do this via GitHub issues, where you can also ask questions.   
+You will get most out of this course by interacting with your peers and the instructor. 
+You can do this via GitHub issues, where you can also ask questions.   
 
 For all deadlines:
 *	see the [Course Schedule](link) 
@@ -59,7 +62,7 @@ For other questions please contact Esther.
 ## License and attribution
 
 **All the course materials can be found here**:
-Martinez-Lavanchy, P.M., van Schöll, Pim, & Zormpa, Eirini. (2022). TU Delft Research Data Management 101 course. Zenodo. https://doi.org/10.5281/zenodo.6325919
+Martinez-Lavanchy, P.M., van Schöll, Pim, & Zormpa, Eirini. (2022). TU Delft Research Data Management 101 course. Zenodo. doi: [10.5281/zenodo.6325919](https://doi.org/10.5281/zenodo.6325919)
 
 Parts of the content of this course are based on: 
 Holmstrand, K.F., den Boer, S.P.A., Vlachos, E., Martínez-Lavanchy, P.M., Hansen, K.K. (Eds.) (2019). Research Data Management (eLearning course). doi: [10.11581/dtu:00000047](https://doi.org/10.11581/dtu:00000047)
@@ -69,5 +72,4 @@ Allaire, J., Teague, C., Scheidegger, C., Xie, Y., & Dervieux, C. (2022). Quarto
 
 This website is a copy of the [lab manual for the Fay Lab](https://thefaylab.github.io/lab-manual/) at the University of Massachusetts Dartmouth School for Marine Science and Technology thanks to their group's participation in the [Openscapes Champions program](https://openscapes.org).
 
-## References
 
