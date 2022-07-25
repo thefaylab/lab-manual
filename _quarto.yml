@@ -23,16 +23,16 @@ book:
     - 02-Importance-of-RDM.qmd
     - 03-Essentials-for-Research-Data.qmd
     - 04-Assignment-GitHub-1.qmd
-    - 05-Assignment-Data-Flow-Map-2.qmd
+    - 05-Assignment-Data-Flow-Map-1.qmd
     - 06-FAIR-principles.qmd
     - 07-Realising-FAIR-Organisation.qmd
     - 08-Realising-FAIR-Documentation.qmd
     - 09-Realising-FAIR-Publication.qmd
     - 10-Plan-for-RDM.qmd
-    - 11-Wrap-up.qmd
-    - 12-umassd-resources.qmd
-#    - 13-smast-resources.qmd
-#    - 14-other-faylab-resources.qmd  
+    - 11-Assignment-DMP.qmd
+    - 12-Assignment-Data-Flow-Map-3.qmd
+    - 13-Wrap-up.qmd
+
 
 
 # not sure what the following line does; those files are present
