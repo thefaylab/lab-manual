@@ -12,3 +12,5 @@ And why?
 • If you haven’t implemented anything yet, what will you get started with tomorrow after the course ends? 
 
 You will have 4 minutes to present your slide during **class 2** to your peers and they will have the chance to ask questions or exchange ideas! 
+
+Martinez-Lavanchy, P.M., van Schöll, Pim, Zormpa, Eirini, & Singotani, Roséane Cathy. (2022, July 8). TU Delft Research Data Management 101 course - Assignments Data Flow Map. Zenodo. https://doi.org/10.5281/zenodo.6325938
