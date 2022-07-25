@@ -5,21 +5,12 @@ Starting with creating awareness about RDM, we have seen the essentials of RDM, 
 In this final module we give the opportunity to reflect on the course and share remaining questions. 
 
 At the end of this course you will be able to: 
+
 * Realise the important role that good data management plays in research
 *	Identify different types of research data and recognize the regulations, policies and/or legal requirements associated with them
 *	List the main components of the FAIR data principles and connect them to your own research workflows
 *	Employ the acquired knowledge to design an efficient research data management strategy for your project according to best practices
 
-## Assignment
-This week will conclude with the final **class 3**. **Make sure to submit [the assignment] before the meeting as you will present it in groups during the class.** See you there!
-
-
-## **Class 3**:
-*	We will summarise some of the main takeaways of the course.
-*	You will have the opportunity to discuss what you learned from the data flow maps.
-* Your instructor will answer any final question you might have.
-[You can find the programme and activities of the virtual class in the following files: 06-1_Module-6_Virtual_Class_Presentation and 
-06-2_Module-6_Virtual_Class_Description_of_activities]
 
 ## Feedback
 
