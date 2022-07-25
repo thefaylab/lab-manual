@@ -1,25 +1,38 @@
 # Welcome!
 
-Welcome to our book of magical secrets.
 
-<br> This is a copy of the [lab manual for the Fay Lab](https://thefaylab.github.io/lab-manual/) at the University of Massachusetts Dartmouth School for Marine Science and Technology.
-The focus of our work centers around developing interdisciplinary modeling approaches to extend the scope of applications for fisheries and ecosystem-based management. More about our group's research activity can be found on our [website](https://thefaylab.com).
+This website is an adaptation of the [Research Data Management 101 Course](https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/research-data-management-101) provided by TU Delft Library. 
 
-This lab manual resource is intended to provide an overview for lab members and others about how we do our work, and our expectations for our team. It is also a space to document institutional knowledge and for important information about procedures and available resources. If you have suggestions for additions or changes, please contact Gavin (gfay\@umassd.edu) or make a pull request.
-
-<br>
-
-The content for this book was developed as part of our group's participation in the [Openscapes Champions program](https://openscapes.org).\
-We are extremely grateful to and acknowledge [Dr. Julia Stewart Lowndes](https://twitter.com/juliesquid)' role in helping shape how our lab both works and how we articulate our identity. 🙏\
-Thanks also to [Ileana Fenwick](https://twitter.com/_ileanaf) and [Stefanie Butland](https://twitter.com/StefanieButland) for their work moving the lab-manual from bookdown to Quarto. 🙌\
+<br>This course provides PhD candidates with the essential knowledge and the core skills to manage research data according to best practice. 
+Learners will be able to integrate good data management practices within their workflows from the beginning of their projects. 
+The application of this knowledge to their research will allow them to reflect on how to work efficiently and in a reproducible manner with their research data, while complying with funders and institutional requirements.
 
 
-[![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){fig-align="left" width="35px"}](https://github.com/thefaylab/lab-manual) \< link to this book's GitHub repository. Also see [Quick steps to making a copy of the lab manual and publishing it](https://github.com/thefaylab/lab-manual/wiki/Quick-steps-to-making-a-copy-of-the-lab-manual-&-publishing-it)!
+<br>This is a three weeks blended course, meaning that is a mix of self-studying and two in-person class meetings.
+* The time to be spent for the course is approximately 16 hours in total, which is equivalent to 1.5 GS credits in the category of Research skills of the GS Education Programme, if the requirements are fulfilled.
+* The online learning environment is this website and it's GitHub Repository. 
+Participants will have to set up a GitHub account to participate and will be instructed on how GitHub works. 
+
+
+<br>**All the course materials can be found here**:
+Martinez-Lavanchy, P.M., van Schöll, Pim, & Zormpa, Eirini. (2022). TU Delft Research Data Management 101 course. Zenodo. https://doi.org/10.5281/zenodo.6325919
+
+<br>Parts of the content of this course are based on: 
+Holmstrand, K.F., den Boer, S.P.A., Vlachos, E., Martínez-Lavanchy, P.M., Hansen, K.K. (Eds.) (2019). Research Data Management (eLearning course). doi: [10.11581/dtu:00000047](https://doi.org/10.11581/dtu:00000047)
+
+
+<br>This website is made using [Quarto](https://quarto.org/)
+Allaire, J., Teague, C., Scheidegger, C., Xie, Y., & Dervieux, C. (2022). Quarto (Version 0.3) [Computer software]. https://doi.org/10.5281/zenodo.5960048
+
+<br> This website is a copy of the [lab manual for the Fay Lab](https://thefaylab.github.io/lab-manual/) at the University of Massachusetts Dartmouth School for Marine Science and Technology thanks to their group's participation in the [Openscapes Champions program](https://openscapes.org).
+
+[![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){fig-align="left" width="35px"}](https://github.com/thefaylab/lab-manual) \< link to this book's template GitHub repository. Also see [Quick steps to making a copy of the lab manual and publishing it](https://github.com/thefaylab/lab-manual/wiki/Quick-steps-to-making-a-copy-of-the-lab-manual-&-publishing-it)!
 
 ![](img/openscapes_hex_badge.png){width="25%"}
 
-[*We're proud Openscapes Champions!*](https://openscapes.org)
+
 
 ------------------------------------------------------------------------
 
-[![](img/creative_commons.png)](http://creativecommons.org/licenses/by/4.0/){fig-alt="Creative Commons License"}This lab is licensed under a [Creative Commons Attribution 4.0 International License.](http://creativecommons.org/licenses/by/4.0/)
+[![](img/creative_commons.png)](http://creativecommons.org/licenses/by/4.0/){fig-alt="Creative Commons License"}This webpage is licensed under a [Creative Commons Attribution 4.0 International License.](http://creativecommons.org/licenses/by/4.0/) and requires the attribution of the [lab manual for the Fay Lab](https://thefaylab.github.io/lab-manual/) and Martinez-Lavanchy, P.M., van Schöll, Pim, & Zormpa, Eirini. (2022, July 8). TU Delft Research Data Management 101 course. Zenodo. https://doi.org/10.5281/zenodo.6325919. 
+

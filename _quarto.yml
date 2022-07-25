@@ -4,9 +4,9 @@ project:
   
 book:
   title: "TNW RDM 101"
-  author: "Esther Plomp"
+  author: "Esther Plomp, Paula Martinez-Lavanchy, Pim van Schöll, Eirini Zormpa"
   date: last-modified 
-  description: "TNW RDM 101" 
+  description: "[RDM 101 course](https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/research-data-management-101) adapted for the Faculty of Applied Sciences" 
   
   page-footer:
     left: |
