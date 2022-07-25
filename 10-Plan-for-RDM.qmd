@@ -38,28 +38,7 @@ With DMPonline you can:
 *	Write your plan and easily update it throughout the lifecycle of your project;
 *	Share your plan with internal and external collaborators and ask for feedback from your Faculty Data Steward;
 *	Download your plan in a variety of formats.
+
+See the next module for the [assignment to create your DMP](https://estherplomp.github.io/TNW-RDM-101/11-Assignment-DMP.html). 
  
-
-## Activity - Create a DMP:
-In this activity you will be creating an account for DMPonline, and use the TU Delft template to create a plan for your project. 
-In the following document, DMPonline user guide, you will find a clear step-by-step guide to complete this activity. We expect you to:
-
-1. Create an account in DMPonline 
-2. ‘Create a new plan’ for your project choosing ‘Delft University of Technology’ as the primary research organisation
-and tick ‘No funder associated with this plan or my funder is not listed’ in the ‘primary funding organisation’
-3. Fill in the ‘Project Details’ according to your project.
-4. Go to ‘Write Plan’ 
-5. Go back to your slides or papers and post-it’s of your data flow map of week 1 and 2 and use the information in there to fill in the questions of the data management plan. If appropriate, you can use the ‘Additional Information’ box in the template to add as many details as possible according to your data flow map.
-6. If you don’t know how to answer any of the questions please let us know in [Issue ? on GitHub](link). 
-
-## Discussion - Questions & Reflections about your DMP (mandatory)
-Please share your questions and/or reflections that came up while filling in the DMP of your project. 
-For example:
-
-*	Were you able to answer all the questions on the DMP template using your Data Flow Map? 
-*	If not, which sections were you not able to answer? What kind of additional information would you need?
-
-## Assignment - Reflection on your Data Flow Map
-
-Go back to their [Data Flow Map](link) and reflect on your challenges, share experiences and tips with their peers and decide on the next steps to start implementing what they learned in their daily work with data. 
 
