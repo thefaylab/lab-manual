@@ -6,13 +6,13 @@ book:
   title: "TNW RDM 101"
   author: "Esther Plomp, Paula Martinez-Lavanchy, Pim van Schöll, Eirini Zormpa"
   date: last-modified 
-  description: "[RDM 101 course](https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/research-data-management-101) adapted for the Faculty of Applied Sciences" 
+  description: "TNW RDM 101 course" 
   
   page-footer:
     left: |
-      <a href="https://estherplomp.github.io/TNW-RDM-101/">TNW RDM 101</a>
+      <a href="https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/research-data-management-101">adapted from RDM101</a>
     right: |
-      This book was built with <a href="https://quarto.org/">Quarto</a>.
+      This book was built with <a href="https://quarto.org/">Quarto</a> & <a href="https://thefaylab.github.io/lab-manual/>the Faylab template</a>.
   site-url: https://estherplomp.github.io/TNW-RDM-101/
   repo-url: https://github.com/EstherPlomp/TNW-RDM-101/
   repo-actions: [edit,issue]
