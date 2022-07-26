@@ -22,17 +22,18 @@ book:
     - 01-Introduction.qmd
     - 02-Importance-of-RDM.qmd
     - 03-Assignment-GitHub-1.qmd
-    - 04-Essentials-for-Research-Data.qmd
-    - 05-Assignment-Data-Flow-Map-1.qmd
-    - 06-FAIR-principles.qmd
-    - 07-Realising-FAIR-Organisation.qmd
-    - 08-Realising-FAIR-Documentation.qmd
-    - 09-Realising-FAIR-Publication.qmd
-    - 10-Plan-for-RDM.qmd
-    - 11-Assignment-DMP.qmd
-    - 12-Assignment-Data-Flow-Map-3.qmd
-    - 13-Class-2.qmd
-    - 14-Wrap-up.qmd
+    - 04-Class-1.qmd
+    - 05-Essentials-for-Research-Data.qmd
+    - 06-Assignment-Data-Flow-Map-1.qmd
+    - 07-FAIR-principles.qmd
+    - 08-Realising-FAIR-Organisation.qmd
+    - 09-Realising-FAIR-Documentation.qmd
+    - 10-Realising-FAIR-Publication.qmd
+    - 11-Plan-for-RDM.qmd
+    - 12-Assignment-DMP.qmd
+    - 13-Assignment-Data-Flow-Map-3.qmd
+    - 14-Class-2.qmd
+    - 15-Wrap-up.qmd
 
 
 
