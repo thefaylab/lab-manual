@@ -4,9 +4,9 @@
 
 With DMPonline you can:
 
-*	Write your plan and easily update it throughout the lifecycle of your project;
-*	Share your plan with internal and external collaborators and ask for feedback from your Faculty Data Steward;
-*	Download your plan in a variety of formats.
+*	Write your plan and easily update it throughout the lifecycle of your project
+*	Share your plan with internal and external collaborators and ask for feedback from your Faculty Data Steward
+*	Download your plan in a variety of formats
 
 ## Create a DMP using DMPonline
 For this assignment, please create an account for [DMPonline](https://dmponline.tudelft.nl/), and use the TU Delft template to create a plan for your project. 
@@ -20,12 +20,10 @@ and tick ‘No funder associated with this plan or my funder is not listed’ in
 5. Go back to your slides or papers and post-it’s of your data flow map of week 1 and 2 and use the information in there to fill in the questions of the data management plan. If appropriate, you can use the ‘Additional Information’ box in the template to add as many details as possible according to your data flow map.
 6. If you don’t know how to answer any of the questions please let us know in [Issue ? on GitHub](link). 
 
-## Share your DMP 
-Please add a link to your DMP to [GitHub issue #](link).
-
-If you want, you can elaborate and answer the following questions: 
-
-*	Were you able to answer all the questions on the DMP template using your Data Flow Map? 
-*	If not, which sections were you not able to answer? What kind of additional information would you need?
+## Submit your assignment 
+When you're done filling out your Data Management Plan, you can **ask for Feedback using the 'Feedback' button**. 
+This will notify Esther that your plan is ready. 
+If you weren't able to answer all the questions, this is also the way to ask for support.
+Please **finalise your DMP before class 2**
 
 
