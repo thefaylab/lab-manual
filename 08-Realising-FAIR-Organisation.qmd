@@ -27,9 +27,9 @@ Implementing a good folder structure, data organisation and a meaningful file na
 
 In the next video, we will go through some best practices to help you organise the data of your project efficiently. These best practices are using a good folder structure, tagging files (if possible) and an appropriate file naming convention to enhance the findability of the data in your directories.
 
-04-1_Module-4_Video_Presentation_Data organisation
+[04-1_Module-4_Video_Presentation_Data organisation](https://surfdrive.surf.nl/files/index.php/s/gyIxtQ1O155GI3h) (15 minutes)
 
-### Resources
+### Presentation Resources
 *	[Folder structure explanation of Neuroscientist Nikola Vukovic](http://nikola.me/folder_structure.html)
 *	[The Turing Way - Data storage and organisation](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-storage.html) The Turing Way Community (2019, March 25). 
 *	[Tagging and Finding Your Files: Home. MIT Libraries](https://libguides.mit.edu/metadataTools)
@@ -52,7 +52,7 @@ Estimated time: 20 minutes
 
 Note that you need to have Python and pip (or conda) installed to easily follow the video.
 
-1. Watch the video on [setting up a research compendium using Cookiecutter](https://vimeo.com/462773031) (3:36 min). Watching the video requires logging in to vimeo (find another link) 
+1. Watch the video on [setting up a research compendium using Cookiecutter](https://vimeo.com/462773031) (3:36 min). 
 2. For instructions on how to clone the cookiecutter template see here. 
 For instructions to see hidden folders on Windows, see here.
 b. If you couldn’t get the template when following any of the methods described in the video, see here.
