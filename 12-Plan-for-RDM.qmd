@@ -29,6 +29,8 @@ Watch the following video in which a researcher and data steward talk about the 
 * [Natalia Romero Herrera talking about the benefits of writing a DMP](https://youtu.be/2GSEqmFxNrc)
 * [Esther Plomp talking about the benefits of writing a DMP](https://youtu.be/li_3MkeACbY) 
 
+![](https://raw.githubusercontent.com/EstherPlomp/PRES-data-software/main/images/data-management-plan.jpg)
+
 See the next module for the [assignment to create your DMP](https://estherplomp.github.io/TNW-RDM-101/11-Assignment-DMP.html). 
 
 

@@ -30,11 +30,16 @@ If you would like to look for a disciplinary specific data repository, you can u
 * [re3data.org](https://www.re3data.org/)
 * [fairsharing.org](https://fairsharing.org/)
 
+## Data/Software Articles
+
 You can also share your data and code via a **data or software article**. 
 
 * [list of data journals](https://openworking.wordpress.com/2022/02/17/publishing-a-data-article/) with TU Delft resources indicated
 * [In which journal should I publish my software?](https://www.software.ac.uk/which-journals-should-i-publish-my-software)
     * for example: the [Journal of Open Source Software (JOSS)](https://joss.theoj.org/)
+    
+## Why not the supplemental materials? 
+* Check [this slide](https://estherplomp.github.io/PRES-data-software/#27) on some downsides of sharing your data/code in supplemental materials
 
 ## References:
 *	Colavizza, G., Hrynaszkiewicz, I., Staden, I., Whitaker, K., & McGillivray, B. The citation advantage of linking publications to research data. PLOS ONE 15(4), e0230416 (2020). https://doi.org/10.1371/journal.pone.0230416
