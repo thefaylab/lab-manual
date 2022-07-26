@@ -13,13 +13,13 @@ At the end of this course you will be able to:
 
 
 ## Feedback
-
+Please fill out [this Form](link).
 
 ## Other Courses 
 
 - Check out the RDM website of the Library for an [overview of what other courses are available](https://www.tudelft.nl/en/library/research-data-management/)!
 - [Open Science MOOC: Sharing your research with the world](https://www.tudelft.nl/en/library/mooc-open-science-sharing-your-research-with-the-world)
-- Open Life Science program
+- [Open Life Science program](https://openlifesci.org/) which can be attended for 5 Discipline Specific Graduate School . For the course description and more details, see [intranet](https://intranet.tudelft.nl/-/open-life-science-programme).
 
 
 

@@ -1,7 +1,7 @@
 # Assignment 5 - Data Flow Map reflection {#assignment6}
 Estimated time: 60 minutes
 
-Go back to your [Data Flow Map](https://estherplomp.github.io/TNW-RDM-101/06-Assignment-Data-Flow-Map-1.html) and reflect on your challenges, experiences and tips. 
+Go back to your [Data Flow Map](https://estherplomp.github.io/TNW-RDM-101/11-Assignment-Data-Flow-Map-2.html) and reflect on your challenges, experiences and tips. 
 
 You will have to prepare and submit a slide before **class 2** about: 
 
@@ -12,5 +12,7 @@ And why?
 * If you haven’t implemented anything yet, what will you get started with tomorrow after the course ends? 
 
 You will have 4 minutes to present your slide during **class 2** to your peers and they will have the chance to ask questions or exchange ideas! 
+
+Please **submit your slide to Esther before ... **
 
 Martinez-Lavanchy, P.M., van Schöll, Pim, Zormpa, Eirini, & Singotani, Roséane Cathy. (2022, July 8). TU Delft Research Data Management 101 course - Assignments Data Flow Map. Zenodo. https://doi.org/10.5281/zenodo.6325938

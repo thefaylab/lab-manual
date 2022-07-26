@@ -22,6 +22,8 @@ Applying the FAIR principles means to make research data Findable, Accessible, I
 
 These four principles should be applied (as much as possible) throughout the entire research cycle and they are closely interconnected with each other.
 
+![](https://the-turing-way.netlify.app/_images/fair-principles.jpg){width="25%"}
+
 The FAIR Data principles are NOT:
 
 *	A standard. 
@@ -46,18 +48,13 @@ Videos: Key elements to make data FAIR
 
 More resources on licences:
 
-*	Information on the Creative Commons (CC) licences (for research outputs like data, presentations, papers): https://creativecommons.org/licenses/
-*	Overview of commonly used software licences: https://choosealicense.com/licenses/
-*	If in doubt, talk to the data steward of your faculty!
+*	Licenses for data, presentations and articles: [Creative Commons (CC)](https://creativecommons.org/licenses/), or use the [license chooser](https://chooser-beta.creativecommons.org/). 
+*	Software: [Choose a License](https://choosealicense.com/licenses/).
+*	If in doubt, talk to Esther. 
 
 ## Assessing FAIRness 
 Check out one of these datasets and evaluate how Findable, Accessible, Interoperable, Re-usable (FAIR) you think this data set is. 
 If you have other examples to share, please do so in [GitHub Issue](link)
-
-## Summary
-By now, you have learned about different elements that help you make the data of your project FAIR. 
-Many of them are straightforward to implement in your daily work, for example organizing your files and folders, keeping documentation of the data, reflecting about data access, etc. Other elements might require special tools or at least special tools would make your work easier. 
-
 
 ## References:
 * “The FAIR Guiding Principles for scientific data management and stewardship” Wilkinson et al. 2016. https://doi.org/10.1038/sdata.2016.18

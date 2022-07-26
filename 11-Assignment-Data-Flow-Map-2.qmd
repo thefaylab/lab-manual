@@ -2,34 +2,73 @@
 Estimated time: 60 minutes
 
 
-## Step 1 - Use the datasets and description from the [first Data Flow Map assignment](https://estherplomp.github.io/TNW-RDM-101/06-Assignment-Data-Flow-Map-1.html).
-*Go back to the results of the previous assignment where you listed the datasets you will be collecting/creating in your project and you also briefly described them. 
+Now that you learned about how to make your data more FAIR, you will have another look at the [Data Flow Map assignment](https://estherplomp.github.io/TNW-RDM-101/06-Assignment-Data-Flow-Map-1.html).
 
-2. Reflect on how you can apply what you have learned in Module 3 and 4 to the different datasets in your list. We are providing you with new themes and some guiding text that can help you in your reflection and will allow you to structure the information. Remember to take into consideration the flags (relevant attributes) you have added to the different data types, which can determine the way you handle each of the themes. Also, remember that you can duplicate slides, if you have more than three datasets. 3. Copy the datasets to the new template 
+## Step 1 - How to apply FAIR to your Data Flow Map
 
-## Step 2 - Reflect on the theme Data organization Data organization
-- good documentation starts with good data organization. Think about a good folder structure for your project. In which folder will you place the datasets you listed? Think also about some naming conventions for your files. You can select one convention to use across all datasets or you can define different ones for each dataset. But, remember that once you choose a convention you need to be consistent. Reflect and answer this as one theme for all the datasets: 1. What folder structure will you use for your project? (and how does the data fit in there) 2. What naming convention are you going to use? (show us an example based on your expected dataset) 3. Additional remarks 
+* We are providing you with new themes and some guiding text that can help you in your reflection and will allow you to structure the information. 
+    * Dowload this week's template from the data repository: 
+        * Go to [https://doi.org/10.5281/zenodo.6325938](https://doi.org/10.5281/zenodo.6325938)
+        * Download the 4th file: RDM101_Assignment2_Week2_DataFlowMap_Template.pptx
+* You can duplicate slides if you have more than three datasets. 
+* Copy the datasets to the new template
+    * Remember to take into consideration the flags (relevant attributes) you have added to the different data types, which can determine the way you handle each of the themes. 
 
-## Step 3 - Reflect on the theme Documentation Documentation 
-- think about what type of documentation is relevant for the different datasets you will be collecting/creating. For some datasets, you might need to record only metadata, for others you might need to create a data dictionary or in other cases you might need more extensive information describing the process of data collection. Additionally, indicate if you will be using any of the documentation tools we explored in Module 4. Reflect and answer these questions for each dataset: 1. What type of documentation do you need to generate/write? (e.g., metadata, data collection process, data dictionary, code versioning, etc.) 2. What tools are helpful to generate/write the documentation needed? 3. Additional remarks
+## Step 2 - Reflect on the theme [Data organisation](https://estherplomp.github.io/TNW-RDM-101/08-Realising-FAIR-Organisation.html) 
 
-## Step 4 - Reflect on the theme Metadata Metadata - Metadata is a relevant type of documentation. Think about what type of metadata is necessary to add to your datasets. Do you need to collect just generic metadata e.g. Date of collection/creation, author? Or, do you need more specific metadata e.g. location of collection, instrument model, name of the software to be able to read the data? Remember that you can always look in FAIRsharing.org if a metadata standard exists for your discipline or type of data. If you find one that makes sense to use for your datasets, provide the name and the link to it. 1. List some of the relevant metadata you need to record for each dataset and/or indicate (and provide the link to it) if you will use a metadata standard existing in your discipline. 
+Reflect and answer this as one theme for all the datasets: 
 
-## Step 5 - Reflect on the theme File formats File formats - Remember that file formats can enable or not interoperability and reusability. You already provided the data format in which you will collect/create the different datasets in your project (assignment 1). Go back to that information and think if you can convert those formats to an open file format that would increase interoperability if somebody would like to reuse the data. Reflect and answer these questions for each dataset: 1. Are your files in an open file format? Or, is the code in an open programming language? 2. Can you convert the proprietary file formats to an open file format? If yes, to which open file format? 3. If the data/code is in a proprietary format, what information/software would others need to re-use the data/code? 
+1. What folder structure will you use for your project? (and how does the data fit in there) 
+2. What naming convention are you going to use? (show us an example based on your expected dataset) 
+    * You can select one convention to use across all datasets or you can define different ones for each dataset. 
+    * Remember that once you choose a convention you need to be consistent. 
+3. Additional remarks 
 
-## Step 6 - Reflect on the theme Access Access
+## Step 3 - Reflect on the theme [Metadata and Documentation](https://estherplomp.github.io/TNW-RDM-101/09-Realising-FAIR-Documentation.html)
+
+Reflect and answer these questions for each dataset: 
+
+1. What type of documentation do you need to generate/write? (metadata, data collection process, data dictionary, code versioning, etc.) 
+2. Will you use a metadata standard to document your data? 
+    * You can use [FAIRsharing.org](https://fairsharing.org/) to check if a metadata standard exists for your discipline or type of data. 
+    If one exists, you can provide the name and the link on FAIRsharing to it. 
+3. What tools are helpful to generate/write the documentation needed? 
+4. Additional remarks
+
+## Step 4 - Reflect on the theme File formats 
+Remember that **file formats** can enable or not interoperability and reusability. 
+You already provided the data format in which you will collect/create the different datasets in your project (assignment 2). 
+Go back to that information and think if you can convert those formats to an open file format that would increase interoperability if somebody would like to reuse the data. 
+
+Reflect and answer these questions for each dataset: 
+
+1. Are your files in an open file format? Or, is the code in an open programming language? 
+2. Can you convert the proprietary file formats to an open file format? If yes, to which open file format? 
+3. If the data/code is in a proprietary format, what information/software would others need to re-use the data/code? 
+
+## Step 6 - Reflect on the theme [Access and Publication](https://estherplomp.github.io/TNW-RDM-101/10-Realising-FAIR-Publication.html) 
 It is important to reflect early in your project about who will be accessing the datasets you collect/create, when they will access the data in the different steps of the project and how. 
-Also, before preparing your data for publication, you need to reflect if it is possible/allowed for you to publish the data. You might need to process some data before you can make them available, especially if you are working with confidential data. Reflect and answer these questions for each dataset: 1. Who will have access to this dataset during the project? 2. If others than you will have access to the dataset during the project, how will you share the data? 3. At the end of the project this dataset can be: a. ‘open’ - no confidential information in it , it can be published b. ‘restricted access’ - there is confidential information in it, can’t be anonymize, can’t be published c. ‘restricted access with public metadata’ - there is confidential information in it, but the description of the dataset can be published 4. Go to the toolbox and use the action arrows to indicate if you need to process the data before publishing them
+Also, before preparing your data for publication, you need to reflect if it is possible/allowed for you to publish the data. 
+You might need to process some data before you can make them available, especially if you are working with confidential data. 
 
-## Step 7 - Reflect on the theme Data Publication 
-Depending on your reflections on accessibility answer the following for each dataset: 
+Reflect and answer these questions for each dataset: 
 
-1. If the dataset is marked as ‘open’, in which repository would you publish it? 
-2. If the dataset is marked as ‘restricted access’ how can somebody request the data after you finish your project? 
-3. If the dataset is marked ‘restricted access with public metadata’ where will you publish the metadata and where will the data be stored? 
-4. Do the repositories you plan to use provide a DOI for the dataset? Does it allow you to provide a licence? Which licence would you use?
+1. Who will have access to this dataset during the project? 
+2. If others than you will have access to the dataset during the project, how will you share the data? 
+3. At the end of the project this dataset can be: 
+    a. **open** - no confidential information in it , it can be published 
+        * In which repository will you publish it?
+        * Does the repository provide a DOI and license for the dataset?
+        * What [license](https://estherplomp.github.io/TNW-RDM-101/07-FAIR-principles.html#data-and-code-licences) do you plan to use? 
+    b. **restricted access** - there is confidential information in it, can’t be anonymize, can’t be published 
+        * How can somebody request the data after you finish your project? 
+    c. **restricted access with public metadata** - there is confidential information in it, but the description of the dataset can be published
+        * Where will you publish the metadata and where will the data be stored? 
+        * Does the repository provide a DOI and license for the metadata?
+        * What [license](https://estherplomp.github.io/TNW-RDM-101/07-FAIR-principles.html#data-and-code-licences) do you plan to use? 
+4. Go to the toolbox and use the action arrows to indicate if you need to process the data before publishing them
 
 
 ## References
-Martinez-Lavanchy, P.M., van Schöll, Pim, Zormpa, Eirini, & Singotani, Roséane Cathy. (2022, July 8). TU Delft Research Data Management 101 course - Assignments Data Flow Map. Zenodo. https://doi.org/10.5281/zenodo.6325938
+* Martinez-Lavanchy, P.M., van Schöll, Pim, Zormpa, Eirini, & Singotani, Roséane Cathy. (2022, July 8). TU Delft Research Data Management 101 course - Assignments Data Flow Map. Zenodo. https://doi.org/10.5281/zenodo.6325938
 
