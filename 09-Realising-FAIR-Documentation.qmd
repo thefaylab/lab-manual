@@ -23,7 +23,8 @@ Documentation is important not only for data, but for your projects in general, 
 Your documentation should provide context for your project and its data and should, for example, provide information about the data collection, structure, and ownership.
 
 In the next video we will talk about different methods and tools you can use to document projects, datasets, and code. We will also briefly talk about metadata.
-[04-2_Module-4_Video_Presentation_DataDocumentation](https://surfdrive.surf.nl/files/index.php/s/Y1ylaZYL1R3VPbR) (12 minutes, audio will play automatically in full presentation mode)
+
+*[04-2_Module-4_Video_Presentation_DataDocumentation](https://surfdrive.surf.nl/files/index.php/s/Y1ylaZYL1R3VPbR) (12 minutes, audio will play automatically in full presentation mode)
  
 ## Assignment: Create a ReadMe file 
  Estimated time: 15 minutes
@@ -94,19 +95,10 @@ Fix to the notebook any relevant piece of paper and/or picture in a proper way
 Make sure you scan your paper notebook so that you have a back up copy!
 
 ## Software/code documentation
+* See the [example used in the presentation using JupyterLab](https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/master?urlpath=lab/tree/demo)
 * [template to set up a GitHub (or GitLab) repository with all the relevant documentation about the project](https://github.com/manuGil/fair-code)
 * [Code Refinery materials on Code Documentation](https://coderefinery.github.io/documentation/)
 * Use the [CodeMeta creator](https://codemeta.github.io/codemeta-generator/) to create a .json metadata file to add to your repo 
 * [Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki)
 * For Julia you can use [DrWatson](https://juliadynamics.github.io/DrWatson.jl/dev/) to create consistent folder structures. Particularly useful for simulation data. 
-
-
-## Resources
-*	Cornell University Research Data Management Service Group. Guide to writing “readme” style metadata. URL: https://data.research.cornell.edu/content/readme
-*	Alderliesten, René; Yao, L. (Liaojun) (2017): Mode I fatigue delamination growth in composite laminates with fibre bridging. 4TU.ResearchData. Dataset. https://doi.org/10.4121/uuid:6da548f6-f801-41b4-8d88-db9ae81f6913
-*	JupyterLab. Demo: The Lorenz Differential Equations. URL: https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/master?urlpath=lab/tree/demo
-*	Frictionless Data. Data Package Creator. URL: https://create.frictionlessdata.io/
-*	Software Heritage. CodeMeta generator. URL: https://codemeta.github.io/codemeta-generator/
-* [Electronic Lab Notebooks at TU Delft](https://www.tudelft.nl/en/library/research-data-management/r/manage/electronic-lab-notebook)
-*	[FAIRsharing.org](https://fairsharing.org/): standards, databases, policies. 
 

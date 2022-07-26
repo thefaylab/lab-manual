@@ -27,11 +27,11 @@ Implementing a good folder structure, data organisation and a meaningful file na
 
 In the next video, we will go through some best practices to help you organise the data of your project efficiently. These best practices are using a good folder structure, tagging files (if possible) and an appropriate file naming convention to enhance the findability of the data in your directories.
 
-[04-1_Module-4_Video_Presentation_Data organisation](https://surfdrive.surf.nl/files/index.php/s/gyIxtQ1O155GI3h) (15 minutes)
+* [04-1_Module-4_Video_Presentation_Data organisation](https://surfdrive.surf.nl/files/index.php/s/gyIxtQ1O155GI3h) (15 minutes, audio will play automatically in full presentation mod)
 
 ### Presentation Resources
 *	[Folder structure explanation of Neuroscientist Nikola Vukovic](http://nikola.me/folder_structure.html)
-*	[The Turing Way - Data storage and organisation](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-storage.html) The Turing Way Community (2019, March 25). 
+*	[The Turing Way - Data storage and organisation](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-storage.html) The Turing Way Community (2021). 
 *	[Tagging and Finding Your Files: Home. MIT Libraries](https://libguides.mit.edu/metadataTools)
 
 
@@ -80,5 +80,5 @@ Data Flow map_part 2
 ## References
 *	Colavizza, G., Hrynaszkiewicz, I., Staden, I., Whitaker, K., & McGillivray, B. The citation advantage of linking publications to research data. PLOS ONE 15(4), e0230416 (2020). https://doi.org/10.1371/journal.pone.0230416
 *	European Commission. Directorate-General for Research & Innovation. H2020 Programme Guidelines on FAIR Data Management in Horizon 2020. Version 3.0. 26 July 2016. URL:https://core.ac.uk/download/pdf/301306355.pdf
-* The Turing Way: A Handbook for Reproducible Data Science (Version v0.0.4). Zenodo. http://doi.org/10.5281/zenodo.3233986
+* The Turing Way: A Handbook for Reproducible Data Science (2021). Zenodo. 10.5281/zenodo.3233853
 

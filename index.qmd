@@ -1,12 +1,12 @@
 # Welcome!
 
-
 This website is an adaptation of the [Research Data Management 101 Course](https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/research-data-management-101) provided by TU Delft Library. 
 
 <br>This course provides PhD candidates with the essential knowledge and the core skills to manage research data according to best practice. 
 Learners will be able to integrate good data management practices within their workflows from the beginning of their projects. 
 The application of this knowledge to their research will allow them to reflect on how to work efficiently and in a reproducible manner with their research data, while complying with funders and institutional requirements.
 
+<br>Please note that some of the course structure has been adjusted. The original course makes use of the BrightSpace platform which also allows for integration of quizzes. Here, GitHub will be used for any discussions. Additionally, the original course is fully virtual. The classes of this course will take place in person. 
 
 <br>This is a three weeks blended course, meaning that is a mix of self-studying and two in-person class meetings.
 

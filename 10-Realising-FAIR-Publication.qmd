@@ -12,13 +12,22 @@ One way to make the data of your project Findable and Accessible to a broad audi
 
 In the next video we will delve into data access during and after a research project. You will also be introduced to the topic of data publication and data repositories.
 
-[An embedded video is displayed here based on the following file:    04-3_Module-4_Video_Presentation_DataAccess_DataPublication ]
+* [04-3_Module-4_Video_Presentation_DataAccess_DataPublication](https://surfdrive.surf.nl/files/index.php/s/BTkvi60tdX51l95) (9 minutes, audio will play automatically in full presentation mode)
 
-For more information, see the ([How to videos on the 4TU.ResearchData YouTube channel](https://www.youtube.com/channel/UCn5humJTp8aeCwRCOr8ec4w)
+TU Delft researchers can always use the [4TU.ResearchData](https://data.4tu.nl/info//en/) repository (free up to 1 TB per researcher per year)
 
-You can also share your data via a **data article**. 
+* For more information, see the ([How to videos on the 4TU.ResearchData YouTube channel](https://www.youtube.com/channel/UCn5humJTp8aeCwRCOr8ec4w)
+
+If you would like to look for a disciplinary specific data repository, you can use: 
+
+* [re3data.org](https://www.re3data.org/)
+* [fairsharing.org](https://fairsharing.org/)
+
+You can also share your data and code via a **data or software article**. 
 
 * [list of data journals](https://openworking.wordpress.com/2022/02/17/publishing-a-data-article/) with TU Delft resources indicated
+* [In which journal should I publish my software?](https://www.software.ac.uk/which-journals-should-i-publish-my-software)
+    * for example: the [Journal of Open Source Software (JOSS)](https://joss.theoj.org/)
 
 ## References:
 *	Colavizza, G., Hrynaszkiewicz, I., Staden, I., Whitaker, K., & McGillivray, B. The citation advantage of linking publications to research data. PLOS ONE 15(4), e0230416 (2020). https://doi.org/10.1371/journal.pone.0230416

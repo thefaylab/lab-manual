@@ -9,7 +9,7 @@ At the end of this module, you should be able to:
 
 ## Activities
 *	Watch the videos about the key elements to make data FAIR 
-*	Share your thoughts on FAIR via the [GitHub Issue](link)
+* Assess a dataset on how it follows the FAIR principles [GitHub issue #](link)
 
 ## What are the FAIR principles?
 The FAIR principles were created in order to maximize the reuse of scientific data, to promote best practices on Research Data Management and to enable Open Science.
@@ -58,11 +58,6 @@ If you have other examples to share, please do so in [GitHub Issue](link)
 By now, you have learned about different elements that help you make the data of your project FAIR. 
 Many of them are straightforward to implement in your daily work, for example organizing your files and folders, keeping documentation of the data, reflecting about data access, etc. Other elements might require special tools or at least special tools would make your work easier. 
 
-## Discussion 
-Discussion topic - Share your thoughts on the FAIR principles
-This discussion is centered on the key elements of FAIR. Which principle is the most challenging, the easiest, the most relevant for the type of data you work with? 
-What topic around FAIR would you like to discuss in more detail?
-Share in this [GitHub issue](link)
 
 ## References:
 * “The FAIR Guiding Principles for scientific data management and stewardship” Wilkinson et al. 2016. https://doi.org/10.1038/sdata.2016.18
