@@ -21,8 +21,8 @@ book:
     - index.qmd
     - 01-Introduction.qmd
     - 02-Importance-of-RDM.qmd
-    - 03-Essentials-for-Research-Data.qmd
-    - 04-Assignment-GitHub-1.qmd
+    - 03-Assignment-GitHub-1.qmd
+    - 04-Essentials-for-Research-Data.qmd
     - 05-Assignment-Data-Flow-Map-1.qmd
     - 06-FAIR-principles.qmd
     - 07-Realising-FAIR-Organisation.qmd

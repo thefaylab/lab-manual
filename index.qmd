@@ -9,6 +9,7 @@ The application of this knowledge to their research will allow them to reflect o
 
 
 <br>This is a three weeks blended course, meaning that is a mix of self-studying and two in-person class meetings.
+
 * The time to be spent for the course is approximately 16 hours in total, which is equivalent to 1.5 GS credits in the category of Research skills of the GS Education Programme, if the requirements are fulfilled.
 * The online learning environment is this website and it's GitHub Repository. 
 Participants will have to set up a GitHub account to participate and will be instructed on how GitHub works. 
