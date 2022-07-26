@@ -40,36 +40,30 @@ If at any point you're confronted with undesirable behaviour, please reach out t
 In order to receive the 1.5 Graduate School Credits you have to:
 
 *	Complete all activities 
-  * Interact with all course activities ( topics & quizzes)
-  * Participate in all discussions (Q&A are optional)
+  * Participate in all discussions and respond to the relevant GitHub issues
 	* Submit assignments (data flow maps) in weeks 1 and 2 and the assignment of week 3 (reflection on RDM strategy).
 	* Write a Data Management Plan using DMPonline
-*	Attend and participate in all Class Sessions 
+*	Attend and participate in both class Sessions 
 
 Note: you will not be graded on your assignments. 
-Use the class sessions and Discussions to gather feedback.
+Use the class sessions and discussions to gather feedback.
+
+## Deadlines
+
+* Assignment 1 - GitHub - Before **class 1** (date)
+* Assignment 2 - Data Flow Map 1 - Before ... (date)
+* Assignment 3 - Data Flow Map 2 - Before ... (date)
+* Assignment 4 - Data Management Plan - Before **class 2** (date)
+* Assignment 5 - Data Flow Map 3 Before **class 2** (date)
 
 ## Support
 
 You will get most out of this course by interacting with your peers and the instructor. 
 You can do this via GitHub issues, where you can also ask questions.   
-
-For all deadlines:
-*	see the [Course Schedule](link) 
-
 For other questions please contact Esther. 
 
-## License and attribution
 
-**All the course materials can be found here**:
-Martinez-Lavanchy, P.M., van Schöll, Pim, & Zormpa, Eirini. (2022). TU Delft Research Data Management 101 course. Zenodo. doi: [10.5281/zenodo.6325919](https://doi.org/10.5281/zenodo.6325919)
 
-Parts of the content of this course are based on: 
-Holmstrand, K.F., den Boer, S.P.A., Vlachos, E., Martínez-Lavanchy, P.M., Hansen, K.K. (Eds.) (2019). Research Data Management (eLearning course). doi: [10.11581/dtu:00000047](https://doi.org/10.11581/dtu:00000047)
 
-This website is made using [Quarto](https://quarto.org/)
-Allaire, J., Teague, C., Scheidegger, C., Xie, Y., & Dervieux, C. (2022). Quarto (Version 0.3) [Computer software]. https://doi.org/10.5281/zenodo.5960048
-
-This website is a copy of the [lab manual for the Fay Lab](https://thefaylab.github.io/lab-manual/) at the University of Massachusetts Dartmouth School for Marine Science and Technology thanks to their group's participation in the [Openscapes Champions program](https://openscapes.org).
 
 

@@ -1,7 +1,7 @@
 # Assignment 2 - Data Flow Map reflection {#assignment6}
 Estimated time: 60 minutes
 
-Go back to your [Data Flow Map](link) and reflect on your challenges, experiences and tips. 
+Go back to your [Data Flow Map](https://estherplomp.github.io/TNW-RDM-101/06-Assignment-Data-Flow-Map-1.html) and reflect on your challenges, experiences and tips. 
 
 You will have to prepare and submit a slide before **class 2** about: 
 

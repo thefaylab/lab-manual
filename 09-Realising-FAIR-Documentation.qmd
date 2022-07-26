@@ -12,8 +12,9 @@ At the end of this module you should be able to:
 *	Identify relevant tools to advance towards FAIR data 
 
 ## Activities 
-*	Watch the videos about ‘Data Documentation tools’ and complete the corresponding quizzes.
-* Write a readme file and share it on GitHub. Comment on another person's readme and provide them with some tips to improve. 
+*	Watch the presentation about Data Documentation tools
+* Write a readme file and share it on GitHub. 
+Comment on another person's readme and provide them with some tips to improve. 
 
 ## Documentation tools 
 Now that you know more about how to organise your data and name your files, we can talk about documentation. 
@@ -22,7 +23,7 @@ Documentation is important not only for data, but for your projects in general, 
 Your documentation should provide context for your project and its data and should, for example, provide information about the data collection, structure, and ownership.
 
 In the next video we will talk about different methods and tools you can use to document projects, datasets, and code. We will also briefly talk about metadata.
- 04-2_Module-4_Video_Presentation_DataDocumentation]
+[04-2_Module-4_Video_Presentation_DataDocumentation](https://surfdrive.surf.nl/files/index.php/s/Y1ylaZYL1R3VPbR) (12 minutes, audio will play automatically in full presentation mode)
  
 ## Assignment: Create a ReadMe file 
  Estimated time: 15 minutes
@@ -77,6 +78,27 @@ Answer the following questions to see if the Electronic Lab Notebooks are helpfu
 * Was there any specific feature in one or both of the ELNs that would be particularly useful?
 * What are the pros and cons that you can already think of when using an ELN for documenting your lab work?
 
+## Paper Lab Notebooks
+In case you prefer to stick to paper, here are some organisation tips: 
+
+* State the name of the researcher and period of use on the cover of the notebook
+* Number all pages consecutively
+* All entries should be written with permanent ink (no pencils)
+* Standard language should be English
+* Each record requires a date
+* Make sure that it is possible to separate the different experiments recorded (use meaningful titles)
+* Add a note where the raw data linked to the experiment will be stored and the name of the corresponding data file
+* Do not keep loose pages in your notebook. 
+Fix to the notebook any relevant piece of paper and/or picture in a proper way
+
+Make sure you scan your paper notebook so that you have a back up copy!
+
+## Software/code documentation
+* [template to set up a GitHub (or GitLab) repository with all the relevant documentation about the project](https://github.com/manuGil/fair-code)
+* [Code Refinery materials on Code Documentation](https://coderefinery.github.io/documentation/)
+* Use the [CodeMeta creator](https://codemeta.github.io/codemeta-generator/) to create a .json metadata file to add to your repo 
+* [Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki)
+* For Julia you can use [DrWatson](https://juliadynamics.github.io/DrWatson.jl/dev/) to create consistent folder structures. Particularly useful for simulation data. 
 
 
 ## Resources
@@ -88,11 +110,3 @@ Answer the following questions to see if the Electronic Lab Notebooks are helpfu
 * [Electronic Lab Notebooks at TU Delft](https://www.tudelft.nl/en/library/research-data-management/r/manage/electronic-lab-notebook)
 *	[FAIRsharing.org](https://fairsharing.org/): standards, databases, policies. 
 
-### Quiz Data Documentation tools
-Test your knowledge after watching the ‘Data Documentation tools’ video. Indicate if the following sentences are True or False.
-
-1.	Metadata - data about data - is an important type of documentation (Answer: True)
-2.	README files can be used only to document whole projects (Answer: False)
-3.	Codebooks are used for the documentation of code (Answer: - False)
-4.	GitHub/GitLab and Jupyter notebooks are good tools for documenting code (Answer: True)
-5.	Metadata can be added to data as part of the file name, using a README file and using tags (Answer: True)

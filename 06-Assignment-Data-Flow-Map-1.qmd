@@ -6,7 +6,46 @@ Estimated time: 60 minutes
 
 [Assignment 1]
 Assignment week 1- Data Flow map_part 1
-[After completing Modules 1 and 2, the course participants create a Data Flow Map to apply what they learned to their own research project. For a detailed description see the publication: https://doi.org/10.5281/zenodo.6325938 ]
 
+In this assignment you will have to write down what data you expect to collect/create during your project. 
+After this, you will reflect on the back-up and storage for your data. We will provide you with a toolbox and a step-by-step guide to help you reflect on your data. 
+At the bottom of the page you will find some examples we prepared. 
+You can download the PowerPoint template via a data repository. 
+
+* go to https://doi.org/10.5281/zenodo.6325938 
+* download the second file: RDM101_Assignment1_Week1_DataFlowMap_Template.pptx 
+
+You can either use the template, or work on a sheet of paper with Post-its. 
+At the end, make sure you submit the reflections for every step.
+
+
+## Step 1 - Fill out the data you will collect/create with a short description
+* Start with identifying and listing the different datasets that you will be collecting or creating during your project. Remember that code, models, interviews, etc. are also important types of research data.
+  * Give each dataset a descriptive name and fill this out on the template. 
+  For example: Interview videos, Sequencing data, Sensor data.
+  * Add to the template a very short description of each dataset e.g. what is the data, how it is collected/created, what is the file format, what is the (file)size.
+  * Do not restrict yourself to list only three types of datasets! Please provide a comprehensive list. If you would like to extend the list, you can do so by duplicating the slides we have provided.
+
+## Step 2 - Indicate actions to the data
+* Go to the toolbox in the PowerPoint template (slide 2).
+* Select/Copy the green actions arrows that are related to the datasets you listed and add them on your template. 
+This will help to add some extra description to the data that can influence your reflections.
+* Actions to consider: Were the data collected, were they created or are you re-using data from others? 
+If necessary, add new data sets depending on your action. 
+For example, if you collected interviews, you might need to transcribe them generating a new dataset consisting of transcription files.
+
+## Step 3 - Reflect on your data
+*  Use the red flags in the toolbox in the PowerPoint template (slide 2) to indicate important characteristics of your data that might influence how you need to manage it.
+
+## Step 4 - Reflect on the theme Back-up and Storage
+* We talked about the infrastructure that TU Delft offers for storing and backing up data, so think: 
+    * Where will you be storing the data?
+    * Where will the master copy be stored?
+    * What infrastructure will you use as a backup? 
+* Keep in mind the flags you have added to the list of datasets when selecting the storage and backup for the data and code.
+* Reflect about the Theme “Back-up and storage”, think about a strategy to securely store the data of your project and add your choice and considerations to the template.
+
+
+## References
 Martinez-Lavanchy, P.M., van Schöll, Pim, Zormpa, Eirini, & Singotani, Roséane Cathy. (2022, July 8). TU Delft Research Data Management 101 course - Assignments Data Flow Map. Zenodo. https://doi.org/10.5281/zenodo.6325938
 

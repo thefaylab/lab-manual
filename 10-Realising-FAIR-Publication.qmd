@@ -14,6 +14,8 @@ In the next video we will delve into data access during and after a research pro
 
 [An embedded video is displayed here based on the following file:    04-3_Module-4_Video_Presentation_DataAccess_DataPublication ]
 
+For more information, see the ([How to videos on the 4TU.ResearchData YouTube channel](https://www.youtube.com/channel/UCn5humJTp8aeCwRCOr8ec4w)
+
 You can also share your data via a **data article**. 
 
 * [list of data journals](https://openworking.wordpress.com/2022/02/17/publishing-a-data-article/) with TU Delft resources indicated
