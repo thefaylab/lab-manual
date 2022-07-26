@@ -1,18 +1,13 @@
-# Class 2 {#class2}
+# Class 1 {#class1}
 
+## Activities **before class 1**
+*	Watch the Presentation (**before class 1**) - Why is RDM important? 
+* Read Markowetz 2015: Five selfish reasons to work reproducibly OR [Watch the presentation](https://youtu.be/1Y_oIjlH-yg?t=355) (50 min) **before class 1**
+* Set up a GitHub account (see [Assignment 1](https://estherplomp.github.io/TNW-RDM-101/03-Assignment-GitHub-1.html)) **before class 1**
 
-
-## Assignment
-This week will conclude with the final **class 3**. **Make sure to submit [the assignment] before the meeting as you will present it in groups during the class.** See you there!
-
-
-## **Class 3**:
-*	We will summarise some of the main takeaways of the course.
-*	You will have the opportunity to discuss what you learned from the data flow maps.
-* Your instructor will answer any final question you might have.
-[You can find the programme and activities of the virtual class in the following files: 06-1_Module-6_Virtual_Class_Presentation and 
-06-2_Module-6_Virtual_Class_Description_of_activities]
-
-
-
+## **Class 1**:
+*	Introductions
+* Discuss why RDM is important to you
+* Introduction Data Flow Map assignment
+* Check GitHub accounts and issues
 

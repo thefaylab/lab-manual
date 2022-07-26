@@ -1,5 +1,14 @@
 # Assignment - Create DMP {#DMP}
 
+## Introduction to DMPonline
+
+With DMPonline you can:
+
+*	Write your plan and easily update it throughout the lifecycle of your project;
+*	Share your plan with internal and external collaborators and ask for feedback from your Faculty Data Steward;
+*	Download your plan in a variety of formats.
+
+## Create a DMP using DMPonline
 For this assignment, please create an account for DMPonline, and use the TU Delft template to create a plan for your project. 
 In the following document, DMPonline user guide, you will find a clear step-by-step guide to complete this activity. We expect you to:
 

@@ -29,16 +29,9 @@ Watch the following video in which a researcher and data steward talk about the 
 * [Natalia Romero Herrera talking about the benefits of writing a DMP](https://youtu.be/2GSEqmFxNrc)
 * [Esther Plomp talking about the benefits of writing a DMP](https://youtu.be/li_3MkeACbY) 
 
-## Introduction to DMP online
-
-This introduction will provide you with a step-by-step guide for creating a DMPonline account and with an explanation of its main features. 
-You will create your own account and explore the TU Delft template.
-With DMPonline you can:
-
-*	Write your plan and easily update it throughout the lifecycle of your project;
-*	Share your plan with internal and external collaborators and ask for feedback from your Faculty Data Steward;
-*	Download your plan in a variety of formats.
-
 See the next module for the [assignment to create your DMP](https://estherplomp.github.io/TNW-RDM-101/11-Assignment-DMP.html). 
+
+
+
  
 

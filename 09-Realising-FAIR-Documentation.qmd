@@ -3,7 +3,7 @@ bibliography: references.bib
 ---
 
 # Realising FAIR: Data Documentation {#realisingFAIR2}
-
+Estimated time: 60 minutes
 
 In this module, we will focus on the realisation of FAIR data. 
 We will explore some best practices and tools that can facilitate the implementation of the FAIR principles. 
@@ -16,7 +16,6 @@ At the end of this module you should be able to:
 * Write a readme file and share it on GitHub. Comment on another person's readme and provide them with some tips to improve. 
 
 ## Documentation tools 
-
 Now that you know more about how to organise your data and name your files, we can talk about documentation. 
 Documentation is vital to making your work understandable, which is, in turn, necessary for your work to be reusable.
 Documentation is important not only for data, but for your projects in general, including the code you write. 
@@ -37,6 +36,7 @@ Provide feedback on the clarity of the ReadMe.
 
 ## Assignment: Data Dictionaries (for tabular data - optional)
  Estimated time: 15 minutes
+ 
 1. Watch a [video on data dictionaries](https://www.youtube.com/watch?v=Fe3i9qyqPjo)
 2. Go to a tabular dataset you are working on or have worked on.
 3. In an excel spreadsheet, start creating your data dictionary. 
@@ -48,18 +48,34 @@ Note that you can also [create a package for your data with Frictionless Data](h
 
 ## Assignment: Electronic Lab Notebooks (optional)
 Estimated time: 20 minutes
+
 [TU Delft offers two different Electronic Lab Notebooks](https://www.tudelft.nl/en/library/research-data-management/r/manage/electronic-lab-note
 book), eLABjournal and Rspace. 
 Watch the short videos introducing them:
+
 * [eLABjournal intro](https://www.youtube.com/watch?v=ys4BKEWWnEc&feature=youtu.be) (4:11 minutes):
 * [RSpace intro](https://www.youtube.com/watch?v=q2CEnZRC1_o&t=5s) (1:43 minutes):
 
 Try out one of the Electronic Lab Notebooks: 
-* [RSpace](https://rspace.tudelft.nl) 
+
+To access **eLABJournal**
+
+* Go to [https://www.elabjournal.com/login/](https://www.elabjournal.com/login/)
+* Select 'log in with your institute account'  (below the login form)
+* Login with your netID
+
+Note: new ELN groups must be reported to support@elabnext.com (eLABJournal Support) to get full access to eLABJournal.
+
+To access **RSpace**:
+
+* Go to [https://rspace.tudelft.nl](https://rspace.tudelft.nl)
+* On the first time you log in to this tool, following authentication, you will be directed to the RSpace signup page, pre-populated with some information released from your netID, where you need to confirm that you want an account. (On subsequent logins, you will go straight to RSpace after authentication using your netID.)
+
 
 Answer the following questions to see if the Electronic Lab Notebooks are helpful to your work: 
-- Was there any specific feature in one or both of the ELNs that would be particularly useful?
-- What are the pros and cons that you can already think of when using an ELN for documenting your lab work?
+
+* Was there any specific feature in one or both of the ELNs that would be particularly useful?
+* What are the pros and cons that you can already think of when using an ELN for documenting your lab work?
 
 
 

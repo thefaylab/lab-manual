@@ -1,12 +1,10 @@
 # Class 2 {#class2}
 
+## Activities **before class 2**
+This week will conclude with the final **class 2**. **Make sure to submit [the assignment] before the meeting as you will present it in groups during the class.** See you there!
 
 
-## Assignment
-This week will conclude with the final **class 3**. **Make sure to submit [the assignment] before the meeting as you will present it in groups during the class.** See you there!
-
-
-## **Class 3**:
+## **Class 2**:
 *	We will summarise some of the main takeaways of the course.
 *	You will have the opportunity to discuss what you learned from the data flow maps.
 * Your instructor will answer any final question you might have.
