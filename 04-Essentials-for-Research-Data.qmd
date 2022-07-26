@@ -10,7 +10,7 @@ At the end of this module you should be able to:
 *	Recognize the responsibilities regarding RDM for TUD PhD candidates
 *	Store and back up the research data of your project in a secure manner
 
-# Activities
+## Activities
 *	Watch videos of TU Delft researchers telling you about the research data and confidential research data they work with
 *	If you work with personal data, read the information on the two linked websites
 *	Tell your peers about the type of research data you work with using the Mentimeter word cloud. [Note: Mentimeter is a commercial software to create polls, quizzes, etc]

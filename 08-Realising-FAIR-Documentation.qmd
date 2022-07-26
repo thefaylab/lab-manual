@@ -25,7 +25,7 @@ Your documentation should provide context for your project and its data and shou
 In the next video we will talk about different methods and tools you can use to document projects, datasets, and code. We will also briefly talk about metadata.
  04-2_Module-4_Video_Presentation_DataDocumentation]
  
- ## Assignment: Create a ReadMe file 
+## Assignment: Create a ReadMe file 
  Estimated time: 15 minutes
 
 1. Download the [Cornell template for a ReadMe file](https://cornell.app.box.com/v/ReadmeTemplate). 
@@ -74,6 +74,7 @@ Answer the following questions to see if the Electronic Lab Notebooks are helpfu
 
 ### Quiz Data Documentation tools
 Test your knowledge after watching the ‘Data Documentation tools’ video. Indicate if the following sentences are True or False.
+
 1.	Metadata - data about data - is an important type of documentation (Answer: True)
 2.	README files can be used only to document whole projects (Answer: False)
 3.	Codebooks are used for the documentation of code (Answer: - False)

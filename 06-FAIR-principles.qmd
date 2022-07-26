@@ -3,17 +3,20 @@ Estimated time: 90 minutes
 
 In this module, we will discover the FAIR data principles and their main elements. 
 At the end of this module, you should be able to:
+
 *	Understand the FAIR principles and their relation to RDM
 *	Identify key elements that help make research data Findable, Accessible, Interoperable and Reusable (FAIR)
 
 There are different activities in this module you should complete:
+
 *	Read topic 1: Why and how were the FAIR principles created?
 *	Watch the video about the key elements to make data FAIR and complete the ‘fill in the blanks’ quiz
 *	Share your thoughts on FAIR via the Discussion 
 
-# What are the FAIR principles?
+## What are the FAIR principles?
 The FAIR principles were created in order to maximize the reuse of scientific data, to promote best practices on Research Data Management and to enable Open Science.
-Applying the FAIR principles means to make research data Findable, Accessible, Interoperable and Re-usable1.
+Applying the FAIR principles means to make research data Findable, Accessible, Interoperable and Reusable.
+
 *	Findable means that others (both human and machines) can discover the data
 *	Accessible means that the data can be made available to others
 *	Interoperable means that the data can be integrated with other data and can be easily used by machines or in data analysis workflows.
@@ -22,6 +25,7 @@ Applying the FAIR principles means to make research data Findable, Accessible, I
 These four principles should be applied (as much as possible) throughout the entire research cycle and they are closely interconnected with each other.
 
 The FAIR Data principles are NOT:
+
 *	A standard. 
 The FAIR principles need to be adapted and followed as much as possible by considering the research practices in your field. FAIR principles should be rather seen as progressive steps that help you make your data re-usable.
 *	Equivalent to Open Data. 
@@ -30,6 +34,7 @@ FAIR data does not necessarily mean openly available: it should be clear to othe
 There might be different tools that enable FAIR data within different disciplines or research workflows.
 
 There are important elements to consider within your research workflows if you aim to make the data of your project FAIR:
+
 *	Documentation & Metadata  
 * Interoperability 
 *	Access to data
@@ -38,7 +43,7 @@ There are important elements to consider within your research workflows if you a
 
 In the next videos we will explore these different elements and their importance to make the data of your project FAIR.
 
-# References:
+## References:
 1. “The FAIR Guiding Principles for scientific data management and stewardship” Wilkinson et al. 2016. https://doi.org/10.1038/sdata.2016.18
 2. Scripts of the videos copied or adapted from: Holmstrand, K.F., den Boer, S.P.A., Vlachos, E., Martínez-Lavanchy, P.M., Hansen, K.K. (Eds.) (2019). Research Data Management (eLearning course). doi: 10.11581/dtu:00000047
 Videos: Key elements to make data FAIR
