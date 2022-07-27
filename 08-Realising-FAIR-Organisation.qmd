@@ -91,7 +91,7 @@ b. [Python template](https://github.com/NLeSC/python-template)
 c. [Reproducible Science](https://github.com/mkrapp/cookiecutter-reproducible-science)
 d. [More templates](http://cookiecutter-templates.sebastianruml.name/)
 
-![The Turing Way illustration by Scriberia. CC-BY 4.0. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)](https://the-turing-way.netlify.app/_images/research-compendium.jpg){width="75%"}{fig-align="middle"} 
+![The Turing Way illustration by Scriberia. CC-BY 4.0. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)](https://the-turing-way.netlify.app/_images/research-compendium.jpg){width="75%"}
 
 
 
