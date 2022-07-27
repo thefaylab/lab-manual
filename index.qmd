@@ -1,5 +1,9 @@
 # Welcome!
 
+![](https://raw.githubusercontent.com/alan-turing-institute/the-turing-way/main/book/website/figures/banner-welcome.jpg){width="50%"}
+
+The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807.
+
 This website is an adaptation of the [Research Data Management 101 Course](https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/research-data-management-101) provided by TU Delft Library. 
 
 <br>This course provides PhD candidates with the essential knowledge and the core skills to manage research data according to best practice. 
