@@ -22,7 +22,7 @@ Applying the FAIR principles means to make research data Findable, Accessible, I
 
 These four principles should be applied (as much as possible) throughout the entire research cycle and they are closely interconnected with each other.
 
-![](https://the-turing-way.netlify.app/_images/fair-principles.jpg){width="25%"}
+![](https://the-turing-way.netlify.app/_images/fair-principles.jpg){width="75%"}
 
 The FAIR Data principles are NOT:
 

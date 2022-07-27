@@ -91,9 +91,11 @@ b. [Python template](https://github.com/NLeSC/python-template)
 c. [Reproducible Science](https://github.com/mkrapp/cookiecutter-reproducible-science)
 d. [More templates](http://cookiecutter-templates.sebastianruml.name/)
 
+![](https://the-turing-way.netlify.app/_images/research-compendium.jpg){width="75%"} 
+The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807.
 
 ## References
 *	Colavizza, G., Hrynaszkiewicz, I., Staden, I., Whitaker, K., & McGillivray, B. The citation advantage of linking publications to research data. PLOS ONE 15(4), e0230416 (2020). https://doi.org/10.1371/journal.pone.0230416
 *	European Commission. Directorate-General for Research & Innovation. H2020 Programme Guidelines on FAIR Data Management in Horizon 2020. Version 3.0. 26 July 2016. URL:https://core.ac.uk/download/pdf/301306355.pdf
-* The Turing Way: A Handbook for Reproducible Data Science (2021). Zenodo. 10.5281/zenodo.3233853
+* The Turing Way: A Handbook for Reproducible Data Science (2022). Zenodo. 10.5281/zenodo.3233853
 
