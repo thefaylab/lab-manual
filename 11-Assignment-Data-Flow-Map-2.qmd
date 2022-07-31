@@ -24,6 +24,10 @@ Reflect and answer this as one theme for all the datasets:
     * Remember that once you choose a convention you need to be consistent. 
 3. Additional remarks 
 
+https://pbs.twimg.com/media/EdihtztWsAA9zaE?format=jpg&name=small
+
+![Image by [Chaz Hutton](https://twitter.com/chazhutton/status/1285955514241875968)](https://pbs.twimg.com/media/EdihtztWsAA9zaE){fig-alt="Title: anatomy of a file name. A file name that shows 'New_Final_final_new-23_fuckingfinal. jpeg'. For each component a box with explanation is added. For the first final the description 'the finished file' is added. For the second final the box says 'the finished file wihtout spelling mistakes. For New-final-final the box says 'the finished file after the client made a last minute complete change of direction. For the added new the box says 'the finished file after everyone in the pointless meeting managed to add in their own change. The 23 box says 'the finished file after was presumably 23 emails'. For fucking final the box says 'the finished version at the point that you stopped caring'"}
+
 ## Step 3 - Reflect on the theme [Metadata and Documentation](https://estherplomp.github.io/TNW-RDM-101/09-Realising-FAIR-Documentation.html)
 
 Reflect and answer these questions for each dataset: 

@@ -31,6 +31,9 @@ We talked to some TU Delft researchers working in different disciplines and we a
 * [Sian Jones – Faculty Of Civil Engineering and Geosciences (CEG)](https://youtu.be/X9ixhwUIGug)
 * [Wirawan Agahari – TU Delft Faculty of Technology, Policy and Management (TPM)](https://youtu.be/sGtoAd8EZl8)
 
+![Image by [Piotr Kononow](https://twitter.com/aabella/status/1527533226574680064)](https://pbs.twimg.com/media/FTLi4U2WIAAQdC9){width="50%"}
+
+
 ## Confidential data
 There are multiple types of confidential data that you might be working with during your research project. 
 Some examples include:
