@@ -33,6 +33,8 @@ If you would like to look for a disciplinary specific data repository, you can u
 * [re3data.org](https://www.re3data.org/)
 * [fairsharing.org](https://fairsharing.org/)
 
+Data repositories will facilitate sustainable access to your data. For more information, watch this short video on '[Sustainability of data use](https://www.youtube.com/watch?v=bhI1SF_r_K8)' (from the Open Data Governance and Use - released under the CC-BY-NC-SA 4.0 license)
+
 ## Data/Software Articles
 
 You can also share your data and code via a **data or software article**. 
