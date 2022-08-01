@@ -13,7 +13,7 @@ During this module we will share different perspectives and let you discuss with
 -   Read [@markowetz2015]: Five selfish reasons to work reproducibly OR [Watch the presentation](https://youtu.be/1Y_oIjlH-yg?t=355) (50 min) **before class 1**
 -   Set up a GitHub account (see [Assignment 1](https://estherplomp.github.io/TNW-RDM-101/03-Assignment-GitHub-1.html)) **before class 1**
 
-![Image by [Errant Science](https://twitter.com/ErrantScience/status/1552617562118279169)](https://pbs.twimg.com/media/FYwBUlFXwAA0SWx){fig-alt="How scientists save important data. Each part of the pie chart says the following: writing it down, .txt. files, weird files with strange acronyms, and in their own memories just before the computer crashes, losing everything."}
+![Image by [Errant Science](https://twitter.com/ErrantScience/status/1552617562118279169)](https://raw.githubusercontent.com/EstherPlomp/TNW-RDM-101/main/images/ErrantScience-important-data.png){fig-alt="How scientists save important data. Each part of the pie chart says the following: writing it down, .txt. files, weird files with strange acronyms, and in their own memories just before the computer crashes, losing everything." fig-align="center" width="400"}
 
 ## Why care about RDM?
 
@@ -23,5 +23,7 @@ Why should you be aware of your Research Data Management?
 -   [01-2_Module-1_Video_Presentation_Why RDM is relevant for you_Part2](https://surfdrive.surf.nl/files/index.php/s/JX7Oyns3vGCdDZ8) (5 minutes) - Benefits of managing and sharing data
 
 Reflect about what you heard on the video and bring your thoughts and your horror stories to **class 1**.
+
+[![The Turing Way illustration by Scriberia. CC-BY 4.0. DOI: 10.5281/zenodo.3332807](https://raw.githubusercontent.com/EstherPlomp/TNW-RDM-101/main/images/TTW-rdm-storage.jpg){fig-alt="A scientist looking in her cabinet in her office for the data from last year. The cabinet looks quite messy, with open boxes, notes everywhere and a cat sleeping in it." fig-align="center" width="500"}](https://doi.org/10.5281/zenodo.3332807)
 
 ## References
