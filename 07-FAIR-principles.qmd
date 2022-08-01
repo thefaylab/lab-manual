@@ -1,64 +1,68 @@
+---
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
 # FAIR principles {#FAIR}
+
 Estimated time: 30 minutes
 
-In this module, we will discover the FAIR data principles and their main elements. 
+In this module, we will discover the FAIR data principles and their main elements.
 At the end of this module, you should be able to:
 
-*	Understand the FAIR principles and their relation to RDM
-*	Identify key elements that help make research data Findable, Accessible, Interoperable and Reusable (FAIR)
+-   Understand the FAIR principles and their relation to RDM
+-   Identify key elements that help make research data Findable, Accessible, Interoperable and Reusable (FAIR)
 
 ## Activities
-*	Watch the videos about the key elements to make data FAIR 
-* Assess a dataset on how it follows the FAIR principles [GitHub issue #](link)
+
+-   Watch the videos about the key elements to make data FAIR
+-   Assess a dataset on how it follows the FAIR principles [GitHub issue \#](link)
 
 ## What are the FAIR principles?
+
 The FAIR principles were created in order to maximize the reuse of scientific data, to promote best practices on Research Data Management and to enable Open Science.
 Applying the FAIR principles means to make research data Findable, Accessible, Interoperable and Reusable.
 
-*	Findable means that others (both human and machines) can discover the data
-*	Accessible means that the data can be made available to others
-*	Interoperable means that the data can be integrated with other data and can be easily used by machines or in data analysis workflows.
-*	Reusable means that the data can be used for new research
+-   Findable means that others (both human and machines) can discover the data
+-   Accessible means that the data can be made available to others
+-   Interoperable means that the data can be integrated with other data and can be easily used by machines or in data analysis workflows.
+-   Reusable means that the data can be used for new research
 
 These four principles should be applied (as much as possible) throughout the entire research cycle and they are closely interconnected with each other.
 
 ![The Turing Way illustration by Scriberia. CC-BY 4.0. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)](https://the-turing-way.netlify.app/_images/fair-principles.jpg){width="75%"}
 
-
 The FAIR Data principles are NOT:
 
-*	A standard. 
-The FAIR principles need to be adapted and followed as much as possible by considering the research practices in your field. FAIR principles should be rather seen as progressive steps that help you make your data re-usable.
-*	Equivalent to Open Data. 
-FAIR data does not necessarily mean openly available: it should be clear to others that the data exists and which steps they could take to potentially access the data.
-*	Applied using a particular technology or tool. 
-There might be different tools that enable FAIR data within different disciplines or research workflows.
+-   A standard. The FAIR principles need to be adapted and followed as much as possible by considering the research practices in your field. FAIR principles should be rather seen as progressive steps that help you make your data re-usable.
+-   Equivalent to Open Data. FAIR data does not necessarily mean openly available: it should be clear to others that the data exists and which steps they could take to potentially access the data.
+-   Applied using a particular technology or tool. There might be different tools that enable FAIR data within different disciplines or research workflows.
 
 There are important elements to consider within your research workflows if you aim to make the data of your project FAIR:
 
-*	[Documentation & Metadata](https://youtu.be/q-NxFTlcKgs)  
-* [Interoperability](https://youtu.be/83Jnyd5_vxM) 
-*	[Access to data](https://youtu.be/3TWye1ftR1w)
-*	[Persistent identifiers](https://youtu.be/m-oWVp92xG0)
-*	[Licences](https://youtu.be/3nl_Z7Jt-Z4)
+-   [Documentation & Metadata](https://youtu.be/q-NxFTlcKgs)
+-   [Interoperability](https://youtu.be/83Jnyd5_vxM)
+-   [Access to data](https://youtu.be/3TWye1ftR1w)
+-   [Persistent identifiers](https://youtu.be/m-oWVp92xG0)
+-   [Licences](https://youtu.be/3nl_Z7Jt-Z4)
 
-Scripts of the videos copied or adapted from: Holmstrand, K.F., den Boer, S.P.A., Vlachos, E., Martínez-Lavanchy, P.M., Hansen, K.K. (Eds.) (2019). Research Data Management (eLearning course). doi: 10.11581/dtu:00000047
-Videos: Key elements to make data FAIR
+Scripts of the videos copied or adapted from [@holmstrand2019].
 
 ## Data and Code Licences
 
 More resources on licences:
 
-*	Licenses for data, presentations and articles: [Creative Commons (CC)](https://creativecommons.org/licenses/), or use the [license chooser](https://chooser-beta.creativecommons.org/). 
-*	Software: [Choose a License](https://choosealicense.com/licenses/).
-*	If in doubt, talk to Esther. 
+-   Licenses for data, presentations and articles: [Creative Commons (CC)](https://creativecommons.org/licenses/), or use the [license chooser](https://chooser-beta.creativecommons.org/).
+-   Software: [Choose a License](https://choosealicense.com/licenses/).
+-   If in doubt, talk to Esther.
 
-## Assessing FAIRness 
-Check out one of these datasets and evaluate how Findable, Accessible, Interoperable, Re-usable (FAIR) you think this data set is. 
+## Assessing FAIRness
+
+Check out one of these datasets and evaluate how Findable, Accessible, Interoperable, Re-usable (FAIR) you think this data set is.
 If you have other examples to share, please do so in [GitHub Issue](link)
 
 ## References:
-* “The FAIR Guiding Principles for scientific data management and stewardship” Wilkinson et al. 2016. https://doi.org/10.1038/sdata.2016.18
-* Scripts of the videos copied or adapted from: Holmstrand, K.F., den Boer, S.P.A., Vlachos, E., Martínez-Lavanchy, P.M., Hansen, K.K. (Eds.) (2019). Research Data Management (eLearning course). doi: 10.11581/dtu:00000047
-Videos: Key elements to make data FAIR
 
+-   [@wilkinson2016]
+-   Scripts of the videos copied or adapted from [@holmstrand2019]
