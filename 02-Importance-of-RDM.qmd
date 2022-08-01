@@ -1,6 +1,6 @@
 # The importance of RDM {#importance}
 
-Estimated time: 70 minutes
+*Estimated time: 70 minutes*
 
 During this module we will share different perspectives and let you discuss with each other about the importance of RDM in ensuring research reproducibility. At the end of this module you should be able to:
 

@@ -8,7 +8,7 @@ In this module, we will focus on the realisation of FAIR data. We will explore s
 
 ## Activities
 
--   Watch the videos about 'Data organisation' and complete the corresponding quizzes.
+-   Watch the videos about 'Data organisation' and complete the quiz
 -   Try out Cookiecutter
 
 ## Data Organisation
@@ -27,13 +27,13 @@ In the next video, we will go through some best practices to help you organise t
 
 ### Quiz Data Organisation
 
-Test your knowledge after watching the 'Data organisation' video. Indicate if the following sentences are True or False.
+Test your knowledge after watching the 'Data organisation' video. Think about whether the following statements are True or False (see answers below).
 
-1.  Good data organisation makes the data Findable for yourself and your collaborators. (Answer: True)
-2.  Thinking about data organisation at the beginning of your project can save you a lot of time later on. (Answer: True)
-3.  A Research Compendium does not follow a Hierarchical structure. (Answer: False)
-4.  In a Research Compendium data, methods, and outputs should be clearly separated. (Answer: True)
-5.  Consistency is not relevant in data organisation. (Answer: False)
+1.  Good data organisation makes the data Findable for yourself and your collaborators.
+2.  Thinking about data organisation at the beginning of your project can save you a lot of time later on.
+3.  A Research Compendium does not follow a Hierarchical structure.
+4.  In a Research Compendium data, methods, and outputs should be clearly separated.
+5.  Consistency is not relevant in data organisation.
 
 ## Assignment: Using Cookiecutter
 
@@ -77,3 +77,7 @@ c.  [Reproducible Science](https://github.com/mkrapp/cookiecutter-reproducible-s
 d.  [More templates](http://cookiecutter-templates.sebastianruml.name/)
 
 ![The Turing Way illustration by Scriberia. CC-BY 4.0. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)](https://the-turing-way.netlify.app/_images/research-compendium.jpg){width="75%"}
+
+## Quiz Answers
+
+1.  True / 2. True / 3. False / 4. True / 5. False
