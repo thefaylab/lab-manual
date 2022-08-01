@@ -1,8 +1,27 @@
 # Assignment 1 - Getting started with GitHub {#GitHub}
 
-This part of the course is only relevant if you do not have GitHub experience. 
+*Estimated time: 60 minutes*
 
-In 5.5 you were asked to respond to an Issue. This requires you to set up your GitHub Account. 
+This part of the course is only relevant if you do not have GitHub experience.
 
-## Learn more about GitHub
+## Create a GitHub Account
 
+1.  Go to [https://github.com/](https://github.com/https://github.com/)
+
+2.  Select 'create an account' and fill in the required information
+
+3.  Activate your account using the email address you provided
+
+## Follow a GitHub Tutorial
+
+Please watch and follow along this [GitHub tutorial for beginners](https://www.youtube.com/watch?v=90BOler9hqI) provided by the [Open Life Science program](https://openlifesci.org).
+
+This tutorial is based on [materials that are made available by Malvika Sharan](https://malvikasharan.github.io/developing_collaborative_document/).
+
+## Post a response to Issue \#
+
+When you've practiced a bit of GitHub, please respond to Issue \# with your assignment list, so that you can keep track of your progress in this course. Next to keeping track of your progress, you will use GitHub during this course to interact with your peers.
+
+## Support
+
+Please contact Esther if you have any problems getting started with GitHub and posting a response to Issue #.

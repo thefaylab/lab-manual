@@ -1,8 +1,6 @@
 # Assignment 2 - Data Flow Map {#assignment1}
 
-Estimated time: 60 minutes
-
-![](img/forestgump.gif)
+*Estimated time: 60 minutes*
 
 In this assignment (based on [@martinez-lavanchy2022]) you will have to write down what data you expect to collect/create during your project. After this, you will reflect on the back-up and storage for your data. We will provide you with a toolbox and a step-by-step guide to help you reflect on your data. At the bottom of the page you will find some examples we prepared. You can download the PowerPoint template via a data repository.
 
@@ -39,3 +37,5 @@ At the end, make sure you submit the reflections for every step.
     -   What infrastructure will you use as a backup?
 -   Keep in mind the flags you have added to the list of datasets when selecting the storage and backup for the data and code.
 -   Reflect about the Theme "Back-up and storage", think about a strategy to securely store the data of your project and add your choice and considerations to the template.
+
+## References

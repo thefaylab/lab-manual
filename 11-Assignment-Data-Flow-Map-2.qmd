@@ -68,3 +68,5 @@ Reflect and answer these questions for each dataset:
         -   Does the repository provide a DOI and license for the metadata?
         -   What [license](https://estherplomp.github.io/TNW-RDM-101/07-FAIR-principles.html#data-and-code-licences) do you plan to use?
 4.  Go to the toolbox and use the action arrows to indicate if you need to process the data before publishing them.
+
+## References
