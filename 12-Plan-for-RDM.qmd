@@ -1,39 +1,33 @@
 # Plan for RDM {#plan}
-Estimated time: 120 minutes
 
-We will take a closer look at planning for RDM. 
-In relation to this, data management plans and the tool DMPonline will be further explained. 
-At the end of this module you should be able to:
+*Estimated time: 120 minutes*
 
-*	Recognize the relevance of planning research data management
-*	Get familiar with the concept of Data Management Plans and their format
-*	Create a data management plan using the appropriate tool
-*	Recognize the value of creating a Data Management Plan
+We will take a closer look at planning for RDM. In relation to this, data management plans and the tool DMPonline will be further explained. At the end of this module you should be able to:
+
+-   Recognize the relevance of planning research data management
+-   Get familiar with the concept of Data Management Plans and their format
+-   Create a data management plan using the appropriate tool
+-   Recognize the value of creating a Data Management Plan
 
 ## Activities
-*	Watch the animation video to learn what a data management plan (DMP) is
-*	Watch the videos of a TU Delft researcher and a Faculty data steward to learn why they think it is relevant to prepare a DMP
-*	Create a DMP using DMP online
+
+-   Watch the animation video to learn what a data management plan (DMP) is
+-   Watch the videos of a TU Delft researcher and a Faculty data steward to learn why they think it is relevant to prepare a DMP
+-   Create a DMP using DMP online
 
 ## What is a Data Management Plan (DMP)?
 
-What exactly is a data management plan? Watch the [video for an introduction to data management plans](https://youtu.be/28rTTRFDq58). 
+What exactly is a data management plan? Watch the [video for an introduction to data management plans](https://youtu.be/28rTTRFDq58).
 
-Script adapted from: Holmstrand, K.F., den Boer, S.P.A., Vlachos, E., Martínez-Lavanchy, P.M., Hansen, K.K. (Eds.) (2019). Research Data Management (eLearning course). doi: 10.11581/dtu:00000047
+Script adapted from [@holmstrand2019].
 
 ## Why create a Data Management Plan?
 
-Why is it necessary to create a data management plan? 
-Watch the following video in which a researcher and data steward talk about the importance of creating a data management plan.
+Why is it necessary to create a data management plan? Watch the following video in which a researcher and data steward talk about the importance of creating a data management plan.
 
-* [Natalia Romero Herrera talking about the benefits of writing a DMP](https://youtu.be/2GSEqmFxNrc)
-* [Esther Plomp talking about the benefits of writing a DMP](https://youtu.be/li_3MkeACbY) 
+-   [Natalia Romero Herrera talking about the benefits of writing a DMP](https://youtu.be/2GSEqmFxNrc)
+-   [Esther Plomp talking about the benefits of writing a DMP](https://youtu.be/li_3MkeACbY)
 
 ![](https://raw.githubusercontent.com/alan-turing-institute/the-turing-way/main/book/website/figures/data-management-plan.jpg)
 
-See the next module for the [assignment to create your DMP](https://estherplomp.github.io/TNW-RDM-101/11-Assignment-DMP.html). 
-
-
-
- 
-
+See the next module for the [assignment to create your DMP](https://estherplomp.github.io/TNW-RDM-101/11-Assignment-DMP.html).

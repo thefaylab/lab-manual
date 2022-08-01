@@ -3,53 +3,54 @@ bibliography: references.bib
 ---
 
 # Realising FAIR: Data Publication {#realisingFAIR3}
-Estimated time: 15 minutes
 
-In this module, we will focus on the realisation of FAIR data. 
-We will explore some best practices and tools that can facilitate the implementation of the FAIR principles. 
-At the end of this module you should be able to:
+*Estimated time: 15 minutes*
 
-*	Identify relevant tools to advance towards FAIR data 
-* Discuss data publication, best practices and restrictions
+In this module, we will focus on the realisation of FAIR data. We will explore some best practices and tools that can facilitate the implementation of the FAIR principles. At the end of this module you should be able to:
 
-## Data access 
-It is important to reflect about data access at the beginning of your project to ensure that the right people have access to the right data. 
+-   Identify relevant tools to advance towards FAIR data
+-   Discuss data publication, best practices and restrictions
+
+## Data access
+
+It is important to reflect about data access at the beginning of your project to ensure that the right people have access to the right data.
 
 One way to make the data of your project Findable and Accessible to a broad audience is to publish it in a **data repository**. Data repositories help you comply with the FAIR principles and make it easy to apply some of their main elements, such as **licences** and **persistent identifiers**.
 
-![](https://raw.githubusercontent.com/alan-turing-institute/the-turing-way/main/book/website/figures/DOI.jpg){width="50%"} 
+[![The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807.](https://raw.githubusercontent.com/alan-turing-institute/the-turing-way/main/book/website/figures/DOI.jpg){width="50%"}](https://doi.org/10.5281/zenodo.3332807)
+
 The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807.
 
 In the next video we will delve into data access during and after a research project. You will also be introduced to the topic of data publication and data repositories.
 
-* [04-3_Module-4_Video_Presentation_DataAccess_DataPublication](https://surfdrive.surf.nl/files/index.php/s/BTkvi60tdX51l95) (9 minutes, audio will play automatically in full presentation mode)
+-   [04-3_Module-4_Video_Presentation_DataAccess_DataPublication](https://surfdrive.surf.nl/files/index.php/s/BTkvi60tdX51l95) (9 minutes, audio will play automatically in full presentation mode)
 
 TU Delft researchers can always use the [4TU.ResearchData](https://data.4tu.nl/info//en/) repository (free up to 1 TB per researcher per year)
 
-* For more information, see the ([How to videos on the 4TU.ResearchData YouTube channel](https://www.youtube.com/channel/UCn5humJTp8aeCwRCOr8ec4w)
+-   For more information, see the [How to videos on the 4TU.ResearchData YouTube channel](https://www.youtube.com/channel/UCn5humJTp8aeCwRCOr8ec4w)
 
-If you would like to look for a disciplinary specific data repository, you can use: 
+If you would like to look for a disciplinary specific data repository, you can use:
 
-* [re3data.org](https://www.re3data.org/)
-* [fairsharing.org](https://fairsharing.org/)
+-   [re3data.org](https://www.re3data.org/)
+-   [fairsharing.org](https://fairsharing.org/)
 
 Data repositories will facilitate sustainable access to your data. For more information, watch this short video on '[Sustainability of data use](https://www.youtube.com/watch?v=bhI1SF_r_K8)' (from the Open Data Governance and Use - released under the CC-BY-NC-SA 4.0 license)
 
-![Image by [Errant Science](https://twitter.com/ErrantScience/status/1251118457279647746)](https://pbs.twimg.com/media/EVzdm1nXQAI1fY_){width="50%"} 
+![Image by [Errant Science](https://twitter.com/ErrantScience/status/1251118457279647746)](https://pbs.twimg.com/media/EVzdm1nXQAI1fY_){width="50%"}
 
 ## Data/Software Articles
 
-You can also share your data and code via a **data or software article**. 
+You can also share your data and code via a **data or software article**.
 
-* [list of data journals](https://openworking.wordpress.com/2022/02/17/publishing-a-data-article/) with TU Delft resources indicated
-* [In which journal should I publish my software?](https://www.software.ac.uk/which-journals-should-i-publish-my-software)
-    * for example: the [Journal of Open Source Software (JOSS)](https://joss.theoj.org/)
-    
-## Why not the supplemental materials? 
-* Check [this slide](https://estherplomp.github.io/PRES-data-software/#27) on some downsides of sharing your data/code in supplemental materials
+-   [list of data journals](https://openworking.wordpress.com/2022/02/17/publishing-a-data-article/) with TU Delft resources indicated
+-   [In which journal should I publish my software?](https://www.software.ac.uk/which-journals-should-i-publish-my-software)
+    -   for example: the [Journal of Open Source Software (JOSS)](https://joss.theoj.org/)
+
+## Why not the supplemental materials?
+
+-   Check [this slide](https://estherplomp.github.io/PRES-data-software/#27) on some downsides of sharing your data/code in supplemental materials
 
 ## References:
-*	Colavizza, G., Hrynaszkiewicz, I., Staden, I., Whitaker, K., & McGillivray, B. The citation advantage of linking publications to research data. PLOS ONE 15(4), e0230416 (2020). https://doi.org/10.1371/journal.pone.0230416
-*	European Commission. Directorate-General for Research & Innovation. H2020 Programme Guidelines on FAIR Data Management in Horizon 2020. Version 3.0. 26 July 2016. URL:https://core.ac.uk/download/pdf/301306355.pdf
-Resources:
 
+-   [@colavizza2020]
+-   [H2020 Programme Guidelines on FAIR Data Management in Horizon 2020](https://core.ac.uk/download/pdf/301306355.pdf). Version 3.0. 26 July 2016.

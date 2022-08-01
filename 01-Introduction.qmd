@@ -1,69 +1,66 @@
+# Introduction {#intro}
 
-# Introduction {#intro} 
 Estimated time: 15 minutes
 
 This course provides PhD candidates with the essential knowledge and the core skills to manage research data according to best practice. You will be able to integrate good data management practices within your workflow from the beginning of your projects. The application of this knowledge to your research will allow you to reflect on how to work efficiently and in a reproducible manner with your research data, while complying with funders and institutional requirements.
 
 This course contains a lot of self-paced elements. Make sure to plan your time accordingly. You will get most out of this course if you keep an eye on the Discussions with your peers throughout the week. Do you run into any problems in scheduling time? Let us know!
 
-## Relevant dates:  
-Course start:    Monday, DD-MM-YYYY  
-Course end date: Friday, DD-MM-YYYY  
+## Relevant dates:
 
-Class sessions: 
+Course start: Monday, DD-MM-YYYY\
+Course end date: Friday, DD-MM-YYYY
+
+Class sessions:
 
 Course load: approximately 4-6 hours per week
 
-
 ## Learning Objectives:
+
 After completing this course, you will be able to:
 
-*	Realize the important role that good data management plays in research
+-   Realize the important role that good data management plays in research
 
-*	Identify different types of research data and recognize the regulations, policies and/or legal requirements associated with them.
-*	List the main components of the FAIR data principles and connect them to your own research workflows.
-*	Employ the acquired knowledge to design an efficient research data management strategy for your projects according to best practices.
+-   Identify different types of research data and recognize the regulations, policies and/or legal requirements associated with them.
+
+-   List the main components of the FAIR data principles and connect them to your own research workflows.
+
+-   Employ the acquired knowledge to design an efficient research data management strategy for your projects according to best practices.
 
 ## Code of Conduct
-* Everyone is learning, including instructors - please have patience and respect towards each other! 
-* Use welcoming and inclusive language when interacting with your peers and instructors
-* Be respectful of different viewpoints and experiences
-* Provide and gracefully accept constructive criticism
 
-See also the [TU Delft Code of Conduct](https://www.tudelft.nl/en/about-tu-delft/strategy/integrity-policy/tu-delft-code-of-conduct). 
+-   Everyone is learning, including instructors - please have patience and respect towards each other!
+-   Use welcoming and inclusive language when interacting with your peers and instructors
+-   Be respectful of different viewpoints and experiences
+-   Provide and gracefully accept constructive criticism
+
+See also the [TU Delft Code of Conduct](https://www.tudelft.nl/en/about-tu-delft/strategy/integrity-policy/tu-delft-code-of-conduct).
 
 If at any point you're confronted with undesirable behaviour, please reach out to the instructor or the [TU Delft confidential advisors](https://www.tudelft.nl/en/about-tu-delft/strategy/integrity-policy/confidential-advisors).
-
 
 ## Assessment criteria
 
 In order to receive the 1.5 Graduate School Credits you have to:
 
-*	Complete all activities 
-  * Participate in all discussions and respond to the relevant GitHub issues
-	* Submit assignments (data flow maps) in weeks 1 and 2 and the assignment of week 3 (reflection on RDM strategy).
-	* Write a Data Management Plan using DMPonline
-*	Attend and participate in both class Sessions 
+-   Complete all activities
+    -   Participate in all discussions and respond to the relevant GitHub issues
 
-Note: you will not be graded on your assignments. 
-Use the class sessions and discussions to gather feedback.
+    -   Submit assignments (data flow maps) in [weeks 1](https://estherplomp.github.io/TNW-RDM-101/06-Assignment-Data-Flow-Map-1.html) and [2](https://estherplomp.github.io/TNW-RDM-101/11-Assignment-Data-Flow-Map-2.html) and the assignment of [week 3](https://estherplomp.github.io/TNW-RDM-101/14-Assignment-Data-Flow-Map-3.html).
+
+    -   Write a Data Management Plan using DMPonline
+-   Attend and participate in both class sessions (including a 4 minute presentation of your data flow map assignment)
+
+Note: you will not be graded on your assignments. Use the class sessions and discussions to gather feedback.
 
 ## Deadlines
 
-* Assignment 1 - GitHub - Before **class 1** (date)
-* Assignment 2 - Data Flow Map 1 - Before ... (date)
-* Assignment 3 - Data Flow Map 2 - Before ... (date)
-* Assignment 4 - Data Management Plan - Before **class 2** (date)
-* Assignment 5 - Data Flow Map 3 Before **class 2** (date)
+-   Assignment 1 - GitHub - Before **class 1** (date)
+-   Assignment 2 - Data Flow Map 1 - Before ... (date)
+-   Assignment 3 - Data Flow Map 2 - Before ... (date)
+-   Assignment 4 - Data Management Plan - Before **class 2** (date)
+-   Assignment 5 - Data Flow Map 3 Before **class 2** (date)
 
 ## Support
 
-You will get most out of this course by interacting with your peers and the instructor. 
-You can do this via GitHub issues, where you can also ask questions.   
-For other questions please contact Esther. 
-
-
-
-
-
-
+You will get most out of this course by interacting with your peers and the instructor. You can do this via GitHub issues, where you can also ask questions.\
+For other questions please contact Esther.

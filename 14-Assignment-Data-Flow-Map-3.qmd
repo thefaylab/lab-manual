@@ -1,18 +1,18 @@
 # Assignment 5 - Data Flow Map reflection {#assignment6}
-Estimated time: 60 minutes
 
-Go back to your [Data Flow Map](https://estherplomp.github.io/TNW-RDM-101/11-Assignment-Data-Flow-Map-2.html) and reflect on your challenges, experiences and tips. 
+*Estimated time: 60 minutes*
 
-You will have to prepare and submit a slide before **class 2** about: 
+Go back to your [Data Flow Map](https://estherplomp.github.io/TNW-RDM-101/11-Assignment-Data-Flow-Map-2.html) and reflect on your challenges, experiences and tips.
 
-* Which data flow map theme challenged you the most? 
-And why? 
-* What theme (from the data flow map) challenged you the least because you were already implementing RDM best practices before this course? (If any) 
-* What RDM best practice have you already started implementing in your daily practice during the course? 
-* If you haven’t implemented anything yet, what will you get started with tomorrow after the course ends? 
+You will have to prepare and submit a slide before **class 2** about:
 
-You will have 4 minutes to present your slide during **class 2** to your peers and they will have the chance to ask questions or exchange ideas! 
+-   Which data flow map theme challenged you the most? And why?
+-   What theme (from the data flow map) challenged you the least because you were already implementing RDM best practices before this course? (If any)
+-   What RDM best practice have you already started implementing in your daily practice during the course?
+-   If you haven't implemented anything yet, what will you get started with tomorrow after the course ends?
 
-Please **submit your slide to Esther before ... **
+You will have 4 minutes to present your slide during **class 2** to your peers and they will have the chance to ask questions or exchange ideas!
 
-Martinez-Lavanchy, P.M., van Schöll, Pim, Zormpa, Eirini, & Singotani, Roséane Cathy. (2022, July 8). TU Delft Research Data Management 101 course - Assignments Data Flow Map. Zenodo. https://doi.org/10.5281/zenodo.6325938
+Please **submit your slide to Esther before ...**
+
+This assignment is based on [@martinez-lavanchy2022]

@@ -1,15 +1,8 @@
----
-editor: 
-  markdown: 
-    wrap: sentence
----
-
 # FAIR principles {#FAIR}
 
-Estimated time: 30 minutes
+*Estimated time: 30 minutes*
 
-In this module, we will discover the FAIR data principles and their main elements.
-At the end of this module, you should be able to:
+In this module, we will discover the FAIR data principles and their main elements. At the end of this module, you should be able to:
 
 -   Understand the FAIR principles and their relation to RDM
 -   Identify key elements that help make research data Findable, Accessible, Interoperable and Reusable (FAIR)
@@ -21,8 +14,7 @@ At the end of this module, you should be able to:
 
 ## What are the FAIR principles?
 
-The FAIR principles were created in order to maximize the reuse of scientific data, to promote best practices on Research Data Management and to enable Open Science.
-Applying the FAIR principles means to make research data Findable, Accessible, Interoperable and Reusable.
+The FAIR principles were created in order to maximize the reuse of scientific data, to promote best practices on Research Data Management and to enable Open Science. Applying the FAIR principles means to make research data Findable, Accessible, Interoperable and Reusable [@wilkinson2016].
 
 -   Findable means that others (both human and machines) can discover the data
 -   Accessible means that the data can be made available to others
@@ -54,15 +46,9 @@ Scripts of the videos copied or adapted from [@holmstrand2019].
 More resources on licences:
 
 -   Licenses for data, presentations and articles: [Creative Commons (CC)](https://creativecommons.org/licenses/), or use the [license chooser](https://chooser-beta.creativecommons.org/).
--   Software: [Choose a License](https://choosealicense.com/licenses/).
+-   Software: [Choose a License](https://choosealicense.com/licenses/). (For more detailed information, see '[How to choose a software licence](https://softwaresaved.github.io/software-deposit-guidance/HowToChooseSoftwareLicence.html)'.
 -   If in doubt, talk to Esther.
 
 ## Assessing FAIRness
 
-Check out one of these datasets and evaluate how Findable, Accessible, Interoperable, Re-usable (FAIR) you think this data set is.
-If you have other examples to share, please do so in [GitHub Issue](link)
-
-## References:
-
--   [@wilkinson2016]
--   Scripts of the videos copied or adapted from [@holmstrand2019]
+Check out one of these datasets and evaluate how Findable, Accessible, Interoperable, Re-usable (FAIR) you think this data set is. If you have other examples to share, please do so in [GitHub Issue](link) \#

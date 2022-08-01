@@ -1,106 +1,104 @@
----
-bibliography: references.bib
----
 
 # Realising FAIR: Data Documentation {#realisingFAIR2}
-Estimated time: 60 minutes
 
-In this module, we will focus on the realisation of FAIR data. 
-We will explore some best practices and tools that can facilitate the implementation of the FAIR principles. 
+*Estimated time: 60 minutes*
+
+In this module, we will focus on the realisation of FAIR data.
+We will explore some best practices and tools that can facilitate the implementation of the FAIR principles.
 At the end of this module you should be able to:
 
-*	Recognize the relevance of documentation and be familiar with diverse tools to document data
-*	Identify relevant tools to advance towards FAIR data 
+-   Recognize the relevance of documentation and be familiar with diverse tools to document data
+-   Identify relevant tools to advance towards FAIR data
 
-## Activities 
-*	Watch the presentation about Data Documentation tools
-* Write a readme file and share it on GitHub. 
-Comment on another person's readme and provide them with some tips to improve. 
+## Activities
 
-## Documentation tools 
-Now that you know more about how to organise your data and name your files, we can talk about documentation. 
+-   Watch the presentation about Data Documentation tools
+-   Write a readme file and share it on GitHub. Comment on another person's readme and provide them with some tips to improve.
+
+## Documentation tools
+
+Now that you know more about how to organise your data and name your files, we can talk about documentation.
 Documentation is vital to making your work understandable, which is, in turn, necessary for your work to be reusable.
-Documentation is important not only for data, but for your projects in general, including the code you write. 
+Documentation is important not only for data, but for your projects in general, including the code you write.
 Your documentation should provide context for your project and its data and should, for example, provide information about the data collection, structure, and ownership.
 
-In the next video we will talk about different methods and tools you can use to document projects, datasets, and code. We will also briefly talk about metadata.
+In the next video we will talk about different methods and tools you can use to document projects, datasets, and code.
+We will also briefly talk about metadata.
 
-*[04-2_Module-4_Video_Presentation_DataDocumentation](https://surfdrive.surf.nl/files/index.php/s/Y1ylaZYL1R3VPbR) (12 minutes, audio will play automatically in full presentation mode)
- 
-## Assignment: Create a ReadMe file 
- Estimated time: 15 minutes
+-   [04-2_Module-4_Video_Presentation_DataDocumentation](https://surfdrive.surf.nl/files/index.php/s/Y1ylaZYL1R3VPbR) (12 minutes, audio will play automatically in full presentation mode)
 
-1. Download the [Cornell template for a ReadMe file](https://cornell.app.box.com/v/ReadmeTemplate). 
-2. Adapt and start filling in the template to describe a dataset of your project (you are allowed to delete and add new fields)
-3. If you are unsure about the meaning of a component of the ReadMe file, go to: [Guide to writing "ReadMe" style metadata - Cornell University](https://data.research.cornell.edu/content/readme#best_practices)
-4. When you're finished, share your template on [GitHub in Issue #](link). 
-5. Pick a ReadMe file of someone else and read it. 
-Provide feedback on the clarity of the ReadMe. 
+## Assignment: Create a ReadMe file
+
+*Estimated time: 15 minutes*
+
+1.  Download the [Cornell template for a ReadMe file](https://cornell.app.box.com/v/ReadmeTemplate).
+2.  Adapt and start filling in the template to describe a dataset of your project (you are allowed to delete and add new fields)
+3.  If you are unsure about the meaning of a component of the ReadMe file, go to: [Guide to writing "ReadMe" style metadata - Cornell University](https://data.research.cornell.edu/content/readme#best_practices)
+4.  When you're finished, share your template on [GitHub in Issue \#](link).
+5.  Pick a ReadMe file of someone else and read it. Provide feedback on the clarity of the ReadMe.
 
 ## Assignment: Data Dictionaries (for tabular data - optional)
- Estimated time: 15 minutes
- 
-1. Watch a [video on data dictionaries](https://www.youtube.com/watch?v=Fe3i9qyqPjo)
-2. Go to a tabular dataset you are working on or have worked on.
-3. In an excel spreadsheet, start creating your data dictionary. 
-Ave the data dictionary in the same folder as the dataset you're describing.
-List all the variables that you find in the dataset on column A. 
-Then, add a clear and understandable description of that variable on column B.
+
+*Estimated time: 15 minutes*
+
+1.  Watch a [video on data dictionaries](https://www.youtube.com/watch?v=Fe3i9qyqPjo)
+2.  Go to a tabular dataset you are working on or have worked on.
+3.  In an excel spreadsheet, start creating your data dictionary. Ave the data dictionary in the same folder as the dataset you're describing. List all the variables that you find in the dataset on column A. Then, add a clear and understandable description of that variable on column B.
 
 Note that you can also [create a package for your data with Frictionless Data](https://create.frictionlessdata.io)
 
 ## Assignment: Electronic Lab Notebooks (optional)
-Estimated time: 20 minutes
 
-[TU Delft offers two different Electronic Lab Notebooks](https://www.tudelft.nl/en/library/research-data-management/r/manage/electronic-lab-note
-book), eLABjournal and Rspace. 
+*Estimated time: 20 minutes*
+
+[TU Delft offers two different Electronic Lab Notebooks](https://www.tudelft.nl/en/library/research-data-management/r/manage/electronic-lab-note%20book), eLABjournal and Rspace.
 Watch the short videos introducing them:
 
-* [eLABjournal intro](https://www.youtube.com/watch?v=ys4BKEWWnEc&feature=youtu.be) (4:11 minutes)
-* [RSpace intro](https://www.youtube.com/watch?v=q2CEnZRC1_o&t=5s) (1:43 minutes)
+-   [eLABjournal intro](https://www.youtube.com/watch?v=ys4BKEWWnEc&feature=youtu.be) (4:11 minutes)
+-   [RSpace intro](https://www.youtube.com/watch?v=q2CEnZRC1_o&t=5s) (1:43 minutes)
 
-Try out one of the Electronic Lab Notebooks: 
+Try out one of the Electronic Lab Notebooks:
 
 To access **eLABJournal**
 
-* Go to [https://www.elabjournal.com/login/](https://www.elabjournal.com/login/)
-* Select 'log in with your institute account'  (below the login form)
-* Login with your netID
+-   Go to <https://www.elabjournal.com/login/>
+-   Select 'log in with your institute account' (below the login form)
+-   Login with your netID
 
-Note: new ELN groups must be reported to support[at]elabnext.com to get full access to eLABJournal.
+Note: new ELN groups must be reported to support\[at\]elabnext.com to get full access to eLABJournal.
 
 To access **RSpace**:
 
-* Go to [https://rspace.tudelft.nl](https://rspace.tudelft.nl)
-* On the first time you log in to this tool, following authentication, you will be directed to the RSpace signup page, pre-populated with some information released from your netID, where you need to confirm that you want an account. (On subsequent logins, you will go straight to RSpace after authentication using your netID.)
+-   Go to <https://rspace.tudelft.nl>
+-   On the first time you log in to this tool, following authentication, you will be directed to the RSpace signup page, pre-populated with some information released from your netID, where you need to confirm that you want an account. (On subsequent logins, you will go straight to RSpace after authentication using your netID.)
 
+Answer the following questions to see if the Electronic Lab Notebooks are helpful to your work:
 
-Answer the following questions to see if the Electronic Lab Notebooks are helpful to your work: 
-
-* Was there any specific feature in one or both of the ELNs that would be particularly useful?
-* What are the pros and cons that you can already think of when using an ELN for documenting your lab work?
+-   Was there any specific feature in one or both of the ELNs that would be particularly useful?
+-   What are the pros and cons that you can already think of when using an ELN for documenting your lab work?
 
 ## Paper Lab Notebooks
-In case you prefer to stick to paper, here are some organisation tips: 
 
-* State the name of the researcher and period of use on the cover of the notebook
-* Number all pages consecutively
-* All entries should be written with permanent ink (no pencils)
-* Standard language should be English
-* Each record requires a date
-* Make sure that it is possible to separate the different experiments recorded (use meaningful titles)
-* Add a note where the raw data linked to the experiment will be stored and the name of the corresponding data file
-* Do not keep loose pages in your notebook. 
-Fix to the notebook any relevant piece of paper and/or picture in a proper way
+In case you prefer to stick to paper, here are some organisation tips:
+
+-   State the name of the researcher and period of use on the cover of the notebook
+-   Number all pages consecutively
+-   All entries should be written with permanent ink (no pencils)
+-   Standard language should be English
+-   Each record requires a date
+-   Make sure that it is possible to separate the different experiments recorded (use meaningful titles)
+-   Add a note where the raw data linked to the experiment will be stored and the name of the corresponding data file
+-   Do not keep loose pages in your notebook. Fix to the notebook any relevant piece of paper and/or picture in a proper way
 
 Make sure you scan your paper notebook so that you have a back up copy!
 
 ## Software/code documentation
-* See the [example used in the presentation using JupyterLab](https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/master?urlpath=lab/tree/demo)
-* [template to set up a GitHub (or GitLab) repository with all the relevant documentation about the project](https://github.com/manuGil/fair-code)
-* [Code Refinery materials on Code Documentation](https://coderefinery.github.io/documentation/)
-* Use the [CodeMeta creator](https://codemeta.github.io/codemeta-generator/) to create a .json metadata file to add to your repo 
-* Barbara Vreede's presentation on [Best Practices for Writing Reproducible Code](https://bvreede.github.io/presentations/presentations/2020-09-17_BestPractices-lecture.html#1)
-* [Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki)
-* For Julia you can use [DrWatson](https://juliadynamics.github.io/DrWatson.jl/dev/) to create consistent folder structures. Particularly useful for simulation data. 
 
+-   See the [example used in the presentation using JupyterLab](https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/master?urlpath=lab/tree/demo)
+-   [template to set up a GitHub (or GitLab) repository with all the relevant documentation about the project](https://github.com/manuGil/fair-code)
+-   [Code Refinery materials on Code Documentation](https://coderefinery.github.io/documentation/)
+-   Use the [CodeMeta creator](https://codemeta.github.io/codemeta-generator/) to create a .json metadata file to add to your repo
+-   Barbara Vreede's presentation on [Best Practices for Writing Reproducible Code](https://bvreede.github.io/presentations/presentations/2020-09-17_BestPractices-lecture.html#1)
+-   [Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki)
+-   [Aim For Understandability If You Want To Write Good Research Software](https://www.software.ac.uk/blog/2022-07-04-aim-understandability-if-you-want-write-good-research-software)
+-   For Julia you can use [DrWatson](https://juliadynamics.github.io/DrWatson.jl/dev/) to create consistent folder structures. Particularly useful for simulation data.

@@ -1,102 +1,79 @@
----
-bibliography: references.bib
----
-
 # Realising FAIR: Data organisation {#realisingFAIR1}
-Estimated time: 45 minutes
 
-In this module, we will focus on the realisation of FAIR data. 
-We will explore some best practices and tools that can facilitate the implementation of the FAIR principles. 
-At the end of this module you should be able to:
+*Estimated time: 45 minutes*
 
-*	Understand the importance of good data organisation and be aware of best practices around data organisation
+In this module, we will focus on the realisation of FAIR data. We will explore some best practices and tools that can facilitate the implementation of the FAIR principles. At the end of this module you should be able to:
 
-## Activities 
-*	Watch the videos about ‘Data organisation’ and complete the corresponding quizzes.
-* Try out Cookiecutter
+-   Understand the importance of good data organisation and be aware of best practices around data organisation
 
-## Data Organisation 
-In the previous module you learned that ‘Documentation’ is one of the main elements of the FAIR principles. 
-Good data documentation starts with good organisation and file naming of the data of your project! 
-Good data organisation on your computer or your [Project Data (U:) drive](https://www.tudelft.nl/en/library/research-data-management/r/manage/storage) will allow you to make the data Findable both for yourself and for your collaborators who have access to the data. 
-Making the data findable also indirectly improves the re-usability of the data. You need to be able to find the data before you can re-use it! 
-Implementing a good folder structure, data organisation and a meaningful file naming convention is a simple first step towards making data FAIR.
+## Activities
+
+-   Watch the videos about 'Data organisation' and complete the corresponding quizzes.
+-   Try out Cookiecutter
+
+## Data Organisation
+
+In the previous module you learned that 'Documentation' is one of the main elements of the FAIR principles. Good data documentation starts with good organisation and file naming of the data of your project! Good data organisation on your computer or your [Project Data (U:) drive](https://www.tudelft.nl/en/library/research-data-management/r/manage/storage) will allow you to make the data Findable both for yourself and for your collaborators who have access to the data. Making the data findable also indirectly improves the re-usability of the data. You need to be able to find the data before you can re-use it! Implementing a good folder structure, data organisation and a meaningful file naming convention is a simple first step towards making data FAIR.
 
 In the next video, we will go through some best practices to help you organise the data of your project efficiently. These best practices are using a good folder structure, tagging files (if possible) and an appropriate file naming convention to enhance the findability of the data in your directories.
 
-* [04-1_Module-4_Video_Presentation_Data organisation](https://surfdrive.surf.nl/files/index.php/s/gyIxtQ1O155GI3h) (15 minutes, audio will play automatically in full presentation modus)
+-   [04-1_Module-4_Video_Presentation_Data organisation](https://surfdrive.surf.nl/files/index.php/s/gyIxtQ1O155GI3h) (15 minutes, audio will play automatically in full presentation modus)
 
 ### Presentation Resources
-*	[Folder structure explanation of Neuroscientist Nikola Vukovic](http://nikola.me/folder_structure.html)
-*	[The Turing Way - Data storage and organisation](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-storage.html) The Turing Way Community (2021). 
-*	[Tagging and Finding Your Files: Home. MIT Libraries](https://libguides.mit.edu/metadataTools)
 
+-   [Folder structure explanation of Neuroscientist Nikola Vukovic](http://nikola.me/folder_structure.html)
+-   [The Turing Way - Data storage and organisation](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-storage.html) [@community2022]
+-   [Tagging and Finding Your Files: Home. MIT Libraries](https://libguides.mit.edu/metadataTools)
 
-### Quiz Data Organisation 
+### Quiz Data Organisation
+
 Test your knowledge after watching the 'Data organisation' video. Indicate if the following sentences are True or False.
 
-1.	Good data organisation makes the data Findable for yourself and your collaborators.
-(Answer:  True)
-2.	Thinking about data organisation at the beginning of your project can save you a lot of time later on.  (Answer: True)
-3.	A Research Compendium does not follow a Hierarchical structure.
-(Answer:  False)
-4.	In a Research Compendium data, methods, and outputs should be clearly separated.
-(Answer: True)
-5.	Consistency is not relevant in data organisation.  (Answer: False)
+1.  Good data organisation makes the data Findable for yourself and your collaborators. (Answer: True)
+2.  Thinking about data organisation at the beginning of your project can save you a lot of time later on. (Answer: True)
+3.  A Research Compendium does not follow a Hierarchical structure. (Answer: False)
+4.  In a Research Compendium data, methods, and outputs should be clearly separated. (Answer: True)
+5.  Consistency is not relevant in data organisation. (Answer: False)
 
 ## Assignment: Using Cookiecutter
-Estimated time: 20 minutes
 
-Note that you need to have Python and pip (or Anaconda) installed to easily follow the video.
-To install Anaconda: 
+*Estimated time: 20 minutes*
 
-* Windows ([instruction video](https://www.youtube.com/watch?v=xxQ0mzZ8UvA))
-    * Open [https://www.anaconda.com/products/individual#download-section](https://www.anaconda.com/products/individual#download-section) with your web browser.
-    * Download the Anaconda for Windows installer with Python 3. (If you are not sure which version to choose, you probably want the 64-bit Graphical Installer Anaconda3-...-Windows-x86_64.exe)
-    * Install Python 3 by running the Anaconda Installer, using all of the defaults for installation except make sure to check Add Anaconda to my PATH environment variable.
-* Linux 
-    * Open [https://www.anaconda.com/products/individual#download-section](https://www.anaconda.com/products/individual#download-section) with your web browser.
-    * Download the Anaconda Installer with Python 3 for Linux.
-    * Open a terminal window and navigate to the directory where the executable is downloaded (e.g., `cd ~/Downloads`).
-    * Type `'bash Anaconda3-` and then press Tab to autocomplete the full file name. 
-    The name of file you just downloaded should appear.
-    * Press `Enter` (or `Return` depending on your keyboard). 
-    You will follow the text-only prompts. 
-    To move through the text, press Spacebar. 
-    * Type `Yes` and press `Enter` to approve the license. 
-    * Press `Enter` to approve the default location for the files. 
-    * Type `Yes` and press `Enter` to prepend Anaconda to your PATH (this makes the Anaconda distribution the default Python).
-    * Close the terminal window.
-* Mac ([instruction video](https://www.youtube.com/watch?v=TcSAln46u9U))
-    * Open [https://www.anaconda.com/products/individual#download-section](https://www.anaconda.com/products/individual#download-section) with your web browser.
-    * Download the Anaconda Installer with Python 3 for macOS (you can either use the Graphical or the Command Line Installer).
-    * Install Python 3 by running the Anaconda Installer using all of the defaults for installation.
+Note that you need to have Python and pip (or Anaconda) installed to easily follow the video. To install Anaconda:
 
+-   Windows ([instruction video](https://www.youtube.com/watch?v=xxQ0mzZ8UvA))
+    -   Open <https://www.anaconda.com/products/individual#download-section> with your web browser.
+    -   Download the Anaconda for Windows installer with Python 3. (If you are not sure which version to choose, you probably want the 64-bit Graphical Installer Anaconda3-...-Windows-x86_64.exe)
+    -   Install Python 3 by running the Anaconda Installer, using all of the defaults for installation except make sure to check Add Anaconda to my PATH environment variable.
+-   Linux
+    -   Open <https://www.anaconda.com/products/individual#download-section> with your web browser.
+    -   Download the Anaconda Installer with Python 3 for Linux.
+    -   Open a terminal window and navigate to the directory where the executable is downloaded (e.g., `cd ~/Downloads`).
+    -   Type `'bash Anaconda3-` and then press Tab to autocomplete the full file name. The name of file you just downloaded should appear.
+    -   Press `Enter` (or `Return` depending on your keyboard). You will follow the text-only prompts. To move through the text, press Spacebar.
+    -   Type `Yes` and press `Enter` to approve the license.
+    -   Press `Enter` to approve the default location for the files.
+    -   Type `Yes` and press `Enter` to prepend Anaconda to your PATH (this makes the Anaconda distribution the default Python).
+    -   Close the terminal window.
+-   Mac ([instruction video](https://www.youtube.com/watch?v=TcSAln46u9U))
+    -   Open <https://www.anaconda.com/products/individual#download-section> with your web browser.
+    -   Download the Anaconda Installer with Python 3 for macOS (you can either use the Graphical or the Command Line Installer).
+    -   Install Python 3 by running the Anaconda Installer using all of the defaults for installation.
 
-1. Watch the video on [setting up a research compendium using Cookiecutter](https://vimeo.com/462773031) (3:36 min). 
-2. For instructions on how to clone the cookiecutter template see here. 
-For instructions to see hidden folders on Windows, see here.
-  * you can also find a visualisation of the template on the [GitHub repository](https://github.com/bvreede/good-enough-project)
-3. Work on your own to populate the template with information/files from your project. 
-4. Share your folder structure on [GitHub issue#](link) and comment on another person's folder structure 
-4. Discuss with your peers how similar your own folder structure is to the one you created
-using Cookiecutter. 
-What additional elements are there in the Cookiecutter project? 
-Is there anything that the Cookiecutter template is missing?
+1.  Watch the video on [setting up a research compendium using Cookiecutter](https://vimeo.com/462773031) (3:36 min).
+2.  For instructions on how to clone the cookiecutter template see here. For instructions to see hidden folders on Windows, see here.
 
-If you didn’t find this template useful, you can browse these templates to see if one of these fits your needs better:
+-   you can also find a visualisation of the template on the [GitHub repository](https://github.com/bvreede/good-enough-project)
 
-a. [Data Science](https://github.com/drivendata/cookiecutter-data-science)
-b. [Python template](https://github.com/NLeSC/python-template)
-c. [Reproducible Science](https://github.com/mkrapp/cookiecutter-reproducible-science)
-d. [More templates](http://cookiecutter-templates.sebastianruml.name/)
+3.  Work on your own to populate the template with information/files from your project.
+4.  Share your folder structure on [GitHub issue#](link) and comment on another person's folder structure
+5.  Discuss with your peers how similar your own folder structure is to the one you created using Cookiecutter. What additional elements are there in the Cookiecutter project? Is there anything that the Cookiecutter template is missing?
+
+If you didn't find this template useful, you can browse these templates to see if one of these fits your needs better:
+
+a.  [Data Science](https://github.com/drivendata/cookiecutter-data-science)
+b.  [Python template](https://github.com/NLeSC/python-template)
+c.  [Reproducible Science](https://github.com/mkrapp/cookiecutter-reproducible-science)
+d.  [More templates](http://cookiecutter-templates.sebastianruml.name/)
 
 ![The Turing Way illustration by Scriberia. CC-BY 4.0. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)](https://the-turing-way.netlify.app/_images/research-compendium.jpg){width="75%"}
-
-
-
-## References
-*	Colavizza, G., Hrynaszkiewicz, I., Staden, I., Whitaker, K., & McGillivray, B. The citation advantage of linking publications to research data. PLOS ONE 15(4), e0230416 (2020). https://doi.org/10.1371/journal.pone.0230416
-*	European Commission. Directorate-General for Research & Innovation. H2020 Programme Guidelines on FAIR Data Management in Horizon 2020. Version 3.0. 26 July 2016. URL:https://core.ac.uk/download/pdf/301306355.pdf
-* The Turing Way: A Handbook for Reproducible Data Science (2022). Zenodo. 10.5281/zenodo.3233853
-
