@@ -2,7 +2,13 @@
 
 *Estimated time: 60 minutes*
 
-This part of the course is only relevant if you do not have GitHub experience.
+Parts of the explanations below can be skipped if you already have some experience with GitHub. Go directly to 'Create an Issue'.
+
+## What is GitHub?
+
+GitHub is a website and cloud-based service that allows you to store and manage code. It is based on Git, which allows you to track and control changes to code. It also allows you to collaborate with others, which is our primary reason for using it during this course. You will not need to actually code to be able to use the platform!
+
+-   [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E) (*3.32 minutes*)
 
 ## Create a GitHub Account
 
@@ -12,16 +18,18 @@ This part of the course is only relevant if you do not have GitHub experience.
 
 3.  Activate your account using the email address you provided
 
-## Follow a GitHub Tutorial
+## Create a GitHub issue
 
-Please watch and follow along this [GitHub tutorial for beginners](https://www.youtube.com/watch?v=90BOler9hqI) provided by the [Open Life Science program](https://openlifesci.org).
-
-This tutorial is based on [materials that are made available by Malvika Sharan](https://malvikasharan.github.io/developing_collaborative_document/).
-
-## Post a response to Issue \#
-
-When you've practiced a bit of GitHub, please respond to Issue \# with your assignment list, so that you can keep track of your progress in this course. Next to keeping track of your progress, you will use GitHub during this course to interact with your peers.
+When you have set up your GitHub Account, please respond to Issue \# with your assignment list, so that you can keep track of your progress in this course. Next to keeping track of your progress, you will use GitHub during this course to interact with your peers.
 
 ## Support
 
 Please contact Esther if you have any problems getting started with GitHub and posting a response to Issue #.
+
+## More GitHub tutorials
+
+-   [GitHub tutorial for beginners](https://www.youtube.com/watch?v=90BOler9hqI) provided by the [Open Life Science program](https://openlifesci.org) (based on [materials that are made available by Malvika Sharan](https://malvikasharan.github.io/developing_collaborative_document/))
+
+-   [GitHub skills](https://skills.github.com/)
+
+-   [Open Source for Researchers](https://open-source-for-researchers.github.io/open-source-workshop/)

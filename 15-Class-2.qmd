@@ -3,8 +3,8 @@
 ## Activities **before Class 2**
 
 -   **Respond to all the GitHub issues and update your checklist in [Issue \#](link)**
--   [**Finalise your DMP**](https://estherplomp.github.io/TNW-RDM-101/13-Assignment-DMP.html) **and ask for Feedback** on DMPonline
--   **Submit your [slide](https://estherplomp.github.io/TNW-RDM-101/14-Assignment-Data-Flow-Map-3.html) to Esther**
+-   [**Finalise your DMP**](https://estherplomp.github.io/TNW-RDM-101/13-Assignment-DMP.html) **and ask for Feedback** on DMPonline (*60 minutes*)
+-   **Submit your [slide](https://estherplomp.github.io/TNW-RDM-101/14-Assignment-Data-Flow-Map-3.html) to Esther** (*60 minutes*)
 
 See you there!
 

@@ -4,9 +4,9 @@
 
 Note: this is a repeat of the [activities mentioned in Importance of RDM](https://estherplomp.github.io/TNW-RDM-101/02-Importance-of-RDM.html#activities)
 
--   Watch the presentations on 'Why is RDM important'? (10 minutes)
--   Read [@markowetz2015]: Five selfish reasons to work reproducibly OR [Watch the presentation](https://youtu.be/1Y_oIjlH-yg?t=355) (50 minutes)
--   Set up a GitHub account (see [Assignment 1](https://estherplomp.github.io/TNW-RDM-101/03-Assignment-GitHub-1.html)) (10 minutes)
+-   Watch the presentations on 'Why is RDM important'? (*10 minutes*)
+-   Read [@markowetz2015]: Five selfish reasons to work reproducibly OR [Watch the presentation](https://youtu.be/1Y_oIjlH-yg?t=355) (*50 minutes*)
+-   Create a GitHub issue (see [Assignment 1](https://estherplomp.github.io/TNW-RDM-101/03-Assignment-GitHub-1.html)) (*10-30 minutes*)
 
 ## **Class 1 (*120 minutes*)**
 
@@ -15,7 +15,7 @@ Note: this is a repeat of the [activities mentioned in Importance of RDM](https:
     -   Do you find the horror stories or the benefits more convincing?
     -   Do you have a horror story to share?
 -   Introduction Data Flow Map assignment
--   Check GitHub accounts and issues
+-   Check GitHub Issue
 -   Importance of Documentation
 
 ## References

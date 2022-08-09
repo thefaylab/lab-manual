@@ -18,7 +18,7 @@ Now that you know more about how to organise your data and name your files, we c
 
 In the next video we will talk about different methods and tools you can use to document projects, datasets, and code. We will also briefly talk about metadata.
 
--   [04-2_Module-4_Video_Presentation_DataDocumentation](https://surfdrive.surf.nl/files/index.php/s/Y1ylaZYL1R3VPbR) (12 minutes, audio will play automatically in full presentation mode)
+-   [04-2_Module-4_Video_Presentation_DataDocumentation](https://surfdrive.surf.nl/files/index.php/s/Y1ylaZYL1R3VPbR) (*12 minutes*, audio will play automatically in full presentation mode)
 
 ## Assignment: Create a ReadMe file
 
@@ -27,7 +27,7 @@ In the next video we will talk about different methods and tools you can use to 
 1.  Download the [Cornell template for a ReadMe file](https://cornell.app.box.com/v/ReadmeTemplate).
 2.  Adapt and start filling in the template to describe a dataset of your project (you are allowed to delete and add new fields)
 3.  If you are unsure about the meaning of a component of the ReadMe file, go to: [Guide to writing "ReadMe" style metadata - Cornell University](https://data.research.cornell.edu/content/readme#best_practices)
-4.  When you're finished, share your template on [GitHub in Issue \#](link).
+4.  When you're finished, share your template in your first Assignment issue.
 5.  Pick a ReadMe file of someone else and read it. Provide feedback on the clarity of the ReadMe.
 
 ## Assignment: Data Dictionaries (for tabular data - optional)
@@ -46,8 +46,8 @@ Note that you can also [create a package for your data with Frictionless Data](h
 
 [TU Delft offers two different Electronic Lab Notebooks](https://www.tudelft.nl/en/library/research-data-management/r/manage/electronic-lab-note%20book), eLABjournal and Rspace. Watch the short videos introducing them:
 
--   [eLABjournal intro](https://www.youtube.com/watch?v=ys4BKEWWnEc&feature=youtu.be) (4:11 minutes)
--   [RSpace intro](https://www.youtube.com/watch?v=q2CEnZRC1_o&t=5s) (1:43 minutes)
+-   [eLABjournal intro](https://www.youtube.com/watch?v=ys4BKEWWnEc&feature=youtu.be) (*4:11 minutes*)
+-   [RSpace intro](https://www.youtube.com/watch?v=q2CEnZRC1_o&t=5s) (*1:43 minutes*)
 
 Try out one of the Electronic Lab Notebooks:
 
