@@ -1,6 +1,6 @@
 # Assignment 1 - Getting started with GitHub {#GitHub}
 
-*Estimated time: 60 minutes*
+*Estimated time: 10-60 minutes*
 
 Parts of the explanations below can be skipped if you already have some experience with GitHub. Go directly to 'Create an Issue'.
 
@@ -20,11 +20,41 @@ GitHub is a website and cloud-based service that allows you to store and manage 
 
 ## Create a GitHub issue
 
-When you have set up your GitHub Account, please respond to Issue \# with your assignment list, so that you can keep track of your progress in this course. Next to keeping track of your progress, you will use GitHub during this course to interact with your peers.
+When you have set up your GitHub Account, please go to the [GitHub repository of this website](https://github.com/EstherPlomp/TNW-RDM-101/) and create an issue by following these steps.
+
+1.  Go to the [Issue tab](https://github.com/EstherPlomp/TNW-RDM-101/issues) of this repository
+
+    ![](https://raw.githubusercontent.com/EstherPlomp/TNW-RDM-101/main/images/Github1-issues.jpg)
+
+2.  On the right, you will see a green button that says 'New issue': select this.
+
+    ![](https://raw.githubusercontent.com/EstherPlomp/TNW-RDM-101/main/images/Github2-new-issue.jpg)
+
+3.  You will see a box that says Assignment 1, with another green button that says 'Get started'. Select 'Get started'.
+
+    ![](https://raw.githubusercontent.com/EstherPlomp/TNW-RDM-101/main/images/Github3-create-issue.jpg)
+
+4.  You will see a form that you can now fill in. Start with adjusting the title. Keep the Assignment 1 part in, but replace \[yournamehere\] with your name. Read the text in the template for further explanation and fill out the template. If you want to preview what the text will look like, you can select the preview button.
+
+    ![](https://raw.githubusercontent.com/EstherPlomp/TNW-RDM-101/main/images/Github4-setup-issue.jpg)
+
+5.  When you have filled out the form, you can submit your issue by scrolling down. You will see another green button that says 'Submit new issue'. Please select it.
+
+    ![](https://raw.githubusercontent.com/EstherPlomp/TNW-RDM-101/main/images/Github5-submit-issue.jpg)
+
+6.  You can always edit your issue if you made any mistakes or if you want to update it. You can do this by selecting the three dots at the right of your issue and selecting 'Edit'.
+
+    ![](https://raw.githubusercontent.com/EstherPlomp/TNW-RDM-101/main/images/Github6-edit-issue.jpg)
+
+7.  You can use this edit button to check the boxes of the assignments in the text, or you can just use mouse clicks on the boxes in your issue to mark your assignments as done!
+
+    ![](https://raw.githubusercontent.com/EstherPlomp/TNW-RDM-101/main/images/Github7-checklist.jpg)
+
+Congratulations! You've created a GitHub issue! You can now use this issue to keep track of your progress!
 
 ## Support
 
-Please contact Esther if you have any problems getting started with GitHub and posting a response to Issue #.
+Please contact Esther if you have any problems getting started with GitHub.
 
 ## More GitHub tutorials
 

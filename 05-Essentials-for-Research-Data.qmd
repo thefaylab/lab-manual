@@ -76,7 +76,7 @@ For this module's discussion, please answer the following question:
 
 -   What is your main challenge regarding your data management?
 
-Post your answers in [GitHub Issue](link).
+Post your answers in [GitHub Issue #2](https://github.com/EstherPlomp/TNW-RDM-101/issues/2#issue-1333675920).
 
 Please read your peers' responses and reply to any you find interesting!
 

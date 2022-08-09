@@ -51,6 +51,6 @@ More resources on licences:
 
 ## Discussion
 
-Post your license preference for data and/or code in GitHub issue #.
+Post your license preference for data and/or code in [GitHub issue #3](https://github.com/EstherPlomp/TNW-RDM-101/issues/3).
 
 ## References
