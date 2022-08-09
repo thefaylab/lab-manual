@@ -15,6 +15,9 @@ assignees: ''
 ### Reflections on the importance of RDM videos
 <!--Reflect about what you heard on the video and briefly write your thoughts and your horror stories in less than 5 sentences.-->
 
+### What would you like to learn during this course? 
+<!--Are there any things in particular that you would like to get out of this course? Do you have any goals that you would like to work on?-->
+
 ### Checklist assignments 
 <!--Use the checklist below for yourself to check off your progress in this course.-->
 - [x] Assignment 1: creating a GitHub issue (before **Class 1**)
