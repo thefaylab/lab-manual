@@ -6,10 +6,12 @@ In this module, we will focus on the realisation of FAIR data. We will explore s
 
 -   Understand the importance of good data organisation and be aware of best practices around data organisation
 
+::: callout-important
 ## Activities
 
 -   Watch the videos about 'Data organisation' and complete the quiz
 -   Try out Cookiecutter
+:::
 
 ## Data Organisation
 

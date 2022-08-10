@@ -1,10 +1,12 @@
 # Class 2 {#class2}
 
-## Activities **before Class 2**
+::: callout-note
+## Activities before Class 2
 
--   **Respond to all the GitHub issues and update your checklist in [Issue \#](link)**
+-   **Respond to all the GitHub issues and update your checklist in your [Assignment 1 Issue](https://estherplomp.github.io/TNW-RDM-101/03-Assignment-GitHub-1.html#create-a-github-issue)**
 -   [**Finalise your DMP**](https://estherplomp.github.io/TNW-RDM-101/13-Assignment-DMP.html) **and ask for Feedback** on DMPonline (*60 minutes*)
 -   **Submit your [slide](https://estherplomp.github.io/TNW-RDM-101/14-Assignment-Data-Flow-Map-3.html) to Esther** (*60 minutes*)
+:::
 
 See you there!
 
@@ -13,4 +15,4 @@ See you there!
 -   We will summarise some of the main takeaways of the course
 -   **You will present your slide**
 -   We will discuss what you learned from the Data Flow Maps
--   Your instructor will answer any final question you might have
+-   Ask any final questions!

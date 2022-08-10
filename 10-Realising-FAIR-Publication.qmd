@@ -40,7 +40,7 @@ Data repositories will facilitate sustainable access to your data. For more info
 
 You can also share your data and code via a **data or software article**.
 
--   [list of data journals](https://openworking.wordpress.com/2022/02/17/publishing-a-data-article/) with TU Delft resources indicated
+-   [List of data journals](https://openworking.wordpress.com/2022/02/17/publishing-a-data-article/) with TU Delft resources indicated
 -   [In which journal should I publish my software?](https://www.software.ac.uk/which-journals-should-i-publish-my-software)
     -   for example: the [Journal of Open Source Software (JOSS)](https://joss.theoj.org/)
 

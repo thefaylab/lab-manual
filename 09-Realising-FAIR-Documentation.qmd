@@ -7,10 +7,12 @@ In this module, we will focus on the realisation of FAIR data. We will explore s
 -   Recognize the relevance of documentation and be familiar with diverse tools to document data
 -   Identify relevant tools to advance towards FAIR data
 
+::: callout-important
 ## Activities
 
 -   Watch the presentation about Data Documentation tools
 -   Write a readme file and share it on GitHub. Comment on another person's readme and provide them with some tips to improve.
+:::
 
 ## Documentation tools
 

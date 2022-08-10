@@ -7,10 +7,12 @@ In this module, we will discover the FAIR data principles and their main element
 -   Understand the FAIR principles and their relation to RDM
 -   Identify the license that fits your research output
 
+::: callout-important
 ## Activities
 
 -   Watch the videos about the key elements to make data FAIR
--   Indicate your license preference in [GitHub issue \#](link)
+-   Indicate your license preference in [GitHub issue #3](linkhttps://github.com/EstherPlomp/TNW-RDM-101/issues/3)
+:::
 
 ## What are the FAIR principles?
 

@@ -7,11 +7,15 @@ During this module we will share different perspectives and let you discuss with
 -   Recognize the importance of research data management
 -   Explain why RDM is relevant for reproducibility and re-use of data
 
+::: callout-important
 ## Activities
 
 -   Watch the Presentations (**before class 1**) on 'Why is RDM important'?
 -   Read [@markowetz2015]: Five selfish reasons to work reproducibly OR [Watch the presentation](https://youtu.be/1Y_oIjlH-yg?t=355) (50 min) **before class 1**
--   Set up a GitHub account (see [Assignment 1](https://estherplomp.github.io/TNW-RDM-101/03-Assignment-GitHub-1.html)) **before class 1**
+-   Set up a GitHub account and create an issue (see [Assignment 1](https://estherplomp.github.io/TNW-RDM-101/03-Assignment-GitHub-1.html)) **before class 1**
+:::
+
+## 
 
 ![Image by [Errant Science](https://twitter.com/ErrantScience/status/1552617562118279169)](https://raw.githubusercontent.com/EstherPlomp/TNW-RDM-101/main/images/ErrantScience-important-data.png){fig-alt="How scientists save important data. Each part of the pie chart says the following: writing it down, .txt. files, weird files with strange acronyms, and in their own memories just before the computer crashes, losing everything." fig-align="center" width="400"}
 

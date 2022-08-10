@@ -49,13 +49,15 @@ In order to receive the 1.5 Graduate School Credits you have to:
     -   Write a Data Management Plan using DMPonline
 -   Attend and participate in both class sessions (including a 4 minute presentation of your data flow map assignment)
 
-Notes:
+::: callout-note
+## Notes
 
 -   You will not be graded on your assignments. Use the class sessions and discussions to gather feedback.
 
 -   1 GS credit is equal to 8 hours with an additional max. 4 hours for preparation and assignments.
 
 -   This course is estimated to take \~15.6 hours
+:::
 
 ## Deadlines
 
