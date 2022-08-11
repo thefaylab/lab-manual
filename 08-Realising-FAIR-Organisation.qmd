@@ -10,7 +10,7 @@ In this module, we will focus on the realisation of FAIR data. We will explore s
 ## Activities
 
 -   Watch the videos about 'Data organisation' and complete the quiz
--   Try out Cookiecutter
+-   Try out Cookiecutter, share your folder structure on [GitHub issue #4](https://github.com/EstherPlomp/TNW-RDM-101/issues/4), and comment on another person's folder structure
 :::
 
 ## Data Organisation
@@ -26,6 +26,8 @@ In the next video, we will go through some best practices to help you organise t
 -   [Folder structure explanation of Neuroscientist Nikola Vukovic](http://nikola.me/folder_structure.html)
 -   [The Turing Way - Data storage and organisation](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-storage.html) [@community2022]
 -   [Tagging and Finding Your Files: Home. MIT Libraries](https://libguides.mit.edu/metadataTools)
+
+![The Turing Way illustration by Scriberia. CC-BY 4.0. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)](https://the-turing-way.netlify.app/_images/research-compendium.jpg){width="75%"}
 
 ### Quiz Data Organisation
 
@@ -63,10 +65,15 @@ Note that you need to have Python and pip (or Anaconda) installed to easily foll
     -   Install Python 3 by running the Anaconda Installer using all of the defaults for installation.
 
 1.  Watch the video on [setting up a research compendium using Cookiecutter](https://vimeo.com/462773031) (3:36 min).
-2.  For instructions on how to clone the cookiecutter template see here. For instructions to see hidden folders on Windows, see here.
 
--   you can also find a visualisation of the template on the [GitHub repository](https://github.com/bvreede/good-enough-project)
+2.  See the instructions on [how to clone the Cookiecutter template](https://utrechtuniversity.github.io/workshop-computational-reproducibility/slides/slides_project-setup.html#6https://utrechtuniversity.github.io/workshop-computational-reproducibility/slides/slides_project-setup.html#6)
 
+    a\. [Information about hidden folders on Windows](https://www.howtogeek.com/howto/windows-vista/show-hidden-files-and-folders-in-windows-vista/)\
+    b. You can also find a visualisation of the template on the [GitHub repository](https://github.com/bvreede/good-enough-project)
+
+```{=html}
+<!-- -->
+```
 3.  Work on your own to populate the template with information/files from your project.
 4.  Share your folder structure on [GitHub issue #4](https://github.com/EstherPlomp/TNW-RDM-101/issues/4) and comment on another person's folder structure
 5.  Discuss with your peers how similar your own folder structure is to the one you created using Cookiecutter. What additional elements are there in the Cookiecutter project? Is there anything that the Cookiecutter template is missing?
@@ -78,7 +85,17 @@ b.  [Python template](https://github.com/NLeSC/python-template)
 c.  [Reproducible Science](https://github.com/mkrapp/cookiecutter-reproducible-science)
 d.  [More templates](http://cookiecutter-templates.sebastianruml.name/)
 
-![The Turing Way illustration by Scriberia. CC-BY 4.0. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)](https://the-turing-way.netlify.app/_images/research-compendium.jpg){width="75%"}
+::: callout-tip
+## Problems with Cookiecutter?
+
+You can also download the template from GitHub. Note that if you'd like to reuse this template a lot, it will be easier to do it as described above.
+
+1.  Go to \"<https://github.com/bvreede/good-enough-project>\"
+
+2.  Go to Code -\> Download ZIP
+
+3.  Extract all files in the folder where you'd like to save it, and rename the folder {{cookiecutter.project_slug}} to the name of your project
+:::
 
 ## Quiz Answers
 

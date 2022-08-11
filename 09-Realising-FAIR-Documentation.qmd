@@ -30,7 +30,8 @@ In the next video we will talk about different methods and tools you can use to 
 2.  Adapt and start filling in the template to describe a dataset of your project (you are allowed to delete and add new fields)
 3.  If you are unsure about the meaning of a component of the ReadMe file, go to: [Guide to writing "ReadMe" style metadata - Cornell University](https://data.research.cornell.edu/content/readme#best_practices)
 4.  When you're finished, share your template in your first Assignment issue.
-5.  Pick a ReadMe file of someone else and read it. Provide feedback on the clarity of the ReadMe.
+5.  Pick a ReadMe file of someone else and read it. Provide feedback on the clarity of the ReadMe by posting a comment to the issue.
+    -   You can filter on the Assignment 1 issues by either searching on the term Assignment 1 or by selecting the label 'assignment 1'
 
 ## Assignment: Data Dictionaries (for tabular data - optional)
 
