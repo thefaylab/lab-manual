@@ -20,4 +20,4 @@ Note that this is a repeat of the activities already mentioned in '[Importance o
 -   Check GitHub Issue
 -   Importance of Documentation
 
-## References
+## References {-}

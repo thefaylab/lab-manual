@@ -47,7 +47,7 @@ Note that you can also [create a package for your data with Frictionless Data](h
 
 *Estimated time: 20 minutes*
 
-[TU Delft offers two different Electronic Lab Notebooks](https://www.tudelft.nl/en/library/research-data-management/r/manage/electronic-lab-note%20book), eLABjournal and Rspace. Watch the short videos introducing them:
+[TU Delft offers two different Electronic Lab Notebooks](https://www.tudelft.nl/en/library/research-data-management/r/manage/electronic-lab-note%20book), eLABjournal and RSpace. Watch the short videos introducing them:
 
 -   [eLABjournal intro](https://www.youtube.com/watch?v=ys4BKEWWnEc&feature=youtu.be) (*4:11 minutes*)
 -   [RSpace intro](https://www.youtube.com/watch?v=q2CEnZRC1_o&t=5s) (*1:43 minutes*)
@@ -90,7 +90,7 @@ Make sure you scan your paper notebook so that you have a back up copy!
 ## Software/code documentation
 
 -   See the [example used in the presentation using JupyterLab](https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/master?urlpath=lab/tree/demo)
--   [template to set up a GitHub (or GitLab) repository with all the relevant documentation about the project](https://github.com/manuGil/fair-code)
+-   [Template to set up a GitHub (or GitLab) repository with all the relevant documentation about the project](https://github.com/manuGil/fair-code)
 -   [Code Refinery materials on Code Documentation](https://coderefinery.github.io/documentation/)
 -   Use the [CodeMeta creator](https://codemeta.github.io/codemeta-generator/) to create a .json metadata file to add to your repo
 -   Barbara Vreede's presentation on [Best Practices for Writing Reproducible Code](https://bvreede.github.io/presentations/presentations/2020-09-17_BestPractices-lecture.html#1)

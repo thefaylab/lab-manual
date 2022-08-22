@@ -50,5 +50,5 @@ You can also share your data and code via a **data or software article**.
 
 ## References:
 
--   [@colavizza2020]
+-   @colavizza2020
 -   [H2020 Programme Guidelines on FAIR Data Management in Horizon 2020](https://core.ac.uk/download/pdf/301306355.pdf). Version 3.0. 26 July 2016.

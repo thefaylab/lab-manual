@@ -11,7 +11,7 @@ In this module, we will discover the FAIR data principles and their main element
 ## Activities
 
 -   Watch the videos about the key elements to make data FAIR
--   Indicate your license preference in [GitHub issue #3](linkhttps://github.com/EstherPlomp/TNW-RDM-101/issues/3)
+-   Indicate your license preference in [GitHub issue #3](https://github.com/EstherPlomp/TNW-RDM-101/issues/3)
 :::
 
 ## What are the FAIR principles?
@@ -48,11 +48,11 @@ Scripts of the videos copied or adapted from [@holmstrand2019].
 More resources on licences:
 
 -   Licenses for data, presentations and articles: [Creative Commons (CC)](https://creativecommons.org/licenses/), or use the [license chooser](https://chooser-beta.creativecommons.org/).
--   Software: [Choose a License](https://choosealicense.com/licenses/). (For more detailed information, see '[How to choose a software licence](https://softwaresaved.github.io/software-deposit-guidance/HowToChooseSoftwareLicence.html)'.
+-   Software: [Choose a License](https://choosealicense.com/licenses/). (For more detailed information, see '[How to choose a software licence](https://softwaresaved.github.io/software-deposit-guidance/HowToChooseSoftwareLicence.html)').
 -   If in doubt, talk to Esther.
 
 ## Discussion
 
 Post your license preference for data and/or code in [GitHub issue #3](https://github.com/EstherPlomp/TNW-RDM-101/issues/3).
 
-## References
+## References {-}
