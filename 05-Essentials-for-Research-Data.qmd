@@ -18,7 +18,7 @@ In this module, we start to dig deeper into RDM by introducing multiple topics c
 -   Tell us about the type of research data you work with using the [Mentimeter word cloud](https://www.menti.com/9p49g5hobo).
 -   Look at the research cycle image and the RDM questions you need to ask yourself at each step of your project
 -   Watch the video about data storage & infrastructure available at TU Delft
--   Respond to [GitHub issue #2](https://github.com/EstherPlomp/TNW-RDM-101/issues/2) with your data challenge
+-   Respond to [GitHub discussion #7](https://github.com/EstherPlomp/TNW-RDM-101/issues/2https://github.com/EstherPlomp/TNW-RDM-101/discussions/7) with your data challenge
 -   Read the policy responsibilities and ask any questions you have about it
 :::
 
@@ -78,7 +78,7 @@ For this module's discussion, please answer the following question:
 
 -   What is your main challenge regarding your data management?
 
-Post your answers in [GitHub Issue #2](https://github.com/EstherPlomp/TNW-RDM-101/issues/2#issue-1333675920).
+Post your answers in [GitHub Discussion #7](https://github.com/EstherPlomp/TNW-RDM-101/issues/2#issue-1333675920https://github.com/EstherPlomp/TNW-RDM-101/discussions/7).
 
 Please read your peers' responses and reply to any you find interesting!
 
