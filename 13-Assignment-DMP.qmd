@@ -17,7 +17,7 @@ For this assignment, please create an account for [DMPonline](https://dmponline.
 3.  Fill in the 'Project Details' according to your project.
 4.  Go to 'Write Plan'
 5.  Go back to your slides or papers and post-it's of your data flow map of week 1 and 2 and use the information in there to fill in the questions of the data management plan. If appropriate, you can use the 'Additional Information' box in the template to add as many details as possible according to your data flow map.
-6.  If you don't know how to answer any of the questions please let us know in [GitHub Issue #5](https://github.com/EstherPlomp/TNW-RDM-101/issues/5).
+6.  If you don't know how to answer any of the questions please let us know in [GitHub Discussion #11 Data Management Plan](https://github.com/EstherPlomp/TNW-RDM-101/issues/5https://github.com/EstherPlomp/TNW-RDM-101/discussions/11).
 
 ## Submit your assignment
 

@@ -30,4 +30,10 @@ Reflect about what you heard on the video and bring your thoughts and your horro
 
 [![The Turing Way illustration by Scriberia. CC-BY 4.0. DOI: 10.5281/zenodo.3332807](https://raw.githubusercontent.com/EstherPlomp/TNW-RDM-101/main/images/TTW-rdm-storage.jpg){fig-alt="A scientist looking in her cabinet in her office for the data from last year. The cabinet looks quite messy, with open boxes, notes everywhere and a cat sleeping in it." fig-align="center" width="500"}](https://doi.org/10.5281/zenodo.3332807)
 
+## Selfish reasons to work reproducibly
+
+Read [@markowetz2015]: Five selfish reasons to work reproducibly OR [Watch the presentation](https://youtu.be/1Y_oIjlH-yg?t=355) (50 min) **before class 1**
+
+{{< youtube 1Y_oIjlH-yg&t=355s >}}
+
 ## References

@@ -10,7 +10,7 @@ In this module, we will focus on the realisation of FAIR data. We will explore s
 ## Activities
 
 -   Watch the videos about 'Data organisation' and complete the quiz
--   Try out Cookiecutter, share your folder structure on [GitHub issue #4](https://github.com/EstherPlomp/TNW-RDM-101/issues/4), and comment on another person's folder structure
+-   Try out Cookiecutter, share your folder structure on [GitHub discussion #10 Folder Structure](https://github.com/EstherPlomp/TNW-RDM-101/issues/4), and comment on another person's folder structure
 :::
 
 ## Data Organisation
@@ -69,13 +69,11 @@ Note that you need to have Python and pip (or Anaconda) installed to easily foll
 2.  See the instructions on [how to clone the Cookiecutter template](https://utrechtuniversity.github.io/workshop-computational-reproducibility/slides/slides_project-setup.html#6https://utrechtuniversity.github.io/workshop-computational-reproducibility/slides/slides_project-setup.html#6)
 
     a\. [Information about hidden folders on Windows](https://www.howtogeek.com/howto/windows-vista/show-hidden-files-and-folders-in-windows-vista/)\
-    b. You can also find a visualisation of the template on the [GitHub repository](https://github.com/bvreede/good-enough-project)
 
-```{=html}
-<!-- -->
-```
+    b.  You can also find a visualisation of the template on the [GitHub repository](https://github.com/bvreede/good-enough-project)
+
 3.  Work on your own to populate the template with information/files from your project.
-4.  Share your folder structure on [GitHub issue #4](https://github.com/EstherPlomp/TNW-RDM-101/issues/4) and comment on another person's folder structure
+4.  Share your folder structure on [GitHub discussion #10 Folder Structure](https://github.com/EstherPlomp/TNW-RDM-101/issues/4) and comment on another person's folder structure
 5.  Discuss with your peers how similar your own folder structure is to the one you created using Cookiecutter. What additional elements are there in the Cookiecutter project? Is there anything that the Cookiecutter template is missing?
 
 If you didn't find this template useful, you can browse these templates to see if one of these fits your needs better:
@@ -90,7 +88,7 @@ d.  [More templates](http://cookiecutter-templates.sebastianruml.name/)
 
 You can also download the template from GitHub. Note that if you'd like to reuse this template a lot, it will be easier to do it as described above.
 
-1.  Go to \"<https://github.com/bvreede/good-enough-project>\"
+1.  Go to "<https://github.com/bvreede/good-enough-project>"
 
 2.  Go to Code -\> Download ZIP
 
