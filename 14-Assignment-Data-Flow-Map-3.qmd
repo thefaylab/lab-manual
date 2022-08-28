@@ -13,6 +13,8 @@ You will have to prepare and submit a slide before **class 2** about:
 
 You will have 4 minutes to present your slide during **class 2** to your peers and they will have the chance to ask questions or exchange ideas!
 
-Please **submit your slide to Esther before ...**
+Please **submit your slide to Esther before {{< var deadlines.assign5 >}}**
 
-This assignment is based on [@martinez-lavanchy2022]
+This assignment is based on @martinez-lavanchy2022
+
+## References {-}

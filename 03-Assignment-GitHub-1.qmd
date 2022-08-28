@@ -2,7 +2,7 @@
 
 *Estimated time: 10-60 minutes*
 
-Parts of the explanations below can be skipped if you already have some experience with GitHub. Go directly to 'Create an Issue'.
+Parts of the explanations below can be skipped if you already have some experience with GitHub. Go directly to ['Create an Issue'](#create-a-github-issue).
 
 ## What is GitHub?
 
