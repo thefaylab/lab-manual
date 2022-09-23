@@ -10,7 +10,7 @@ This course contains a lot of self-paced elements. Make sure to plan your time a
 
 **Course start:** {{< var course.start >}}\
 **Course end date:** {{< var course.end >}}\
-**Class sessions:**
+**Class sessions: 13 October and 8 November**
 
 **Course load:** approximately [**4-6 hours per week**]{.underline}
 
