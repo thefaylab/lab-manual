@@ -62,8 +62,8 @@ In order to receive the 1.5 Graduate School Credits you have to:
 ## Deadlines
 
 -   Assignment 1 - GitHub - Before **class 1** ({{< var assign1 >}})
--   Assignment 2 - Data Flow Map 1 - Before ... ({{< var assign2 >}})
--   Assignment 3 - Data Flow Map 2 - Before ... ({{< var assign3 >}})
+-   Assignment 2 - Data Flow Map 1 - Before ({{< var assign2 >}})
+-   Assignment 3 - Data Flow Map 2 - Before ({{< var assign3 >}})
 -   Assignment 4 - Data Management Plan - Before **class 2** ({{< var assign4 >}})
 -   Assignment 5 - Data Flow Map 3 Before **class 2** ({{< var assign5 >}})
 
