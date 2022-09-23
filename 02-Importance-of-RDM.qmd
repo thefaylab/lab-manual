@@ -21,8 +21,7 @@ During this module we will share different perspectives and let you discuss with
 
 Why should you be aware of your Research Data Management?
 
--   [01-1_Module-1_Video_Presentation_Why RDM is relevant for you_Part1](https://surfdrive.surf.nl/files/index.php/s/eYiDxb1CP5E44Hh) (3 minutes, audio will play automatically in full presentation modus) - Data horror stories
--   [01-2_Module-1_Video_Presentation_Why RDM is relevant for you_Part2](https://surfdrive.surf.nl/files/index.php/s/JX7Oyns3vGCdDZ8) (5 minutes) - Benefits of managing and sharing data
+-   [01-1_Module-1_Video_Presentation_Why RDM is relevant for you](https://drive.google.com/file/d/1eJ8R7DbiPRq2ynaImHGzdz8QBgwVt82o/view?usp=sharing) (*8 minutes*)
 
 Reflect about what you heard on the video and bring your thoughts and your horror stories to **class 1**.
 
@@ -35,4 +34,3 @@ Read [@markowetz2015]: Five selfish reasons to work reproducibly OR [Watch the p
 {{< youtube 1Y_oIjlH-yg&t=355s >}}
 
 ## References
-
