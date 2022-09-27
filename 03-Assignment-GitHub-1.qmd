@@ -1,6 +1,6 @@
 # Assignment 1 - Getting started with GitHub {#GitHub}
 
-*Estimated time: 10-60 minutes*
+*Estimated time: 10-30 minutes*
 
 Parts of the explanations below can be skipped if you already have some experience with GitHub. Go directly to ['Create an Issue'](#create-a-github-issue).
 
@@ -18,7 +18,7 @@ GitHub is a website and cloud-based service that allows you to store and manage 
 
 3.  Activate your account using the email address you provided
 
-## Create a GitHub issue
+## Create a GitHub issue {#create-a-github-issue}
 
 When you have set up your GitHub Account, please go to the [GitHub repository of this website](https://github.com/EstherPlomp/TNW-RDM-101/) and create an issue by following these steps.
 

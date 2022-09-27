@@ -3,7 +3,7 @@
 ::: callout-important
 ## Activities recap before Class 1
 
-Note that this is a repeat of the activities already mentioned in '[Importance of RDM](https://estherplomp.github.io/TNW-RDM-101/02-Importance-of-RDM.html)'
+Note that this is a repeat of the activities already mentioned in '[Importance of RDM](https://estherplomp.github.io/TNW-RDM-101/02-Importance-of-RDM.html)' (total estimated time: *80-100 minutes*)
 
 -   Watch the presentation on '[Why is RDM important](https://drive.google.com/file/d/1eJ8R7DbiPRq2ynaImHGzdz8QBgwVt82o/view?usp=sharing)'? (*8 minutes*)
 -   Read [@markowetz2015]: Five selfish reasons to work reproducibly OR [Watch the presentation](https://youtu.be/1Y_oIjlH-yg?t=355) (*50 minutes*)
