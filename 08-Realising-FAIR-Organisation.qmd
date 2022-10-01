@@ -39,6 +39,8 @@ Test your knowledge after watching the 'Data organisation' video. Think about wh
 4.  In a Research Compendium data, methods, and outputs should be clearly separated.
 5.  Consistency is not relevant in data organisation.
 
+![Tweet by [\@varsha_khodiyar](https://twitter.com/varsha_khodiyar/status/1559453945478922240/photo/1)](https://pbs.twimg.com/media/FaRK7XcWIAA9xeo)
+
 ## Assignment: Using Cookiecutter
 
 *Estimated time: 20 minutes*
