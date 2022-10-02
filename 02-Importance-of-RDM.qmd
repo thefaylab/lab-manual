@@ -23,7 +23,7 @@ Why should you be aware of your Research Data Management?
 
 -   [01-1_Module-1_Video_Presentation_Why RDM is relevant for you](https://drive.google.com/file/d/1eJ8R7DbiPRq2ynaImHGzdz8QBgwVt82o/view?usp=sharing) (*8 minutes*)
 
-Reflect about what you heard on the video and bring your thoughts and your horror stories to **class 1**.
+Reflect about what you heard on the video and bring your thoughts and your horror stories to **class 1**. You can also listen to the [Data Horror Song](https://twitter.com/rafamoral/status/1571622591219236864) for some inspiration!
 
 [![The Turing Way illustration by Scriberia. CC-BY 4.0. DOI: 10.5281/zenodo.3332807](https://raw.githubusercontent.com/EstherPlomp/TNW-RDM-101/main/images/TTW-rdm-storage.jpg){fig-alt="A scientist looking in her cabinet in her office for the data from last year. The cabinet looks quite messy, with open boxes, notes everywhere and a cat sleeping in it." fig-align="center" width="500"}](https://doi.org/10.5281/zenodo.3332807)
 
