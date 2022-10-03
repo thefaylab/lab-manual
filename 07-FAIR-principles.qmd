@@ -51,8 +51,14 @@ More resources on licences:
 -   Software: [Choose a License](https://choosealicense.com/licenses/). (For more detailed information, see '[How to choose a software licence](https://softwaresaved.github.io/software-deposit-guidance/HowToChooseSoftwareLicence.html)').
 -   If in doubt, talk to Esther.
 
+## FAIR in the literature
+
+[@scheffler2022]
+
+[@kievits2022a]
+
 ## Discussion
 
 Post your license preference for data and/or code in [GitHub discussion #9 Licenses](linkhttps://github.com/EstherPlomp/TNW-RDM-101/issues/3https://github.com/EstherPlomp/TNW-RDM-101/discussions/9).
 
-## References {-}
+## References {.unnumbered}
