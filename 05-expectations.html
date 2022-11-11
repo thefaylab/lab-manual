@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.0.36">
+<meta name="generator" content="quarto-1.1.251">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,15 @@
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-span.underline{text-decoration: underline;}
-div.column{display: inline-block; vertical-align: top; width: 50%;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
 </style>
 
 
@@ -162,22 +167,22 @@ ul.task-list{list-style: none;}
 </nav>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc">
+        <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#working-hours" id="toc-working-hours" class="nav-link active" data-scroll-target="#working-hours"> <span class="header-section-number">6.1</span> Working hours</a></li>
-  <li><a href="#email" id="toc-email" class="nav-link" data-scroll-target="#email"> <span class="header-section-number">6.2</span> Email</a></li>
-  <li><a href="#attendance-at-regularly-scheduled-events" id="toc-attendance-at-regularly-scheduled-events" class="nav-link" data-scroll-target="#attendance-at-regularly-scheduled-events"> <span class="header-section-number">6.3</span> Attendance at regularly scheduled events</a></li>
-  <li><a href="#outreach" id="toc-outreach" class="nav-link" data-scroll-target="#outreach"> <span class="header-section-number">6.4</span> Outreach</a></li>
-  <li><a href="#expectations-for-the-pi" id="toc-expectations-for-the-pi" class="nav-link" data-scroll-target="#expectations-for-the-pi"> <span class="header-section-number">6.5</span> Expectations for the PI</a></li>
-  <li><a href="#graduate-students" id="toc-graduate-students" class="nav-link" data-scroll-target="#graduate-students"> <span class="header-section-number">6.6</span> Graduate students</a>
+  <li><a href="#working-hours" id="toc-working-hours" class="nav-link active" data-scroll-target="#working-hours"><span class="toc-section-number">6.1</span>  Working hours</a></li>
+  <li><a href="#email" id="toc-email" class="nav-link" data-scroll-target="#email"><span class="toc-section-number">6.2</span>  Email</a></li>
+  <li><a href="#attendance-at-regularly-scheduled-events" id="toc-attendance-at-regularly-scheduled-events" class="nav-link" data-scroll-target="#attendance-at-regularly-scheduled-events"><span class="toc-section-number">6.3</span>  Attendance at regularly scheduled events</a></li>
+  <li><a href="#outreach" id="toc-outreach" class="nav-link" data-scroll-target="#outreach"><span class="toc-section-number">6.4</span>  Outreach</a></li>
+  <li><a href="#expectations-for-the-pi" id="toc-expectations-for-the-pi" class="nav-link" data-scroll-target="#expectations-for-the-pi"><span class="toc-section-number">6.5</span>  Expectations for the PI</a></li>
+  <li><a href="#graduate-students" id="toc-graduate-students" class="nav-link" data-scroll-target="#graduate-students"><span class="toc-section-number">6.6</span>  Graduate students</a>
   <ul class="collapse">
-  <li><a href="#exp-funding" id="toc-exp-funding" class="nav-link" data-scroll-target="#exp-funding"> <span class="header-section-number">6.6.1</span> Funding</a></li>
+  <li><a href="#exp-funding" id="toc-exp-funding" class="nav-link" data-scroll-target="#exp-funding"><span class="toc-section-number">6.6.1</span>  Funding</a></li>
   </ul></li>
-  <li><a href="#undergraduate-students" id="toc-undergraduate-students" class="nav-link" data-scroll-target="#undergraduate-students"> <span class="header-section-number">6.7</span> Undergraduate students</a></li>
-  <li><a href="#postdoctoral-researchers" id="toc-postdoctoral-researchers" class="nav-link" data-scroll-target="#postdoctoral-researchers"> <span class="header-section-number">6.8</span> Postdoctoral researchers</a></li>
-  <li><a href="#research-staff" id="toc-research-staff" class="nav-link" data-scroll-target="#research-staff"> <span class="header-section-number">6.9</span> Research staff</a></li>
+  <li><a href="#undergraduate-students" id="toc-undergraduate-students" class="nav-link" data-scroll-target="#undergraduate-students"><span class="toc-section-number">6.7</span>  Undergraduate students</a></li>
+  <li><a href="#postdoctoral-researchers" id="toc-postdoctoral-researchers" class="nav-link" data-scroll-target="#postdoctoral-researchers"><span class="toc-section-number">6.8</span>  Postdoctoral researchers</a></li>
+  <li><a href="#research-staff" id="toc-research-staff" class="nav-link" data-scroll-target="#research-staff"><span class="toc-section-number">6.9</span>  Research staff</a></li>
   </ul>
 <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/thefaylab/lab-manual/edit/main/05-expectations.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/thefaylab/lab-manual/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
     </div>
@@ -222,12 +227,20 @@ A template for these, with thanks to <a href="https://twitter.com/duffy_ma"><cod
 </section>
 <section id="attendance-at-regularly-scheduled-events" class="level2" data-number="6.3">
 <h2 data-number="6.3" class="anchored" data-anchor-id="attendance-at-regularly-scheduled-events"><span class="header-section-number">6.3</span> Attendance at regularly scheduled events</h2>
-<p>Attendance is expected at: * Departmental seminars<br>
-* Weekly lab meetings / quantfish woRkshops<br>
-* Individual meetings with Gavin to discuss and work on your research<br>
-* SMAST thesis and proposal defenses<br>
-* SMAST all hands meetings / start-and-end of semester events<br>
-* Annual UMass Intercampus Marine Science graduate research symposium</p>
+<p>Attendance is expected at:</p>
+<ul>
+<li>Departmental seminars<br>
+</li>
+<li>Weekly lab meetings / quantfish woRkshops<br>
+</li>
+<li>Individual meetings with Gavin to discuss and work on your research<br>
+</li>
+<li>SMAST thesis and proposal defenses<br>
+</li>
+<li>SMAST all hands meetings / start-and-end of semester events<br>
+</li>
+<li>Annual UMass Intercampus Marine Science graduate research symposium</li>
+</ul>
 </section>
 <section id="outreach" class="level2" data-number="6.4">
 <h2 data-number="6.4" class="anchored" data-anchor-id="outreach"><span class="header-section-number">6.4</span> Outreach</h2>
@@ -235,13 +248,20 @@ A template for these, with thanks to <a href="https://twitter.com/duffy_ma"><cod
 </section>
 <section id="expectations-for-the-pi" class="level2" data-number="6.5">
 <h2 data-number="6.5" class="anchored" data-anchor-id="expectations-for-the-pi"><span class="header-section-number">6.5</span> Expectations for the PI</h2>
-<p>Gavin (as PI) will (at a minimum) provide:<br>
-* Technical support for analysis (e.g., access to computing, training on techniques)<br>
-* Positive feedback &amp; constructive criticism on work<br>
-* Professional career support<br>
-* Support for non-technical aspects of making career progress<br>
-* Regular meetings (every two weeks) to discuss work &amp; maintain progress on goals<br>
-* Provide clear and honest appraisal of your funding situation</p>
+<p>Gavin (as PI) will (at a minimum) provide:</p>
+<ul>
+<li>Technical support for analysis (e.g., access to computing, training on techniques)<br>
+</li>
+<li>Positive feedback &amp; constructive criticism on work<br>
+</li>
+<li>Professional career support<br>
+</li>
+<li>Support for non-technical aspects of making career progress<br>
+</li>
+<li>Regular meetings (every two weeks) to discuss work &amp; maintain progress on goals<br>
+</li>
+<li>Provide clear and honest appraisal of your funding situation</li>
+</ul>
 </section>
 <section id="graduate-students" class="level2" data-number="6.6">
 <h2 data-number="6.6" class="anchored" data-anchor-id="graduate-students"><span class="header-section-number">6.6</span> Graduate students</h2>
@@ -264,14 +284,22 @@ A template for these, with thanks to <a href="https://twitter.com/duffy_ma"><cod
 <section id="postdoctoral-researchers" class="level2" data-number="6.8">
 <h2 data-number="6.8" class="anchored" data-anchor-id="postdoctoral-researchers"><span class="header-section-number">6.8</span> Postdoctoral researchers</h2>
 <p>Postdocs are independent researchers and likely will have significant collaboration with researchers at other institutions as part of their research and position. Postdocs in the lab may also be sharing time between SMAST and another opportunity.</p>
-<p>In general, postdocs are expected to:<br>
-* Be present and involved in lab meetings, workshops, campus seminars, and conferences.<br>
-* Provide mentorship, technical support, and assistance to other lab members<br>
-* Communicate both successes and sticking points on a regular basis with the PI<br>
-* Work independently and collaboratively<br>
-* Participate in professional development opportunities<br>
-* Lead and assist in designated research projects<br>
-* Develop and submit proposals to fund future research</p>
+<p>In general, postdocs are expected to:</p>
+<ul>
+<li>Be present and involved in lab meetings, workshops, campus seminars, and conferences.<br>
+</li>
+<li>Provide mentorship, technical support, and assistance to other lab members<br>
+</li>
+<li>Communicate both successes and sticking points on a regular basis with the PI<br>
+</li>
+<li>Work independently and collaboratively<br>
+</li>
+<li>Participate in professional development opportunities<br>
+</li>
+<li>Lead and assist in designated research projects<br>
+</li>
+<li>Develop and submit proposals to fund future research</li>
+</ul>
 <p>On day 1 of his postdoc at NOAA NEFSC, Gavin’s postdoc advisor said “Your first job is to look for your next job”. While a postdoctoral position is a scienctific research position, it is also a training opportunity and a step to something else, and a full-time permanent position beats a postdoc. Do not feel bad or awkward about pursuing (and taking) employment opportuntities, and also training opportunities that help you move toward that next step. We want you to succeed!</p>
 <p>[As benefited employees at UMass Dartmouth, postdocs are able to enroll in a limited amount of graduate coursework as part of their benefits package. Talk with Gavin about this.]</p>
 <p>Postdocs will likely have active roles on advisory working groups or other professional service roles. If opportunities are not immediately apparent through your funded research, then Gavin can help strategize about where is a useful space to target your involvement.</p>
@@ -369,7 +397,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   for (var i=0; i<noterefs.length; i++) {
     const ref = noterefs[i];
     tippyHover(ref, function() {
-      let href = ref.getAttribute('href');
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);

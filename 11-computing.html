@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.0.36">
+<meta name="generator" content="quarto-1.1.251">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,15 @@
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-span.underline{text-decoration: underline;}
-div.column{display: inline-block; vertical-align: top; width: 50%;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
 </style>
 
 
@@ -162,18 +167,18 @@ ul.task-list{list-style: none;}
 </nav>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc">
+        <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#overview-of-computing-at-umassd" id="toc-overview-of-computing-at-umassd" class="nav-link active" data-scroll-target="#overview-of-computing-at-umassd"> <span class="header-section-number">12.1</span> Overview of Computing at UMassD</a></li>
-  <li><a href="#smast-computing-facilities" id="toc-smast-computing-facilities" class="nav-link" data-scroll-target="#smast-computing-facilities"> <span class="header-section-number">12.2</span> SMAST computing facilities</a></li>
-  <li><a href="#administrator-privileges" id="toc-administrator-privileges" class="nav-link" data-scroll-target="#administrator-privileges"> <span class="header-section-number">12.3</span> Administrator Privileges</a></li>
-  <li><a href="#remote-meetings-via-zoom" id="toc-remote-meetings-via-zoom" class="nav-link" data-scroll-target="#remote-meetings-via-zoom"> <span class="header-section-number">12.4</span> Remote meetings via Zoom</a></li>
-  <li><a href="#collaborative-software" id="toc-collaborative-software" class="nav-link" data-scroll-target="#collaborative-software"> <span class="header-section-number">12.5</span> Collaborative software</a></li>
-  <li><a href="#backups-and-set-up-to-lab-storage-server" id="toc-backups-and-set-up-to-lab-storage-server" class="nav-link" data-scroll-target="#backups-and-set-up-to-lab-storage-server"> <span class="header-section-number">12.6</span> Backups and set up to Lab storage server</a></li>
-  <li><a href="#learnr" id="toc-learnr" class="nav-link" data-scroll-target="#learnr"> <span class="header-section-number">12.7</span> Introductory R learning resources</a></li>
-  <li><a href="#tmb-and-admb" id="toc-tmb-and-admb" class="nav-link" data-scroll-target="#tmb-and-admb"> <span class="header-section-number">12.8</span> TMB and ADMB</a></li>
+  <li><a href="#overview-of-computing-at-umassd" id="toc-overview-of-computing-at-umassd" class="nav-link active" data-scroll-target="#overview-of-computing-at-umassd"><span class="toc-section-number">12.1</span>  Overview of Computing at UMassD</a></li>
+  <li><a href="#smast-computing-facilities" id="toc-smast-computing-facilities" class="nav-link" data-scroll-target="#smast-computing-facilities"><span class="toc-section-number">12.2</span>  SMAST computing facilities</a></li>
+  <li><a href="#administrator-privileges" id="toc-administrator-privileges" class="nav-link" data-scroll-target="#administrator-privileges"><span class="toc-section-number">12.3</span>  Administrator Privileges</a></li>
+  <li><a href="#remote-meetings-via-zoom" id="toc-remote-meetings-via-zoom" class="nav-link" data-scroll-target="#remote-meetings-via-zoom"><span class="toc-section-number">12.4</span>  Remote meetings via Zoom</a></li>
+  <li><a href="#collaborative-software" id="toc-collaborative-software" class="nav-link" data-scroll-target="#collaborative-software"><span class="toc-section-number">12.5</span>  Collaborative software</a></li>
+  <li><a href="#backups-and-set-up-to-lab-storage-server" id="toc-backups-and-set-up-to-lab-storage-server" class="nav-link" data-scroll-target="#backups-and-set-up-to-lab-storage-server"><span class="toc-section-number">12.6</span>  Backups and set up to Lab storage server</a></li>
+  <li><a href="#learnr" id="toc-learnr" class="nav-link" data-scroll-target="#learnr"><span class="toc-section-number">12.7</span>  Introductory R learning resources</a></li>
+  <li><a href="#tmb-and-admb" id="toc-tmb-and-admb" class="nav-link" data-scroll-target="#tmb-and-admb"><span class="toc-section-number">12.8</span>  TMB and ADMB</a></li>
   </ul>
 <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/thefaylab/lab-manual/edit/main/11-computing.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/thefaylab/lab-manual/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
     </div>
@@ -323,7 +328,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   for (var i=0; i<noterefs.length; i++) {
     const ref = noterefs[i];
     tippyHover(ref, function() {
-      let href = ref.getAttribute('href');
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);

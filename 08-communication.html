@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.0.36">
+<meta name="generator" content="quarto-1.1.251">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,15 @@
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-span.underline{text-decoration: underline;}
-div.column{display: inline-block; vertical-align: top; width: 50%;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
 </style>
 
 
@@ -162,19 +167,19 @@ ul.task-list{list-style: none;}
 </nav>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc">
+        <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#inclusive-science-communication" id="toc-inclusive-science-communication" class="nav-link active" data-scroll-target="#inclusive-science-communication"> <span class="header-section-number">9.1</span> Inclusive science communication</a></li>
-  <li><a href="#curriculum-vitae" id="toc-curriculum-vitae" class="nav-link" data-scroll-target="#curriculum-vitae"> <span class="header-section-number">9.2</span> Curriculum Vitae</a>
+  <li><a href="#inclusive-science-communication" id="toc-inclusive-science-communication" class="nav-link active" data-scroll-target="#inclusive-science-communication"><span class="toc-section-number">9.1</span>  Inclusive science communication</a></li>
+  <li><a href="#curriculum-vitae" id="toc-curriculum-vitae" class="nav-link" data-scroll-target="#curriculum-vitae"><span class="toc-section-number">9.2</span>  Curriculum Vitae</a>
   <ul class="collapse">
-  <li><a href="#google-scholar-profiles" id="toc-google-scholar-profiles" class="nav-link" data-scroll-target="#google-scholar-profiles"> <span class="header-section-number">9.2.1</span> Google Scholar profiles</a></li>
+  <li><a href="#google-scholar-profiles" id="toc-google-scholar-profiles" class="nav-link" data-scroll-target="#google-scholar-profiles"><span class="toc-section-number">9.2.1</span>  Google Scholar profiles</a></li>
   </ul></li>
-  <li><a href="#personal-websites" id="toc-personal-websites" class="nav-link" data-scroll-target="#personal-websites"> <span class="header-section-number">9.3</span> Personal Websites</a></li>
-  <li><a href="#twitter" id="toc-twitter" class="nav-link" data-scroll-target="#twitter"> <span class="header-section-number">9.4</span> Twitter</a></li>
-  <li><a href="#social-media" id="toc-social-media" class="nav-link" data-scroll-target="#social-media"> <span class="header-section-number">9.5</span> Social Media</a></li>
-  <li><a href="#contributing-to-regional-publications" id="toc-contributing-to-regional-publications" class="nav-link" data-scroll-target="#contributing-to-regional-publications"> <span class="header-section-number">9.6</span> Contributing to regional publications</a></li>
+  <li><a href="#personal-websites" id="toc-personal-websites" class="nav-link" data-scroll-target="#personal-websites"><span class="toc-section-number">9.3</span>  Personal Websites</a></li>
+  <li><a href="#twitter" id="toc-twitter" class="nav-link" data-scroll-target="#twitter"><span class="toc-section-number">9.4</span>  Twitter</a></li>
+  <li><a href="#social-media" id="toc-social-media" class="nav-link" data-scroll-target="#social-media"><span class="toc-section-number">9.5</span>  Social Media</a></li>
+  <li><a href="#contributing-to-regional-publications" id="toc-contributing-to-regional-publications" class="nav-link" data-scroll-target="#contributing-to-regional-publications"><span class="toc-section-number">9.6</span>  Contributing to regional publications</a></li>
   </ul>
 <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/thefaylab/lab-manual/edit/main/08-communication.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/thefaylab/lab-manual/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
     </div>
@@ -340,7 +345,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   for (var i=0; i<noterefs.length; i++) {
     const ref = noterefs[i];
     tippyHover(ref, function() {
-      let href = ref.getAttribute('href');
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);

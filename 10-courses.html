@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.0.36">
+<meta name="generator" content="quarto-1.1.251">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,15 @@
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-span.underline{text-decoration: underline;}
-div.column{display: inline-block; vertical-align: top; width: 50%;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
 </style>
 
 
@@ -162,17 +167,17 @@ ul.task-list{list-style: none;}
 </nav>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc">
+        <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#suggested-course-schedule" id="toc-suggested-course-schedule" class="nav-link active" data-scroll-target="#suggested-course-schedule"> <span class="header-section-number">11.1</span> Suggested course schedule</a>
+  <li><a href="#suggested-course-schedule" id="toc-suggested-course-schedule" class="nav-link active" data-scroll-target="#suggested-course-schedule"><span class="toc-section-number">11.1</span>  Suggested course schedule</a>
   <ul class="collapse">
-  <li><a href="#year-1" id="toc-year-1" class="nav-link" data-scroll-target="#year-1"> <span class="header-section-number">11.1.1</span> Year 1</a></li>
-  <li><a href="#other-courses-gavin-will-strongly-suggest-you-take" id="toc-other-courses-gavin-will-strongly-suggest-you-take" class="nav-link" data-scroll-target="#other-courses-gavin-will-strongly-suggest-you-take"> <span class="header-section-number">11.1.2</span> Other courses Gavin will strongly ‘suggest’ you take</a></li>
-  <li><a href="#other-courses-you-might-want-to-take" id="toc-other-courses-you-might-want-to-take" class="nav-link" data-scroll-target="#other-courses-you-might-want-to-take"> <span class="header-section-number">11.1.3</span> Other courses you might want to take</a></li>
-  <li><a href="#other-umassd-courses" id="toc-other-umassd-courses" class="nav-link" data-scroll-target="#other-umassd-courses"> <span class="header-section-number">11.1.4</span> Other UMassD courses</a></li>
-  <li><a href="#courses-outside-of-umass-dartmouth" id="toc-courses-outside-of-umass-dartmouth" class="nav-link" data-scroll-target="#courses-outside-of-umass-dartmouth"> <span class="header-section-number">11.1.5</span> Courses outside of UMass Dartmouth</a></li>
+  <li><a href="#year-1" id="toc-year-1" class="nav-link" data-scroll-target="#year-1"><span class="toc-section-number">11.1.1</span>  Year 1</a></li>
+  <li><a href="#other-courses-gavin-will-strongly-suggest-you-take" id="toc-other-courses-gavin-will-strongly-suggest-you-take" class="nav-link" data-scroll-target="#other-courses-gavin-will-strongly-suggest-you-take"><span class="toc-section-number">11.1.2</span>  Other courses Gavin will strongly ‘suggest’ you take</a></li>
+  <li><a href="#other-courses-you-might-want-to-take" id="toc-other-courses-you-might-want-to-take" class="nav-link" data-scroll-target="#other-courses-you-might-want-to-take"><span class="toc-section-number">11.1.3</span>  Other courses you might want to take</a></li>
+  <li><a href="#other-umassd-courses" id="toc-other-umassd-courses" class="nav-link" data-scroll-target="#other-umassd-courses"><span class="toc-section-number">11.1.4</span>  Other UMassD courses</a></li>
+  <li><a href="#courses-outside-of-umass-dartmouth" id="toc-courses-outside-of-umass-dartmouth" class="nav-link" data-scroll-target="#courses-outside-of-umass-dartmouth"><span class="toc-section-number">11.1.5</span>  Courses outside of UMass Dartmouth</a></li>
   </ul></li>
   </ul>
 <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/thefaylab/lab-manual/edit/main/10-courses.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/thefaylab/lab-manual/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
@@ -322,7 +327,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   for (var i=0; i<noterefs.length; i++) {
     const ref = noterefs[i];
     tippyHover(ref, function() {
-      let href = ref.getAttribute('href');
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);

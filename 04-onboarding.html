@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.0.36">
+<meta name="generator" content="quarto-1.1.251">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,15 @@
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-span.underline{text-decoration: underline;}
-div.column{display: inline-block; vertical-align: top; width: 50%;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
 </style>
 
 
@@ -162,19 +167,19 @@ ul.task-list{list-style: none;}
 </nav>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc">
+        <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#myumassd-smast-occupants-page" id="toc-myumassd-smast-occupants-page" class="nav-link active" data-scroll-target="#myumassd-smast-occupants-page"> <span class="header-section-number">5.1</span> MyUMassD SMAST Occupants page</a></li>
-  <li><a href="#new-employee-and-student-onboarding-checklists" id="toc-new-employee-and-student-onboarding-checklists" class="nav-link" data-scroll-target="#new-employee-and-student-onboarding-checklists"> <span class="header-section-number">5.2</span> New employee and student onboarding checklists</a></li>
-  <li><a href="#individual-developmentmentoring-plans" id="toc-individual-developmentmentoring-plans" class="nav-link" data-scroll-target="#individual-developmentmentoring-plans"> <span class="header-section-number">5.3</span> Individual Development/Mentoring plans</a></li>
-  <li><a href="#timesheets" id="toc-timesheets" class="nav-link" data-scroll-target="#timesheets"> <span class="header-section-number">5.4</span> Timesheets</a></li>
-  <li><a href="#facilities" id="toc-facilities" class="nav-link" data-scroll-target="#facilities"> <span class="header-section-number">5.5</span> Facilities</a>
+  <li><a href="#myumassd-smast-occupants-page" id="toc-myumassd-smast-occupants-page" class="nav-link active" data-scroll-target="#myumassd-smast-occupants-page"><span class="toc-section-number">5.1</span>  MyUMassD SMAST Occupants page</a></li>
+  <li><a href="#new-employee-and-student-onboarding-checklists" id="toc-new-employee-and-student-onboarding-checklists" class="nav-link" data-scroll-target="#new-employee-and-student-onboarding-checklists"><span class="toc-section-number">5.2</span>  New employee and student onboarding checklists</a></li>
+  <li><a href="#individual-developmentmentoring-plans" id="toc-individual-developmentmentoring-plans" class="nav-link" data-scroll-target="#individual-developmentmentoring-plans"><span class="toc-section-number">5.3</span>  Individual Development/Mentoring plans</a></li>
+  <li><a href="#timesheets" id="toc-timesheets" class="nav-link" data-scroll-target="#timesheets"><span class="toc-section-number">5.4</span>  Timesheets</a></li>
+  <li><a href="#facilities" id="toc-facilities" class="nav-link" data-scroll-target="#facilities"><span class="toc-section-number">5.5</span>  Facilities</a>
   <ul class="collapse">
-  <li><a href="#office-space" id="toc-office-space" class="nav-link" data-scroll-target="#office-space"> <span class="header-section-number">5.5.1</span> Office space</a></li>
-  <li><a href="#key-card-building-room-access" id="toc-key-card-building-room-access" class="nav-link" data-scroll-target="#key-card-building-room-access"> <span class="header-section-number">5.5.2</span> Key card building &amp; room access</a></li>
-  <li><a href="#parking-and-transportation" id="toc-parking-and-transportation" class="nav-link" data-scroll-target="#parking-and-transportation"> <span class="header-section-number">5.5.3</span> Parking and transportation:</a></li>
+  <li><a href="#office-space" id="toc-office-space" class="nav-link" data-scroll-target="#office-space"><span class="toc-section-number">5.5.1</span>  Office space</a></li>
+  <li><a href="#key-card-building-room-access" id="toc-key-card-building-room-access" class="nav-link" data-scroll-target="#key-card-building-room-access"><span class="toc-section-number">5.5.2</span>  Key card building &amp; room access</a></li>
+  <li><a href="#parking-and-transportation" id="toc-parking-and-transportation" class="nav-link" data-scroll-target="#parking-and-transportation"><span class="toc-section-number">5.5.3</span>  Parking and transportation:</a></li>
   </ul></li>
   </ul>
 <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/thefaylab/lab-manual/edit/main/04-onboarding.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/thefaylab/lab-manual/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
@@ -322,7 +327,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   for (var i=0; i<noterefs.length; i++) {
     const ref = noterefs[i];
     tippyHover(ref, function() {
-      let href = ref.getAttribute('href');
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
