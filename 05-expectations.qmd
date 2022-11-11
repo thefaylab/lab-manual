@@ -26,6 +26,7 @@ In the lab, we communicate via email. You should therefore check your email at l
 ## Attendance at regularly scheduled events
 
 Attendance is expected at:
+
 * Departmental seminars  
 * Weekly lab meetings / quantfish woRkshops  
 * Individual meetings with Gavin to discuss and work on your research  
@@ -42,6 +43,7 @@ We share our learning and time with others beyond our lab, knowing that this bui
 ## Expectations for the PI
 
 Gavin (as PI) will (at a minimum) provide:  
+
 * Technical support for analysis (e.g., access to computing, training on techniques)  
 * Positive feedback & constructive criticism on work  
 * Professional career support  
@@ -81,6 +83,7 @@ If you are an hourly worker (either federal work study or grant supported) then 
 Postdocs are independent researchers and likely will have significant collaboration with researchers at other institutions as part of their research and position. Postdocs in the lab may also be sharing time between SMAST and another opportunity.  
 
 In general, postdocs are expected to:  
+
 * Be present and involved in lab meetings, workshops, campus seminars, and conferences.  
 * Provide mentorship, technical support, and assistance to other lab members  
 * Communicate both successes and sticking points on a regular basis with the PI  
@@ -114,5 +117,3 @@ In general, staff are expected to:
 * Serve as a role model and go-to resource for other members of the lab
 
 Research staff positions may be somewhat flexible in scope. For example, the position may include some lab management, leadership, and communication responsibilities. Exact set of responsibilities and duties will be clearly defined in your position description and expectations agreed on in your work plan.  
-
-
