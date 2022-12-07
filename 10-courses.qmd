@@ -47,18 +47,18 @@ MAR 580: Advanced Population Modeling (Fay) (odd years)
 ### Other courses you might want to take
 
 *Fall*
-MAR 525: US Ocean Policy (Pierce, fall even yrs)  [PC]
-MAR 522: Science Communication for Research Scientists (Fay, fall)
-MAR 599: Bayesian Statistics and Hierarchical Modeling (Fay, fall even yrs)
-MAR 527: Fisheries Management (Cadrin, fall odd yrs)
+MAR 525: US Ocean Policy (Pierce, fall even yrs)  [PC]  
+MAR 522: Science Communication for Research Scientists (Fay, fall)  
+MAR 599: Bayesian Statistics and Hierarchical Modeling (Fay, fall even yrs)  
+MAR 527: Fisheries Management (Cadrin, fall odd yrs)  
 *Spring*
-BIO XXX: Biological Statistics I (Kozak, spring)
-MAR 622: Stock Identification Methods (Cadrin, spring even)
+BIO XXX: Biological Statistics I (Kozak, spring)  
+MAR 622: Stock Identification Methods (Cadrin, spring even)  
 *Based on interest*
-MAR 5XX: Marine Resource Economics (Griffin & DePiper)  [PC]
-MAR 580: Conservation in World Marine Capture Fisheries (He)  [PC]
+MAR 5XX: Marine Resource Economics (Griffin & DePiper)  [PC]  
+MAR 580: Conservation in World Marine Capture Fisheries (He)  [PC]  
 MAR 580: Fish Behavior & Conservation Engineering (He)  
-MAR 580: Field Methods in Fisheries Research (Cadrin/Bethoney)
+MAR 580: Field Methods in Fisheries Research (Cadrin/Bethoney)  
 
 
 Of course there are lots of other course offerings - these are the ones that lab members have taken more than once. For present semester offerings, see the [SMAST website](https://www.umassd.edu/smast/academics/course-list/). Full list of current SMAST courses and for which courses meet IMS core course requirements can be found [here](https://thefaylab.github.io/lab-manual/smast_curriculum.html).  
@@ -66,6 +66,7 @@ Of course there are lots of other course offerings - these are the ones that lab
 
 ### Other UMassD courses 
 Check out course offerings in Data Science (DSC), Mathematics (MTH), Public Policy (POL), Biology (BIO), Mechanical Engeering (MNE), and Computer Science (CSI) in the Graduate Handbook and on COIN.    
+You may find [this overview of the Data Science MS program](https://www.umassd.edu/data-science/graduate/requirements-ms/) and curriculum helpful in identifying other classes!
 
 ### Courses outside of UMass Dartmouth
 
