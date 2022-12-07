@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.1.251">
+<meta name="generator" content="quarto-1.2.269">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -190,16 +190,12 @@ ul.task-list li input[type="checkbox"] {
 <h1 class="title"><span id="courses" class="quarto-section-identifier d-none d-lg-block"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Courses</span></span></h1>
 </div>
 
-<div>
-  <div class="description">
-    This is the lab manual for the Fay Lab at the University of Massachusetts Dartmouth School for Marine Science and Technology
-  </div>
-</div>
 
 
 <div class="quarto-title-meta">
 
     
+  
     
   </div>
   
@@ -237,13 +233,22 @@ MAR 700: Graduate Seminar (Fisheries Oceanography) [C]</p>
 </section>
 <section id="other-courses-you-might-want-to-take" class="level3" data-number="11.1.3">
 <h3 data-number="11.1.3" class="anchored" data-anchor-id="other-courses-you-might-want-to-take"><span class="header-section-number">11.1.3</span> Other courses you might want to take</h3>
-<p><em>Fall</em> MAR 525: US Ocean Policy (Pierce, fall even yrs) [PC] MAR 522: Science Communication for Research Scientists (Fay, fall) MAR 599: Bayesian Statistics and Hierarchical Modeling (Fay, fall even yrs) MAR 527: Fisheries Management (Cadrin, fall odd yrs) <em>Spring</em> BIO XXX: Biological Statistics I (Kozak, spring) MAR 622: Stock Identification Methods (Cadrin, spring even) <em>Based on interest</em> MAR 5XX: Marine Resource Economics (Griffin &amp; DePiper) [PC] MAR 580: Conservation in World Marine Capture Fisheries (He) [PC] MAR 580: Fish Behavior &amp; Conservation Engineering (He)<br>
+<p><em>Fall</em> MAR 525: US Ocean Policy (Pierce, fall even yrs) [PC]<br>
+MAR 522: Science Communication for Research Scientists (Fay, fall)<br>
+MAR 599: Bayesian Statistics and Hierarchical Modeling (Fay, fall even yrs)<br>
+MAR 527: Fisheries Management (Cadrin, fall odd yrs)<br>
+<em>Spring</em> BIO XXX: Biological Statistics I (Kozak, spring)<br>
+MAR 622: Stock Identification Methods (Cadrin, spring even)<br>
+<em>Based on interest</em> MAR 5XX: Marine Resource Economics (Griffin &amp; DePiper) [PC]<br>
+MAR 580: Conservation in World Marine Capture Fisheries (He) [PC]<br>
+MAR 580: Fish Behavior &amp; Conservation Engineering (He)<br>
 MAR 580: Field Methods in Fisheries Research (Cadrin/Bethoney)</p>
 <p>Of course there are lots of other course offerings - these are the ones that lab members have taken more than once. For present semester offerings, see the <a href="https://www.umassd.edu/smast/academics/course-list/">SMAST website</a>. Full list of current SMAST courses and for which courses meet IMS core course requirements can be found <a href="https://thefaylab.github.io/lab-manual/smast_curriculum.html">here</a>.</p>
 </section>
 <section id="other-umassd-courses" class="level3" data-number="11.1.4">
 <h3 data-number="11.1.4" class="anchored" data-anchor-id="other-umassd-courses"><span class="header-section-number">11.1.4</span> Other UMassD courses</h3>
-<p>Check out course offerings in Data Science (DSC), Mathematics (MTH), Public Policy (POL), Biology (BIO), Mechanical Engeering (MNE), and Computer Science (CSI) in the Graduate Handbook and on COIN.</p>
+<p>Check out course offerings in Data Science (DSC), Mathematics (MTH), Public Policy (POL), Biology (BIO), Mechanical Engeering (MNE), and Computer Science (CSI) in the Graduate Handbook and on COIN.<br>
+You may find <a href="https://www.umassd.edu/data-science/graduate/requirements-ms/">this overview of the Data Science MS program</a> and curriculum helpful in identifying other classes!</p>
 </section>
 <section id="courses-outside-of-umass-dartmouth" class="level3" data-number="11.1.5">
 <h3 data-number="11.1.5" class="anchored" data-anchor-id="courses-outside-of-umass-dartmouth"><span class="header-section-number">11.1.5</span> Courses outside of UMass Dartmouth</h3>
@@ -299,7 +304,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
     button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
     setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
       button.setAttribute("title", currentTitle);
       button.classList.remove('code-copy-button-checked');
     }, 1000);
@@ -335,24 +357,42 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
   var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
   for (var i=0; i<bibliorefs.length; i++) {
     const ref = bibliorefs[i];
-    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
-    tippyHover(ref, function() {
-      var popup = window.document.createElement('div');
-      cites.forEach(function(cite) {
-        var citeDiv = window.document.createElement('div');
-        citeDiv.classList.add('hanging-indent');
-        citeDiv.classList.add('csl-entry');
-        var biblioDiv = window.document.getElementById('ref-' + cite);
-        if (biblioDiv) {
-          citeDiv.innerHTML = biblioDiv.innerHTML;
-        }
-        popup.appendChild(citeDiv);
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
       });
-      return popup.innerHTML;
-    });
+    }
   }
 });
 </script>
