@@ -10,7 +10,7 @@ This course contains a lot of self-paced elements. Make sure to plan your time a
 
 **Course start:** {{< var course.start >}}\
 **Course end date:** {{< var course.end >}}\
-**Class sessions: 13 October and 8 November**
+**Class sessions: 28 February and 28 March**
 
 **Course load:** approximately [**4-6 hours per week**]{.underline}
 
@@ -62,8 +62,8 @@ In order to receive the 1.5 Graduate School Credits you have to:
 ## Deadlines
 
 -   Assignment 1 - GitHub - Before **class 1** ({{< var assign1 >}})
--   Assignment 2 - Data Flow Map 1 - Before ({{< var assign2 >}})
--   Assignment 3 - Data Flow Map 2 - Before ({{< var assign3 >}})
+-   Assignment 2 - Data Flow Map 1 - Before ({{< var assign2 >}}) **13:00**
+-   Assignment 3 - Data Flow Map 2 - Before ({{< var assign3 >}}) **13:00**
 -   Assignment 4 - Data Management Plan - Before **class 2** ({{< var assign4 >}})
 -   Assignment 5 - Data Flow Map 3 Before **class 2** ({{< var assign5 >}})
 
