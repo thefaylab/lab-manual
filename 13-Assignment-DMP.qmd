@@ -10,7 +10,7 @@ With DMPonline you can:
 
 ## Create a DMP using DMPonline
 
-For this assignment, please create an account for [DMPonline](https://dmponline.tudelft.nl/), and use the TU Delft template to create a plan for your project. In the following document, DMPonline user guide, you will find a clear step-by-step guide to complete this activity. We expect you to:
+For this assignment, please create an account for [DMPonline](https://dmponline.tudelft.nl/), and use the TU Delft template to create a plan for your project (unless your project is using the template of a specific funder, then you can also reuse the project's Data Management Plan). In the following document, DMPonline user guide, you will find a clear step-by-step guide to complete this activity. We expect you to:
 
 1.  Create an account in [DMPonline](https://dmponline.tudelft.nl/)
 2.  'Create a new plan' for your project choosing 'Delft University of Technology' as the primary research organisation and tick 'No funder associated with this plan or my funder is not listed' in the 'primary funding organisation'
