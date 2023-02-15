@@ -48,6 +48,61 @@ You can also share your data and code via a **data or software article**.
 
 -   Check [this slide](https://estherplomp.github.io/PRES-data-software/#27) on some downsides of sharing your data/code in supplemental materials
 
+## Assessing FAIR datasets
+
+Choose one of the datasets below and assess whether they are following the FAIR principles: 
+
+- **Findable**
+    - From the title to the dataset was it an easy way?
+    - Does the dataset have a DOI to make it more Findable?
+    - Does it have enough metadata to easily find it?
+- **Accessible**
+    - Is it clear for you if the data is accessible for re-use? 
+    - Are you able to download the data for your own use? 
+- **Interoperable**
+    - Is the dataset in a file format that you can easily re-use?
+- **Re-usable**
+    - If you come across this dataset, how likely is it that you can easily use it? 
+    - Does the dataset have enough documentation for you to understand the context of the data? 
+    - Does it have a clear usage licence? Which one?
+
+Data set 1: “A large-scale dataset for modeling a highly renewable European electricity system”
+DOI: https://doi.org/10.5281/zenodo.999150 
+
+Data set 2: “Qualitative coding of 12 semi-structure interviews on food behaviour context and food reporting engagement”
+DOI: https://doi.org/10.4121/uuid:02b93c7c-545d-4501-b375-6db1aff039c6 
+
+Data set 3: “Highly structured 3D pyrolytic carbon electrodes derived from additive manufacturing technology”
+https://doi.org/10.11583/DTU.13549487.v1 
+
+Data set 4: “HANZE netCDF data on land use, population, GDP and wealth in Europe, 1870-2020”
+DOI: https://doi.org/10.4121/uuid:e027194f-a804-4f81-973e-8f7be9c25a99 
+
+Data set 5: “Kimberlina Groundwater Quality Simulations”
+DOI: https://doi.org/10.18141/1603336
+
+Data set 7: Adaptive laboratory evolution reveals general and specific chemical tolerance mechanisms and enhances biochemical production
+https://github.com/biosustain/chemical-tolerance-supplementary
+
+Dataset 11: The genetic architecture of biofilm formation in a clinical isolate of Saccharomyces cerevisiae
+https://doi.org/10.5061/dryad.mn71g
+
+Dataset 12: CoralModel: A Python-based model that resembles the biophysical interactions on a coral reef
+https://doi.org/10.4121/19164869.v1 
+
+Dataset 14: Designing Quantum Networks Using Preexisting Infrastructure
+https://doi.org/10.4121/14914806.v1 
+
+Dataset 15: Modelling dynamics in protein crystal structures by ensemble refinement
+https://doi.org/10.5061/dryad.5n01h 
+
+Dataset 17: QDataSet, quantum datasets for machine learning -
+Nature publication: https://www.nature.com/articles/s41597-022-01639-1 (scientific data)
+Section Data records: https://www.nature.com/articles/s41597-022-01639-1 
+Link to dataset: https://cloudstor.aarnet.edu.au/plus/s/rxYKXBS7Tq0kB8o 
+
+
+
 ## References:
 
 -   @colavizza2020
