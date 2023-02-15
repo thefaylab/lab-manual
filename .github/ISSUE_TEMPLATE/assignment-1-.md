@@ -21,12 +21,12 @@ assignees: ''
 ### Checklist assignments 
 <!--Use the checklist below for yourself to check off your progress in this course.-->
 - [x] Assignment 1: creating a GitHub issue (before **Class 1**)
-- [ ] Respond to the GitHub issue on 'data challenge'
-- [ ] Assignment 2: Data Flow Map 1 (before **Class 2**)
-- [ ] Respond to the GitHub issue on 'licenses'
-- [ ] Respond to the GitHub issue on 'folder structure'
+- [ ] Respond to the GitHub issue on '[data challenge](https://github.com/EstherPlomp/TNW-RDM-101/discussions/7)'
+- [ ] Assignment 2: Data Flow Map 1 (share a link in this issue before **7 March 13:00**)
+- [ ] Respond to the GitHub discussion on '[licenses](https://github.com/EstherPlomp/TNW-RDM-101/discussions/9)'
+- [ ] Respond to the GitHub discussion on '[folder structure](https://github.com/EstherPlomp/TNW-RDM-101/discussions/10)'
 - [ ] Respond to **this** GitHub issue with your readme file
-- [ ] Assignment 3: Data Flow Map 2 (before **Class 2**)
+- [ ] Assignment 3: Data Flow Map 2 (share a link in this issue before **14 March 13:00**)
 - [ ] Assignment 4: Data Management Plan (before **Class 2**)
-- [ ] Respond to the GitHub issue on 'Data Management Plans' if you have any questions (optional)
+- [ ] Respond to the GitHub discussion on '[Data Management Plans](https://github.com/EstherPlomp/TNW-RDM-101/discussions/11)' if you have any questions (optional)
 - [ ] Assignment 5: Data Flow Map 3: submit your slide (before **Class 2**)
