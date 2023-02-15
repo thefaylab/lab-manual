@@ -86,7 +86,7 @@ Please read your peers' responses and reply to any you find interesting!
 
 In the next video we will go through the infrastructure provided centrally at TU Delft for storing, backup and sharing Research Data. Before starting the data collection/creation within your project, it is good to reflect where you will store and how you will back up the data. Selecting a storage and backup strategy will mean that data is safe during your research project, including in the case of unpredicted problems. Following good data storage practices protect you from data loss and facilitate effective collaborations. In this video, we will go through the infrastructure provided centrally at TU Delft for storing, backup and sharing Research Data. You should ask your supervisor if within your research group/department/ project there is a preferred approach for data storage and backup, or if there are customised solutions already in place.
 
-[02-4_Module-2 \_Presentation \_Data_StorageSharing](https://drive.google.com/file/d/1_SbYKjdh5fcNNqCna3H2IqicLe0OvWQa/view?usp=sharing) (*12 minutes*)
+[02-4_Module-2 \_Presentation \_Data_StorageSharing](https://drive.google.com/file/d/1_SbYKjdh5fcNNqCna3H2IqicLe0OvWQa/view?usp=share_link) (*12 minutes*)
 
 ### TU Delft Resources:
 
