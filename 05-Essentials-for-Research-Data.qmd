@@ -91,6 +91,7 @@ In the next video we will go through the infrastructure provided centrally at TU
 ### TU Delft Resources:
 
 -   [Additional information about storage infrastructure at TU Delft on TopDesk](https://tudelft.topdesk.net/tas/public/ssp/content/serviceflow?unid=21b6203ec6d74f00a45c32e6034dfc0c&openedFromService=true)
+-   [Storage solutions overview](https://estherplomp.github.io/TNW-OS-support/posts/storage-solutions/)
 -   To [download WebDrive](https://webdata.tudelft.nl/) for the Project Drive
 -   [Additional information about EduVPN](https://intranet.tudelft.nl/-/openvpn)
 
