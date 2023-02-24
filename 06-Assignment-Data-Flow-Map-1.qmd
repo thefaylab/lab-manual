@@ -41,7 +41,9 @@ At the end, make sure you submit the reflections for every step.
 ### Step 5 - Share your assignment via your GitHub Issue {-}
 
 To share your assignment you will need to either upload your assignment somewhere and provide a link, or use links you can set up via SURFdrive or OneDrive. 
--   SURFdrive: When the Desktop app is active, you can right-click files, select SURFdrive, and select 'create and copy a public link. See [Sharing using SURFdrive](https://estherplomp.github.io/TNW-OS-support/posts/data-sharing-SURFdrive/) for more details.
--   OneDrive: Right-click the file or folder in your OneDrive folder on your computer and select Share a OneDrive link.
+
+-   **SURFdrive**: When the Desktop app is active, you can right-click files, select SURFdrive, and select 'create and copy a public link. See [Sharing using SURFdrive](https://estherplomp.github.io/TNW-OS-support/posts/data-sharing-SURFdrive/) for more details.
+
+-   **OneDrive**: Right-click the file or folder in your OneDrive folder on your computer and select Share a OneDrive link.
 
 ## References {-}
