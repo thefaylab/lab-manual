@@ -50,7 +50,7 @@ You can also share your data and code via a **data or software article**.
 
 ## Assessing FAIR datasets
 
-Choose one of the datasets below and assess whether they are following the FAIR principles: 
+Choose one of the _datasets_ below and assess whether they are following the FAIR principles: 
 
 - **Findable**
     - From the title to the dataset was it an easy way?
@@ -66,41 +66,39 @@ Choose one of the datasets below and assess whether they are following the FAIR 
     - Does the dataset have enough documentation for you to understand the context of the data? 
     - Does it have a clear usage licence? Which one?
 
-Data set 1: “A large-scale dataset for modeling a highly renewable European electricity system”
-DOI: https://doi.org/10.5281/zenodo.999150 
+_Data set 1_: “A large-scale dataset for modeling a highly renewable European electricity system”
+DOI: [https://doi.org/10.5281/zenodo.999150](https://doi.org/10.5281/zenodo.999150)
 
-Data set 2: “Qualitative coding of 12 semi-structure interviews on food behaviour context and food reporting engagement”
-DOI: https://doi.org/10.4121/uuid:02b93c7c-545d-4501-b375-6db1aff039c6 
+_Data set 2_: “Qualitative coding of 12 semi-structure interviews on food behaviour context and food reporting engagement”
+DOI: [https://doi.org/10.4121/uuid:02b93c7c-545d-4501-b375-6db1aff039c6](https://doi.org/10.4121/uuid:02b93c7c-545d-4501-b375-6db1aff039c6)
 
-Data set 3: “Highly structured 3D pyrolytic carbon electrodes derived from additive manufacturing technology”
-https://doi.org/10.11583/DTU.13549487.v1 
+_Data set 3_: “Highly structured 3D pyrolytic carbon electrodes derived from additive manufacturing technology”
+[https://doi.org/10.11583/DTU.13549487.v1](https://doi.org/10.11583/DTU.13549487.v1)
 
-Data set 4: “HANZE netCDF data on land use, population, GDP and wealth in Europe, 1870-2020”
-DOI: https://doi.org/10.4121/uuid:e027194f-a804-4f81-973e-8f7be9c25a99 
+_Data set 4_: “HANZE netCDF data on land use, population, GDP and wealth in Europe, 1870-2020”
+DOI: [https://doi.org/10.4121/uuid:e027194f-a804-4f81-973e-8f7be9c25a99](https://doi.org/10.4121/uuid:e027194f-a804-4f81-973e-8f7be9c25a99) 
 
-Data set 5: “Kimberlina Groundwater Quality Simulations”
-DOI: https://doi.org/10.18141/1603336
+_Data set 5_: “Kimberlina Groundwater Quality Simulations”
+DOI: [https://doi.org/10.18141/1603336](https://doi.org/10.18141/1603336)
 
-Data set 7: Adaptive laboratory evolution reveals general and specific chemical tolerance mechanisms and enhances biochemical production
-https://github.com/biosustain/chemical-tolerance-supplementary
+_Data set 7_: Adaptive laboratory evolution reveals general and specific chemical tolerance mechanisms and enhances biochemical production
+[https://github.com/biosustain/chemical-tolerance-supplementary](https://github.com/biosustain/chemical-tolerance-supplementary)
 
-Dataset 11: The genetic architecture of biofilm formation in a clinical isolate of Saccharomyces cerevisiae
-https://doi.org/10.5061/dryad.mn71g
+_Dataset 11_: The genetic architecture of biofilm formation in a clinical isolate of Saccharomyces cerevisiae
+DOI: [https://doi.org/10.5061/dryad.mn71g](https://doi.org/10.5061/dryad.mn71g)
 
-Dataset 12: CoralModel: A Python-based model that resembles the biophysical interactions on a coral reef
-https://doi.org/10.4121/19164869.v1 
+_Dataset 12_: CoralModel: A Python-based model that resembles the biophysical interactions on a coral reef
+DOI: [https://doi.org/10.4121/19164869.v1](https://doi.org/10.4121/19164869.v1)
 
-Dataset 14: Designing Quantum Networks Using Preexisting Infrastructure
-https://doi.org/10.4121/14914806.v1 
+_Dataset 14_: Designing Quantum Networks Using Preexisting Infrastructure
+DOI: [https://doi.org/10.4121/14914806.v1](https://doi.org/10.4121/14914806.v1)
 
-Dataset 15: Modelling dynamics in protein crystal structures by ensemble refinement
-https://doi.org/10.5061/dryad.5n01h 
+_Dataset 15_: Modelling dynamics in protein crystal structures by ensemble refinement
+DOI: [https://doi.org/10.5061/dryad.5n01h](https://doi.org/10.5061/dryad.5n01h)
 
-Dataset 17: QDataSet, quantum datasets for machine learning -
-Nature publication: https://www.nature.com/articles/s41597-022-01639-1 (scientific data)
-Section Data records: https://www.nature.com/articles/s41597-022-01639-1 
-Link to dataset: https://cloudstor.aarnet.edu.au/plus/s/rxYKXBS7Tq0kB8o 
-
+_Dataset 17_: QDataSet, quantum datasets for machine learning -
+Publication DOI: [https://doi.org/10.1038/s41597-022-01639-1](https://doi.org/10.1038/s41597-022-01639-1) 
+Link to dataset: [https://cloudstor.aarnet.edu.au/plus/s/rxYKXBS7Tq0kB8o](https://cloudstor.aarnet.edu.au/plus/s/rxYKXBS7Tq0kB8o)
 
 
 ## References:
