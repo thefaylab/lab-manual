@@ -11,7 +11,7 @@ You will have to prepare and submit a slide before **class 2** about:
 -   What RDM best practice have you already started implementing in your daily practice during the course?
 -   If you haven't implemented anything yet, what will you get started with tomorrow after the course ends?
 
-You will have 4 minutes to present your slide during **class 2** to your peers and they will have the chance to ask questions or exchange ideas!
+You will have 3 minutes to present your slide during **class 2** to your peers and they will have the chance to ask questions or exchange ideas!
 
 Please **submit your slide to Esther before {{< var deadlines.assign5 >}}**
 
