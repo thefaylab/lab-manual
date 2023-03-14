@@ -49,6 +49,7 @@ More resources on licences:
 
 -   Licenses for data, presentations and articles: [Creative Commons (CC)](https://creativecommons.org/licenses/), or use the [license chooser](https://chooser-beta.creativecommons.org/).
 -   Software: [Choose a License](https://choosealicense.com/licenses/). (For more detailed information, see '[How to choose a software licence](https://softwaresaved.github.io/software-deposit-guidance/HowToChooseSoftwareLicence.html)').
+-   Note that apart from CC0, the licenses for data and code are different. Software licenses are more complex as software differs from data in the ways you can reuse it, as unlike data, software is executable.
 -   If in doubt, talk to Esther.
 
 ## FAIR in the literature
