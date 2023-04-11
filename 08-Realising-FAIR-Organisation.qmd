@@ -21,7 +21,7 @@ In the next video, we will go through some best practices to help you organise t
 
 -   [04-1_Module-4_Video_Presentation_Data organisation](https://drive.google.com/file/d/1lCpNmT6P64blT4aX36U4fFWLIGAoZKlV/view?usp=share_link)(*15 minutes*)
 
-![Image by [Allison Horst]([https://doi.org/10.5281/zenodo.3332807](https://twitter.com/allison_horst/status/1644020630780805121/photo/1))](https://pbs.twimg.com/media/FtC7ENMaUAYwyd-?format=jpg&name=4096x4096){width="75%"}
+![Image by [Allison Horst](https://twitter.com/allison_horst/status/1644020630780805121/photo/1)](https://pbs.twimg.com/media/FtC7ENMaUAYwyd-?format=jpg&name=4096x4096){width="75%"}
 
 ### Presentation Resources
 
@@ -46,6 +46,8 @@ Test your knowledge after watching the 'Data organisation' video. Think about wh
 ## Assignment: Using Cookiecutter
 
 *Estimated time: 20 minutes*
+
+**You can also manually set up a folder structure (go straight to step 4 below)! Cookiecutter is especially helpful to people who program/Python-users or if you have to set up a lot of folder structures for smaller projects (for example, with students).**
 
 Note that you need to have Python and pip (or Anaconda) installed to easily follow the video. To install Anaconda:
 
