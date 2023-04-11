@@ -21,7 +21,7 @@ In the next video, we will go through some best practices to help you organise t
 
 -   [04-1_Module-4_Video_Presentation_Data organisation](https://drive.google.com/file/d/1lCpNmT6P64blT4aX36U4fFWLIGAoZKlV/view?usp=share_link)(*15 minutes*)
 
-![Image by [Allison Horst](https://twitter.com/allison_horst/status/1644020630780805121/photo/1)](https://pbs.twimg.com/media/FtC7ENMaUAYwyd-?format=jpg&name=4096x4096)
+![Image by [Allison Horst](https://twitter.com/allison_horst/status/1644020630780805121/photo/1)](https://raw.githubusercontent.com/EstherPlomp/TNW-RDM-101/main/images/Horst-image.jpg){width="50%"}
 
 ### Presentation Resources
 
