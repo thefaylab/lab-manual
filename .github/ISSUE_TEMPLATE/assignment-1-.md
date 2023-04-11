@@ -1,7 +1,7 @@
 ---
 name: 'Assignment 1 '
 about: Template for Assignment 1 - Getting started with GitHub
-title: Assignment 1 [yournamehere]
+title: Assignment 1 [your-name-here]
 labels: ''
 assignees: ''
 
@@ -34,14 +34,14 @@ assignees: ''
 ### Checklist assignments 
 <!--Use the checklist below for yourself to check off your progress in this course.-->
 - [x] Assignment 1: creating a GitHub issue (before **Class 1**)
-- [ ] Respond to the GitHub issue on '[data challenge](https://github.com/EstherPlomp/TNW-RDM-101/discussions/7)'
+- [ ] Respond to the GitHub issue on '[data challenge](https://github.com/EstherPlomp/TNW-RDM-101/discussions/33)'
 - [ ] [Assignment 2](https://estherplomp.github.io/TNW-RDM-101/06-Assignment-Data-Flow-Map-1.html): Data Flow Map 1 (share a link in this issue before **7 March 13:00**). Link: 
 - [ ] Provide feedback to at least one Assignment 2 from another participant
-- [ ] Respond to the GitHub discussion on '[licenses](https://github.com/EstherPlomp/TNW-RDM-101/discussions/9)'
-- [ ] Respond to the GitHub discussion on '[folder structure](https://github.com/EstherPlomp/TNW-RDM-101/discussions/10)'
+- [ ] Respond to the GitHub discussion on '[licenses](https://github.com/EstherPlomp/TNW-RDM-101/discussions/34)'
+- [ ] Respond to the GitHub discussion on '[folder structure](https://github.com/EstherPlomp/TNW-RDM-101/discussions/36)'
 - [ ] Respond to **this** GitHub issue with your readme file
 - [ ] [Assignment 3](https://estherplomp.github.io/TNW-RDM-101/11-Assignment-Data-Flow-Map-2.html): Data Flow Map 2 (share a link in this issue before **14 March 13:00**). Link:  
 - [ ] Provide feedback to at least one Assignment 3 from another participant
 - [ ] [Assignment 4](https://estherplomp.github.io/TNW-RDM-101/13-Assignment-DMP.html): Data Management Plan (before **Class 2**)
-- [ ] Respond to the GitHub discussion on '[Data Management Plans](https://github.com/EstherPlomp/TNW-RDM-101/discussions/11)' if you have any questions (optional)
+- [ ] Respond to the GitHub discussion on '[Data Management Plans](https://github.com/EstherPlomp/TNW-RDM-101/discussions/35)' if you have any questions (optional)
 - [ ] [Assignment 5](https://estherplomp.github.io/TNW-RDM-101/14-Assignment-Data-Flow-Map-3.html): Data Flow Map 3: submit your slide (before **Class 2**)
