@@ -16,15 +16,17 @@ assignees: ''
 <!-- My research focuses on the development of a new method to study the mobility patterns in humans. By analysing the neodymium isotope composition of the enamel of human teeth you can provide an approximation of where the individual grew up (as the isotopic composition is related to the food/water you consume.)-->
 
 ### My research entails the following aspects: 
-<!--Select as many aspects below that apply to your research project.-->
-- [ ] Use/collect personal data (health data, interviews, surveys)
-- [ ] Use/collect experimental data (lab experiments, measurements with instruments)
-- [ ] Collaborate with industry
-- [ ] Write/develop software as the main output of the project
-- [ ] Use code (as in programming) for data analysis
-- [ ] Work with large data (images, simulation models)
-- [ ] Other: 
+<!--Fill out Yes or No's to the aspects that apply to your research project.-->
 
+| Research Aspect | Answer |
+| ------------- | ------------- |
+| Use/collect personal data (health data, interviews, surveys)  | Yes/No  |
+| Use/collect experimental data (lab experiments, measurements with instruments)  | Yes/No  |
+| Collaborate with industry  | Yes/No  |
+| Write/develop software as the main output of the project  | Yes/No  |
+| Use code (as in programming) for data analysis | Yes/No  |
+| Work with large data (images, simulation models) | Yes/No  |
+| Other:  | N/A  |
 ### Reflections on the importance of RDM videos
 <!--Reflect about what you heard on the video and briefly write your thoughts and your horror stories in less than 5 sentences.-->
 
