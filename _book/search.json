@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "01-intro-how-we-work.html#how-we-meet",
+    "href": "01-intro-how-we-work.html#how-we-meet",
+    "title": "2  Introduction",
+    "section": "2.1 How we meet",
+    "text": "2.1 How we meet\nCurrently, we meet weekly for in person lab meetings, individual meetings with Emma, and our Shut Up and Write session.\nWe use Googledocs to set agendas, record decisions made, and outline action items during meetings. Each lab member has their own google doc for their 1:1 meetings with Emma. Prior to each meeting, create your agenda for that meeting there."
+  },
+  {
+    "objectID": "01-intro-how-we-work.html#how-we-give-feedback",
+    "href": "01-intro-how-we-work.html#how-we-give-feedback",
+    "title": "2  Introduction",
+    "section": "2.2 How we give feedback",
+    "text": "2.2 How we give feedback\nFeedback, both giving and receiving it, is an important aspect of our lab. Most of the feedback we give and receive is when giving and attending practice talks. We expect feedback to be supportive but constructive.\nThis resource from UBC does a really great job of outlining the main points of how to give and receive feedback."
+  },
+  {
+    "objectID": "01-intro-how-we-work.html#how-we-share-things-and-send-them-to-emma",
+    "href": "01-intro-how-we-work.html#how-we-share-things-and-send-them-to-emma",
+    "title": "2  Introduction",
+    "section": "2.3 How we share things (and send them to Emma)",
+    "text": "2.3 How we share things (and send them to Emma)\nWe think it is useful to have standard ways of sharing things. These don’t always have to be followed but are a useful guide and will make things easier. When sending material to someone, always make sure to describe what you are sending and try to make it as easy as possible for them to help you.\nTaking a project-based approach to organizing your work makes it easier to share and solicit feedback from others, as things tend to be self-contained. Try to keep only 1 working instance of material, and use some form of version control to facilitate this (see recommendations in Wilson et. al paper linked above).\nProject management tools in Github are a good way to record and document questions on analyses. Use ‘Issues’ on github repositories for project-related tasks and problems. Alternatively, make use of a GoogleDoc for each project to record this history, much like you would a lab notebook.\nCode: can be shared via Github repositories, or via a dedicated Google Drive folder. For specific questions on problems, please try to create a minimal reproducible example. Ensure that others can run and interact with the material being shared.\nWriting: Preferably via GoogleDoc, R Markdown, or Overleaf, but MS Word documents can also be shared. Google docs are particularly useful for collaborative writing, and have the advantage of there only ever being one version (as opposed to files that are sent around via email). Word documents should always have your last name as the first part of the file name (e.g. please no “mythesis.doc”).\nWe maintain a lab Google Drive folder for lab publications, presentations, photos, CVs, etc. Please make use of these so that others in the lab can make fair use of our work."
+  },
+  {
+    "objectID": "01-intro-how-we-work.html#shared-lab-resources",
+    "href": "01-intro-how-we-work.html#shared-lab-resources",
+    "title": "2  Introduction",
+    "section": "2.4 Shared lab resources",
+    "text": "2.4 Shared lab resources\nWhere to find shared resources: - Google Drive - You will be given access to the shared drive, take a look at the Lab Meetings folder to find Lab Meeting Notes for each semester (previously called the Supercharge Plan) - GitHub - theMMElab is the shared GitHub account for the lab - lab-manual - This repository contains the lab manual, see section \\(\\ref{#umassd-resources}\\) for other useful resources and take a look at the Wiki to see the lab meeting schedule - lab-chat - This repository contains shared institutional knowledge for the Fay lab, take a look at Issue #22 for Zoom meeting links - Website - Take a look at the lab website, most of its information is duplicated in one of the above resources: http://www.smast.umassd.edu/lab_fay/"
+  },
+  {
+    "objectID": "01-intro-how-we-work.html#references",
+    "href": "01-intro-how-we-work.html#references",
+    "title": "2  Introduction",
+    "section": "2.5 References",
+    "text": "2.5 References\n\n\n\n\nLowndes, Julia S. Stewart, Benjamin D. Best, Courtney Scarborough, Jamie C. Afflerbach, Melanie R. Frazier, Casey C. O’Hara, Ning Jiang, and Benjamin S. Halpern. 2017. “Our Path to Better Science in Less Time Using Open Data Science Tools.” Nature Ecology & Evolution 1 (6). https://doi.org/10.1038/s41559-017-0160.\n\n\nWilson, Greg, Jennifer Bryan, Karen Cranston, Justin Kitzes, Lex Nederbragt, and Tracy K. Teal. 2017. “Good Enough Practices in Scientific Computing.” Edited by Francis Ouellette. PLOS Computational Biology 13 (6): e1005510. https://doi.org/10.1371/journal.pcbi.1005510."
+  }
+]
