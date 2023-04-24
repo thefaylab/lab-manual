@@ -41,7 +41,6 @@ We maintain a lab Google Drive folder for lab publications, presentations, photo
 
 ## Shared lab resources
 
-Where to find shared resources: - Google Drive - You will be given access to the shared drive, take a look at the Lab Meetings folder to find Lab Meeting Notes for each semester (previously called the Supercharge Plan) - GitHub - theMMElab is the shared GitHub account for the lab - lab-manual - This repository contains the lab manual, see section \ref{#umassd-resources} for other useful resources. 
-
+Where to find shared resources: - Google Drive - You will be given access to the shared drive, take a look at the Lab Meetings folder to find Lab Meeting Notes for each semester (previously called the Supercharge Plan) - GitHub - theMMElab is the shared GitHub account for the lab - lab-manual - This repository contains the lab manual.
 ## References
 
