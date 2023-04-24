@@ -1,0 +1,41 @@
+{
+  "01-intro-how-we-work.qmd": {
+    "01-intro-how-we-work.html": "37e17e8c"
+  },
+  "index.qmd": {
+    "index.html": "f19e0061"
+  },
+  "02-lab-culture-philosophy.qmd": {
+    "02-lab-culture-philosophy.html": "7f6ef93d"
+  },
+  "03-code-of-conduct.qmd": {
+    "03-code-of-conduct.html": "24abc87a"
+  },
+  "04-onboarding.qmd": {
+    "04-onboarding.html": "1f35a7b2"
+  },
+  "05-expectations.qmd": {
+    "05-expectations.html": "ceeff3c0"
+  },
+  "06-offboarding.qmd": {
+    "06-offboarding.html": "3224b364"
+  },
+  "07-funding.qmd": {
+    "07-funding.html": "e889905d"
+  },
+  "08-communication.qmd": {
+    "08-communication.html": "3e2ba1d3"
+  },
+  "09-academics.qmd": {
+    "09-academics.html": "89320655"
+  },
+  "10-courses.qmd": {
+    "10-courses.html": "2a6fd0ee"
+  },
+  "11-computing.qmd": {
+    "11-computing.html": "5d70480a"
+  },
+  "12-umassd-resources.qmd": {
+    "12-umassd-resources.html": "de04c90c"
+  }
+}
