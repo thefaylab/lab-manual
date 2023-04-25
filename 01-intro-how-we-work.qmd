@@ -16,7 +16,7 @@ See the next chapter for more detail on our lab culture and philosophy. We are m
 
 ## How we meet
 
-Currently, we meet in person for weekly lab meetings, individual meetings with Emma, and our Shut Up and Write session.\
+Currently, we meet in person for weekly lab meetings in the MARiS Hub, individual meetings with Emma, and our Shut Up and Write session.\
 We use Googledocs to set agendas, record decisions made, and outline action items during meetings. Each lab member has their own google doc for their 1:1 meetings with Emma. Prior to each meeting, create your agenda for that meeting there.
 
 ## How we give feedback
