@@ -48,7 +48,7 @@ You can also share your data and code via a **data or software article**.
 
 -   Check [this slide](https://estherplomp.github.io/PRES-data-software/#27) on some downsides of sharing your data/code in supplemental materials
 
-## Assessing FAIR datasets
+## Assessing FAIR datasets (optional)
 
 Choose one of the _datasets_ below and assess whether they are following the FAIR principles: 
 
