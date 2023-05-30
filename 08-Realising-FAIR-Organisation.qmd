@@ -10,7 +10,7 @@ In this module, we will focus on the realisation of FAIR data. We will explore s
 ## Activities
 
 -   Watch the videos about 'Data organisation' and complete the quiz
--   Try out Cookiecutter, share your folder structure on [GitHub discussion #10 Folder Structure](https://github.com/EstherPlomp/TNW-RDM-101/issues/4), and comment on another person's folder structure
+-   Try out Cookiecutter, share your folder structure on [GitHub discussion #36 Folder Structure](https://github.com/EstherPlomp/TNW-RDM-101/discussions/36), and comment on another person's folder structure
 :::
 
 ## Data Organisation
