@@ -60,6 +60,6 @@ More resources on licences:
 
 ## Discussion
 
-Post your license preference for data and/or code in [GitHub discussion #9 Licenses](linkhttps://github.com/EstherPlomp/TNW-RDM-101/issues/3https://github.com/EstherPlomp/TNW-RDM-101/discussions/9).
+Post your license preference for data and/or code in [GitHub discussion #34 Licenses](https://github.com/EstherPlomp/TNW-RDM-101/discussions/34).
 
 ## References {.unnumbered}
