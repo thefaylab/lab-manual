@@ -78,7 +78,7 @@ Answer the following questions to see if the Electronic Lab Notebooks are helpfu
 If RSpace or eLabjournal are not ideal for your workflow, you can also try out some of the following tools that have been brought up by previous course participants: 
 
 -   OneNote
--   [Obsidian](https://obsidian.md/) (or [logseq](https://logseq.com/)
+-   [Obsidian](https://obsidian.md/) (or [logseq](https://logseq.com/))
 -   [Evernote](https://evernote.com)
 
 ## Paper Lab Notebooks
