@@ -62,10 +62,6 @@ Only read these materials if you work with personal data (data that can identify
 
 [![The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807.](https://raw.githubusercontent.com/alan-turing-institute/the-turing-way/main/book/website/figures/sensitive-data.jpg){fig-alt="A visualisation on how sensitive data requires an additional track or process to be able to share (parts of it). Tools that can help to make research based on senstive data reproducible are: encryption, consent, deidentification, sytnethic data and data safe havens." width="68%"}](https://doi.org/10.5281/zenodo.3332807)
 
-## Your data workflow
-
-Now think about your own type of data and let us know [by answering the mentimeter](https://www.menti.com/9p49g5hobo)
-
 ## Relevant RDM steps within a research project
 
 In the following presentation you can go through a simplified cycle which can represent your project. Have a look at the RDM questions you might ask at each step of research.
