@@ -104,6 +104,14 @@ You can also download the template from GitHub. Note that if you'd like to reuse
 3.  Extract all files in the folder where you'd like to save it, and rename the folder {{cookiecutter.project_slug}} to the name of your project
 :::
 
+::: callout-tip
+## Sharing your folder structure
+
+You can use the [tree command](https://www.geeksforgeeks.org/tree-command-unixlinux/) to generate a list of your folder structure and its files. 
+
+:::
+
+
 ## Quiz Answers
 
 1.  True / 2. True / 3. False / 4. True / 5. False
