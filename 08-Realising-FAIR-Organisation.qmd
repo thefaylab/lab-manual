@@ -20,6 +20,7 @@ In the previous module you learned that 'Documentation' is one of the main eleme
 In the next video, we will go through some best practices to help you organise the data of your project efficiently. These best practices are using a good folder structure, tagging files (if possible) and an appropriate file naming convention to enhance the findability of the data in your directories.
 
 -   [04-1_Module-4_Video_Presentation_Data organisation](https://drive.google.com/file/d/1lCpNmT6P64blT4aX36U4fFWLIGAoZKlV/view?usp=share_link)(*15 minutes*)
+-   [The Turing Way information on File Naming Conventions](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-storage.html?highlight=file%20naming#file-naming-conventions)
 
 ![Image by [Allison Horst](https://twitter.com/allison_horst/status/1644020630780805121/photo/1)](https://raw.githubusercontent.com/EstherPlomp/TNW-RDM-101/main/images/Horst-image.jpg){width="70%"}
 
