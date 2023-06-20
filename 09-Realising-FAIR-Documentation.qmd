@@ -21,8 +21,9 @@ Now that you know more about how to organise your data and name your files, we c
 In the next video we will talk about different methods and tools you can use to document projects, datasets, and code. We will also briefly talk about metadata.
 
 -   [04-2_Module-4_Video_Presentation_DataDocumentation](https://surfdrive.surf.nl/files/index.php/s/Y1ylaZYL1R3VPbR) (*12 minutes*, audio will play automatically in full presentation mode)
+-   [Read more about README files](https://estherplomp.github.io/TNW-OS-support/posts/readme/)
 
-## Assignment: Create a ReadMe file
+## Assignment: Create a ReadMe file (optional)
 
 *Estimated time: 15 minutes*
 
@@ -30,9 +31,6 @@ In the next video we will talk about different methods and tools you can use to 
 2.  Adapt and start filling in the template to describe a dataset of your project. You are allowed to delete and add new fields. Not all of the questions in the template will be relevant to all of the data you work with. 
 3.  If you are unsure about the meaning of a component of the ReadMe file, go to: [Guide to writing "ReadMe" style metadata - Cornell University](https://data.research.cornell.edu/content/readme#best_practices)
     - For example, an ORCID is a persistent/unique identifier for you as a Researcher. You can have a look at [Esther's ORCID](https://orcid.org/0000-0003-3625-1357) to see what this profile looks like when you have several research outputs. You can [set up your own ORCID](https://orcid.org/register) if you do not have one yet. 
-5.  When you're finished, share your template in your first Assignment issue.
-6.  Pick a ReadMe file of someone else and read it. Provide feedback on the clarity of the ReadMe by posting a comment to the issue.
-
 
 ## Assignment: Data Dictionaries (for tabular data - optional)
 
