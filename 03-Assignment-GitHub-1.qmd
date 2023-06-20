@@ -52,6 +52,13 @@ When you have set up your GitHub Account, please go to the [GitHub repository of
 
 Congratulations! You've created a GitHub issue! You can now use this issue to keep track of your progress!
 
+## GitHub notifications
+
+If you are receiving too many emails from the repository you can adjust your preferences. 
+Each email you receive should have the option to 'unsubscribe' at the bottom of the email. 
+This email also provides you with the reason why you received the email. 
+You can also [update your preferences](https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications#configuring-your-watch-settings-for-an-individual-repository) via GitHub directly (in sum: go to the [RDM101 repository](https://github.com/EstherPlomp/TNW-RDM-101/) and then select the 'Watch' button in the right corner to select your preferences).
+
 ## Support
 
 Please contact Esther if you have any problems getting started with GitHub.
