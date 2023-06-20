@@ -41,8 +41,6 @@ assignees: ''
 - [ ] Provide feedback to at least one Assignment 2 from another participant
 - [ ] Respond to the GitHub discussion on '[licenses](https://github.com/EstherPlomp/TNW-RDM-101/discussions/34)'
 - [ ] Respond to the GitHub discussion on '[folder structure](https://github.com/EstherPlomp/TNW-RDM-101/discussions/36)'
-- [ ] Respond to **this** GitHub issue with your readme file
-- [ ] Provide feedback to at least one readme file from another participant
 - [ ] [Assignment 3](https://estherplomp.github.io/TNW-RDM-101/11-Assignment-Data-Flow-Map-2.html): Data Flow Map 2 (share a link in this issue before **31 May 13:00**). Link:  
 - [ ] Provide feedback to at least one Assignment 3 from another participant
 - [ ] [Assignment 4](https://estherplomp.github.io/TNW-RDM-101/13-Assignment-DMP.html): Data Management Plan (before **Class 2**)
