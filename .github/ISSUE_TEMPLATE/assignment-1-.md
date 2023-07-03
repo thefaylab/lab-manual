@@ -36,7 +36,7 @@ assignees: ''
 ### Checklist assignments 
 <!--Use the checklist below for yourself to check off your progress in this course.-->
 - [x] Assignment 1: creating a GitHub issue (before **12 September, 10:00**)
-- [ ] Respond to the GitHub issue on '[data challenge](https://github.com/EstherPlomp/TNW-RDM-101/discussions/33)'
+- [ ] Respond to the GitHub issue on  #65 '[data challenge](https://github.com/EstherPlomp/TNW-RDM-101/discussions/65)'
 - [ ] [Assignment 2](https://estherplomp.github.io/TNW-RDM-101/06-Assignment-Data-Flow-Map-1.html): Data Flow Map 1 (share a link in this issue before **20 September 13:00**). Link: 
 - [ ] Provide feedback to at least one Assignment 2 from another participant
 - [ ] Respond to the GitHub discussion on '[licenses](https://github.com/EstherPlomp/TNW-RDM-101/discussions/34)'
