@@ -43,6 +43,10 @@ There are important elements to consider within your research workflows if you a
 
 Scripts of the videos copied or adapted from [@holmstrand2019].
 
+## Test how aware of FAIR you are (optional)
+
+![Use the [FAIR-Aware tool](https://fairaware.dans.knaw.nl/) to test your knowledge about the FAIR principles](https://fairaware.dans.knaw.nl/images/logos/fairaware.png){width="75%"}
+
 ## Data and Code Licences
 
 More resources on licences:
