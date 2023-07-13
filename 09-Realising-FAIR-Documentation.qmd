@@ -77,7 +77,6 @@ If RSpace or eLabjournal are not ideal for your workflow, you can also try out s
 
 -   OneNote
 -   [Obsidian](https://obsidian.md/) (or [logseq](https://logseq.com/))
--   [Evernote](https://evernote.com)
 
 ## Paper Lab Notebooks
 
