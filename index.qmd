@@ -25,8 +25,7 @@ This website is a copy of the [lab manual for the Fay Lab](https://thefaylab.git
 
 [![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){fig-align="left" width="35px"}](https://github.com/thefaylab/lab-manual) \< link to this book's template GitHub repository. Also see [Quick steps to making a copy of the lab manual and publishing it](https://github.com/thefaylab/lab-manual/wiki/Quick-steps-to-making-a-copy-of-the-lab-manual-&-publishing-it)!
 
-![](img/openscapes_hex_badge.png){width="25%"} ![](img/adventure.jpg)
 
 ------------------------------------------------------------------------
 
-[![](img/creative_commons.png)](http://creativecommons.org/licenses/by/4.0/){fig-alt="Creative Commons License"}This webpage is licensed under a [Creative Commons Attribution 4.0 International License.](http://creativecommons.org/licenses/by/4.0/) and requires the attribution of the [lab manual for the Fay Lab](https://thefaylab.github.io/lab-manual/) and Martinez-Lavanchy, P.M., van Schöll, Pim, & Zormpa, Eirini. (2022, July 8). TU Delft Research Data Management 101 course. Zenodo. <https://doi.org/10.5281/zenodo.6325919>.
+[![](https://creativecommons.org/licenses/by/4.0/)](http://creativecommons.org/licenses/by/4.0/){fig-alt="Creative Commons License"}This webpage is licensed under a [Creative Commons Attribution 4.0 International License.](http://creativecommons.org/licenses/by/4.0/) and requires the attribution of the [lab manual for the Fay Lab](https://thefaylab.github.io/lab-manual/) and Martinez-Lavanchy, P.M., van Schöll, Pim, & Zormpa, Eirini. (2022, July 8). TU Delft Research Data Management 101 course. Zenodo. <https://doi.org/10.5281/zenodo.6325919>.
