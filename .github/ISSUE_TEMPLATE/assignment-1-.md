@@ -43,6 +43,6 @@ assignees: ''
 - [ ] Respond to the GitHub discussion #67
 - [ ] [Assignment 3](https://estherplomp.github.io/TNW-RDM-101/11-Assignment-Data-Flow-Map-2.html): Data Flow Map 2 (share a link in this issue before **4 October 13:00**). Link:  
 - [ ] Provide feedback to at least one Assignment 3 from another participant
-- [ ] [Assignment 4](https://estherplomp.github.io/TNW-RDM-101/13-Assignment-DMP.html): Data Management Plan (before **Class 2**)
+- [ ] [Assignment 4](https://estherplomp.github.io/TNW-RDM-101/13-Assignment-DMP.html): Data Management Plan (before **Class 2, 11 October**)
 - [ ] Respond to the GitHub discussion #68 if you have any questions (optional)
 - [ ] [Assignment 5](https://estherplomp.github.io/TNW-RDM-101/14-Assignment-Data-Flow-Map-3.html): Data Flow Map 3: submit your slide (before **17 October, 17:00**)
