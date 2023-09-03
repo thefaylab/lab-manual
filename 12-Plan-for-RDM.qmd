@@ -14,7 +14,7 @@ We will take a closer look at planning for RDM. In relation to this, data manage
 
 -   Watch the animation video to learn what a data management plan (DMP) is
 -   Watch the videos of a TU Delft researcher and a Faculty data steward to learn why they think it is relevant to prepare a DMP
--   Create a DMP using DMP online
+-   Create a DMP using [DMPonline](https://dmponline.tudelft.nl/)
 :::
 
 ## What is a Data Management Plan (DMP)?
