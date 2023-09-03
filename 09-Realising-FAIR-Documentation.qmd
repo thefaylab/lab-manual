@@ -11,7 +11,7 @@ In this module, we will focus on the realisation of FAIR data. We will explore s
 ## Activities
 
 -   Watch the presentation about Data Documentation tools
--   Write a readme file and share it on GitHub. Comment on another person's readme and provide them with some tips to improve.
+-   Check out the relevant optional assignments and tools
 :::
 
 ## Documentation tools
