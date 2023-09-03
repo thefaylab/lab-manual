@@ -30,7 +30,9 @@ Why is it necessary to create a data management plan? Watch the following video 
 -   [Natalia Romero Herrera talking about the benefits of writing a DMP](https://youtu.be/2GSEqmFxNrc)
 -   [Esther Plomp talking about the benefits of writing a DMP](https://youtu.be/li_3MkeACbY)
 
-![](https://raw.githubusercontent.com/alan-turing-institute/the-turing-way/main/book/website/figures/data-management-plan.jpg)
+![The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).](https://raw.githubusercontent.com/alan-turing-institute/the-turing-way/main/book/website/figures/data-management-plan.jpg)
+
+
 
 See the next module for the [assignment to create your DMP](https://estherplomp.github.io/TNW-RDM-101/11-Assignment-DMP.html).
 
