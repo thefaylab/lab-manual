@@ -15,11 +15,10 @@ In this module, we start to dig deeper into RDM by introducing multiple topics c
 
 -   Watch videos of TU Delft researchers telling you about the research data and confidential research data they work with
 -   If you work with personal data, read the information on the two linked websites
--   Tell us about the type of research data you work with using the [Mentimeter word cloud](https://www.menti.com/9p49g5hobo).
 -   Look at the research cycle image and the RDM questions you need to ask yourself at each step of your project
 -   Watch the video about data storage & infrastructure available at TU Delft
 -   Respond to [GitHub discussion #65](https://github.com/EstherPlomp/TNW-RDM-101/discussions/65) with your data challenge
--   Read the policy responsibilities and ask any questions you have about it
+-   Read the policy responsibilities 
 :::
 
 ## Research Data definition
