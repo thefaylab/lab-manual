@@ -47,7 +47,7 @@ In order to receive the 1.5 Graduate School Credits you have to:
     -   Submit assignments (data flow maps) in [weeks 1](https://estherplomp.github.io/TNW-RDM-101/06-Assignment-Data-Flow-Map-1.html) and [2](https://estherplomp.github.io/TNW-RDM-101/11-Assignment-Data-Flow-Map-2.html) and the assignment of [week 3](https://estherplomp.github.io/TNW-RDM-101/14-Assignment-Data-Flow-Map-3.html).
 
     -   Write a Data Management Plan using DMPonline
--   Attend and participate in both class sessions (including a 4 minute presentation of your data flow map assignment)
+-   Attend and participate in both class sessions (including a 3 minute presentation of your data flow map assignment)
 
 ::: callout-note
 ## Notes
