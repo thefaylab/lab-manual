@@ -81,7 +81,7 @@ Note that you need to have Python and pip (or Anaconda) installed to easily foll
 
 3.  Work on your own to populate the template with information/files from your project.
 
-4.  Share your folder structure on [GitHub discussion #36 Folder Structure](https://github.com/EstherPlomp/TNW-RDM-101/discussions/36) and comment on another person's folder structure
+4.  Share your folder structure on [GitHub discussion #67 Folder Structure](https://github.com/EstherPlomp/TNW-RDM-101/discussions/67) and comment on another person's folder structure
 
 5.  Discuss with your peers how similar your own folder structure is to the one you created using Cookiecutter. What additional elements are there in the Cookiecutter project? Is there anything that the Cookiecutter template is missing?
 
