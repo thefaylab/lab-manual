@@ -49,6 +49,7 @@ You can also share your data and code via a **data or software article**.
 Just sharing software via platforms like GitHub is not sufficient to adhere to the FAIR principles. 
 GitHub/GitLab does not assign a persistent identifier/DOI to the software, and GitHub/GitLab does not have a long term preservation policy like data repositories do. 
 You can share your software on GitHub/GitLab and share a snapshot/version of the code in a data repository as well. 
+
 - See [here for more information between the GitHub/Zenodo integration](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content)
 - See [here for more information on how to do this using 4TU.ResearchData](https://estherplomp.github.io/TNW-OS-support/posts/software-sharing/#tu.researchdata)
 
