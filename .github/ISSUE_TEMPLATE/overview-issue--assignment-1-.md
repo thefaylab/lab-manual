@@ -1,7 +1,7 @@
 ---
-name: 'Assignment 1 '
+name: Overview issue (assignment 1)
 about: Template for Assignment 1 - Getting started with GitHub
-title: Assignment 1 [your-name-here]
+title: Overview issue [your-name-here]
 labels: ''
 assignees: ''
 
@@ -35,14 +35,14 @@ assignees: ''
 
 ### Checklist assignments 
 <!--Use the checklist below for yourself to check off your progress in this course.-->
-- [x] Assignment 1: creating a GitHub issue (before **12 September, 10:00**)
+- [x] Assignment 1: creating a GitHub issue (the overview issue) (before **15 February, 10:00**)
 - [ ] Respond to the GitHub issue #65 
-- [ ] [Assignment 2](https://estherplomp.github.io/TNW-RDM-101/06-Assignment-Data-Flow-Map-1.html): Data Flow Map 1 (share a link in this issue before **20 September 13:00**). Link: 
+- [ ] [Assignment 2](https://estherplomp.github.io/TNW-RDM-101/06-Assignment-Data-Flow-Map-1.html): Data Flow Map 1 (share a link in this issue before **22 February 13:00**). Link: 
 - [ ] Provide feedback to at least one Assignment 2 from another participant
 - [ ] Respond to the GitHub discussion #66
 - [ ] Respond to the GitHub discussion #67
-- [ ] [Assignment 3](https://estherplomp.github.io/TNW-RDM-101/11-Assignment-Data-Flow-Map-2.html): Data Flow Map 2 (share a link in this issue before **4 October 13:00**). Link:  
+- [ ] [Assignment 3](https://estherplomp.github.io/TNW-RDM-101/11-Assignment-Data-Flow-Map-2.html): Data Flow Map 2 (share a link in this issue before **5 March 13:00**). Link:  
 - [ ] Provide feedback to at least one Assignment 3 from another participant
-- [ ] [Assignment 4](https://estherplomp.github.io/TNW-RDM-101/13-Assignment-DMP.html): Data Management Plan (before **11 October, 13:00**)
+- [ ] [Assignment 4](https://estherplomp.github.io/TNW-RDM-101/13-Assignment-DMP.html): Data Management Plan (before **8 March, 13:00**)
 - [ ] Respond to the GitHub discussion #68 if you have any questions (optional)
-- [ ] [Assignment 5](https://estherplomp.github.io/TNW-RDM-101/14-Assignment-Data-Flow-Map-3.html): Data Flow Map 3: submit your slide (before **17 October, 17:00**)
+- [ ] [Assignment 5](https://estherplomp.github.io/TNW-RDM-101/14-Assignment-Data-Flow-Map-3.html): Data Flow Map 3: submit your slide (before **11 March, 17:00**)
