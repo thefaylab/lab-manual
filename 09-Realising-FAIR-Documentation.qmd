@@ -55,7 +55,7 @@ Try out one of the Electronic Lab Notebooks:
 
 To access **eLABJournal**
 
--   Go to <https://www.elabjournal.com/login/>
+-   Go to < https://tudelft.elabjournal.com/>
 -   Select 'log in with your institute account' (below the login form)
 -   Login with your netID
 
