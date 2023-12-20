@@ -4,7 +4,7 @@
 
 Go back to your [Data Flow Map](https://estherplomp.github.io/TNW-RDM-101/11-Assignment-Data-Flow-Map-2.html) and reflect on your challenges, experiences and tips.
 
-You will have to prepare and submit a slide before ({{< var assign5 >}}), **17:00** about:
+You will have to prepare and submit a slide before ({{< var assign5 >}}) 17:00 about:
 
 -   Which data flow map theme challenged you the most? And why?
 -   What theme (from the data flow map) challenged you the least because you were already implementing RDM best practices before this course? (If any)
@@ -13,7 +13,7 @@ You will have to prepare and submit a slide before ({{< var assign5 >}}), **17:0
 
 You will have 3 minutes to present your slide during **class 2** to your peers and they will have the chance to ask questions or exchange ideas!
 
-Please **submit your slide to Esther before ({{< var assign5 >}}), **17:00**
+Please **submit your slide to Esther before ({{< var assign5 >}}), 17:00**
 
 This assignment is based on @martinez-lavanchy2022
 
