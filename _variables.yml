@@ -1,12 +1,12 @@
 # here you can define variables for the var shortcodes, e.g. due dates {{< var <variable_name> >}}
 
 # course: # sub-variables are not currently rendering with {{< var variable.subvariable >}}
-start: "Thursday, 15-02-2024"
+start: "Thursday, 08-02-2024"
 end: "Tuesday, 12-03-2024"
 
 # deadlines:
 
-assign1: "08-02-2024"
+assign1: "15-02-2024"
 assign2: "22-02-2024"
 assign3: "05-03-2024"
 assign4: "08-03-2024"
