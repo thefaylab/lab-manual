@@ -43,6 +43,9 @@ There are important elements to consider within your research workflows if you a
 
 Scripts of the videos copied or adapted from [@holmstrand2019].
 
+See also [Leiden University's video on Metadata](https://www.youtube.com/watch?v=H5t-yS5Qc5w&list=PL-vTxWFyVBpHsi5Rv8XNB502yuXnwj877&index=9).
+
+
 ## Test how aware of FAIR you are (optional)
 
 ![Use the [FAIR-Aware tool](https://fairaware.dans.knaw.nl/) to test your knowledge about the FAIR principles](https://fairaware.dans.knaw.nl/images/logos/fairaware.png){width="75%"}
