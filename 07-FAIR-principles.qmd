@@ -49,19 +49,7 @@ See also [Leiden University's video on Metadata](https://www.youtube.com/watch?v
 
 You can use [FAIRsharing.org](https://fairsharing.org/) to check if a **metadata standard** exists for your discipline or type of data.
 
-Examples of possible relevant metadata standards: 
-
-- [ISA-Tab](http://rd-alliance.github.io/metadata-directory/standards/isa-tab.html)
-- [MIBBI (Minimum Information for Biological and Biomedical Investigations)](http://rd-alliance.github.io/metadata-directory/standards/mibbi-minimum-information-biological-and-biomedical-investigations.html)
-- [NeXus](http://rd-alliance.github.io/metadata-directory/standards/nexus.html)
-- [OME-XML (Open Microscopy Environment XML)](http://rd-alliance.github.io/metadata-directory/standards/ome-xml-open-microscopy-environment-xml.html)
-- [PDBx/mmCIF (Protein Data Bank Exchange Dictionary and the Macromolecular Crystallographic Information Framework)](http://rd-alliance.github.io/metadata-directory/standards/pdbx-mmcif.html)
-- [CIF (Crystallographic Information Framework)](http://rd-alliance.github.io/metadata-directory/standards/cif-crystallographic-information-framework.html)
-- [QuDEx (Qualitative Data Exchange Format)](http://rd-alliance.github.io/metadata-directory/standards/qudex-qualitative-data-exchange-format.html)
-- [SDMX (Statistical Data and Metadata Exchange)](http://rd-alliance.github.io/metadata-directory/standards/sdmx-statistical-data-and-metadata-exchange.html)
-- [The Synthetic Biology Open Language (SBOL)](https://sbolstandard.org/) & [SBOL Visual](https://sbolstandard.org/visual-about/)
-- [STRENDA](https://www.beilstein-institut.de/en/projects/strenda/guidelines/)
-- [Croissant](https://mlcommons.org/2024/03/croissant_metadata_announce/)
+[Examples of possible relevant metadata standards](https://estherplomp.github.io/TNW-OS-support/posts/data-TNW/#relevant-metadata-standards) are listed on the Open Science support website. 
 
 ## Test how aware of FAIR you are (optional)
 
