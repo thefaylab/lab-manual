@@ -4,7 +4,7 @@
 
 In this module, we will focus on the realisation of FAIR data. We will explore some best practices and tools that can facilitate the implementation of the FAIR principles. At the end of this module you should be able to:
 
--   Recognize the relevance of documentation and be familiar with diverse tools to document data
+-   Recognise the relevance of documentation and be familiar with diverse tools to document data
 -   Identify relevant tools to advance towards FAIR data
 
 ::: callout-important
@@ -38,7 +38,7 @@ In the next video we will talk about different methods and tools you can use to 
 
 1.  Watch a [video on data dictionaries](https://www.youtube.com/watch?v=Fe3i9qyqPjo)
 2.  Go to a tabular dataset you are working on or have worked on.
-3.  In an excel spreadsheet, start creating your data dictionary. Ave the data dictionary in the same folder as the dataset you're describing. List all the variables that you find in the dataset on column A. Then, add a clear and understandable description of that variable on column B.
+3.  In an excel spreadsheet, start creating your data dictionary. Save the data dictionary in the same folder as the dataset you're describing. List all the variables that you find in the dataset on column A. Then, add a clear and understandable description of that variable on column B.
 
 Note that you can also [create a package for your data with Frictionless Data](https://create.frictionlessdata.io)
 
@@ -55,7 +55,7 @@ Try out one of the Electronic Lab Notebooks:
 
 To access **eLABJournal**
 
--   Go to < https://tudelft.elabjournal.com/>
+-   Go to <https://tudelft.elabjournal.com/>
 -   Select 'log in with your institute account' (below the login form)
 -   Login with your netID
 
