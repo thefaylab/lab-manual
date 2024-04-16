@@ -4,7 +4,7 @@
 
 This course provides PhD candidates with the essential knowledge and the core skills to manage research data according to best practice. You will be able to integrate good data management practices within your workflow from the beginning of your projects. The application of this knowledge to your research will allow you to reflect on how to work efficiently and in a reproducible manner with your research data, while complying with funders and institutional requirements.
 
-This course contains a lot of self-paced elements. Make sure to plan your time accordingly. You will get most out of this course if you keep an eye on the Discussions with your peers throughout the week. Do you run into any problems in scheduling time? Let us know!
+This course contains a lot of self-paced elements. Make sure to plan your time accordingly. You will get most out of this course if you keep an eye on the Discussions with your peers throughout the week. Do you run into any problems in scheduling time? Please let Esther know!
 
 ## Relevant dates:
 
@@ -12,7 +12,7 @@ This course contains a lot of self-paced elements. Make sure to plan your time a
 
 **Course end date:** 31 May
 
-**Class sessions: 30 April and 31 May**
+**Class sessions: 30 April** and **31 May**
 
 **Course load:** approximately [**4-6 hours per week**]{.underline}
 
@@ -20,7 +20,7 @@ This course contains a lot of self-paced elements. Make sure to plan your time a
 
 After completing this course, you will be able to:
 
--   Realize the important role that good data management plays in research
+-   Realise the important role that good data management plays in research
 
 -   Identify different types of research data and recognize the regulations, policies and/or legal requirements associated with them.
 
@@ -49,7 +49,7 @@ In order to receive the 1.5 Graduate School Credits you have to:
     -   Submit assignments (data flow maps): [Assignment 2](https://estherplomp.github.io/TNW-RDM-101/06-Assignment-Data-Flow-Map-1.html) and [Assignment 3](https://estherplomp.github.io/TNW-RDM-101/11-Assignment-Data-Flow-Map-2.html) and the [Assignment 5](https://estherplomp.github.io/TNW-RDM-101/14-Assignment-Data-Flow-Map-3.html).
 
     -   Write a Data Management Plan using DMPonline (Assignment 4)
--   Attend and participate in both class sessions (including a 3 minute presentation of your data flow map assignment)
+-   Attend and participate in both in-person sessions
 
 ::: callout-note
 ## Notes
@@ -71,5 +71,6 @@ In order to receive the 1.5 Graduate School Credits you have to:
 
 ## Support
 
-You will get most out of this course by interacting with your peers and the instructor. You can do this via GitHub issues, where you can also ask questions.\
-For other questions please contact Esther.
+You will get most out of this course by interacting with your peers and the instructor. You can do this via GitHub issues, where you can also ask questions.
+
+For other questions please contact Esther via email or GitHub.
