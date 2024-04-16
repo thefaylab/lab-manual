@@ -13,10 +13,10 @@ At the end, make sure you submit the reflections for every step.
 
 ### Step 1 - Fill out the data you will collect/create with a short description {-}
 
--   Start with identifying and listing the different datasets that you will be collecting or creating during your project. Remember that code, models, interviews, etc. are also important types of research data.
+-   Start with identifying and listing the different datasets that you will be collecting or creating during your project. Remember that code, models, interviews, are also  types of research data.
     -   Give each dataset a descriptive name and fill this out on the template. For example: Interview videos, Sequencing data, Sensor data.
     -   Add to the template a very short description of each dataset (what is the data, how it is collected/created, what is the file format, what is the (file)size.)
-    -   Do not restrict yourself to list only three types of datasets! Please provide a comprehensive list. If you would like to extend the list, you can do so by duplicating the slides we have provided.
+    -   Do not restrict yourself to list only three types of datasets! Please provide a comprehensive list. If you would like to extend the list, you can do so by duplicating the provided slides.
 
 ### Step 2 - Indicate actions to the data {-}
 
