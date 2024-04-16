@@ -5,9 +5,9 @@
 In this module, we start to dig deeper into RDM by introducing multiple topics concerning the essentials of RDM. At the end of this module you should be able to:
 
 -   Identify different types of research data
--   Recognize what is considered confidential data in research
+-   Recognise what is considered confidential data in research
 -   Realise what RDM entails within a research project
--   Recognize the responsibilities regarding RDM for TUD PhD candidates
+-   Recognise the responsibilities regarding RDM for TUD PhD candidates
 -   Store and back up the research data of your project in a secure manner
 
 ::: callout-important
@@ -23,7 +23,48 @@ In this module, we start to dig deeper into RDM by introducing multiple topics c
 
 ## Research Data definition
 
-Research data is any information that has been collected, observed, generated or created to validate research findings. Depending on the discipline you work in, research data can be collected or produced in different ways. You can capture them in real-time (e.g. sensors, images), you can collect them using laboratory instruments and they can derive from interviews or numerical simulations, among others. Research Data can be digital such as tabular data, videos, algorithms, scripts, transcripts, and codebooks. They can also be non-digital, for example, laboratory samples, sketchbooks, and prototypes.
+Research data is any information that has been collected, observed, generated or created to validate research findings. 
+Depending on the discipline you work in, research data can be collected or produced in different ways. 
+You can capture them in real-time (sensors, images), you can collect them using laboratory instruments and they can derive from interviews or numerical simulations, among others. Research Data can be digital such as tabular data, videos, algorithms, scripts, transcripts, and codebooks. 
+They can also be non-digital, for example, laboratory samples, sketchbooks, and prototypes.
+
+Data can be classified in various ways, which is important for effective data management. 
+The following categories provide a structured framework for understanding and working with research data:
+
+### Research Data categorised by its nature
+
+**Quantitative data** refers to information that is numerical or measurable in nature. 
+It involves collecting data through structured methods, such as surveys or experiments, and is analysed using statistical techniques.
+
+**Qualitative data** is descriptive in nature, focusing on non-numerical information such as opinions, experiences, or behaviours. 
+Qualitative data is typically collected through methods like interviews, observations, or open-ended survey questions and is analysed through thematic analysis or interpretation.
+
+### Research Data categorised by collection method
+
+**Experimental data**: Data collected through controlled experiments where variables are intentionally manipulated and measured to establish cause-and-effect relationships.
+
+**Computational data**: Data generated or processed using computational methods, such as simulations, numerical calculations, or machine learning outputs.
+
+**Observational data**: Data obtained through direct observations of real-world phenomena, documenting existing behaviours, events, or characteristics without manipulation.
+
+**Derived/processed data**: Data obtained by analysing or processing raw data. 
+It is generated through calculations, algorithms, or transformations applied to the original data.
+
+**Research software/code**: Computer programs or code developed and utilised in research activities to support data collection, analysis, modelling, or visualisation.
+
+### Research Data categorised by recording medium
+
+**Digital data** including tabular data, images, videos, algorithms, scripts, transcripts, codebooks,
+
+**Non-digital data** including laboratory samples, sketchbooks, prototypes.
+
+### Research Data categorised by file format
+
+Research data can also be encountered in diverse formats during the data acquisition process reflecting the specific needs and characteristics of each scientific domain. 
+The ability to access and reuse your data in the future depends on the chosen format. 
+If the associated software/hardware is no longer used, data may become inaccessible. 
+To ensure the longevity and accessibility of your research data, it is strongly recommended to **use standard, exchangeable, or open file formats**. 
+4TU.ResearchData provides a [list of preferred file formats](https://data.4tu.nl/s/documents/Preferred_File_Formats_2019.pdf) for which they guarantee long-term support. 
 
 We talked to some TU Delft researchers working in different disciplines and we asked them: 'What is the research data you work with?' Let's see what they shared with us:
 
@@ -36,7 +77,7 @@ We talked to some TU Delft researchers working in different disciplines and we a
 
 There are multiple types of confidential data that you might be working with during your research project. Some examples include:
 
--   personal data (information about an identified or identifiable natural person)
+-   personal data (information about an identified or identifiable natural person, such as names, addresses and social security numbers)
 -   national security data (such as nuclear research)
 -   data falling under export control regulations
 -   confidential data received from commercial, or other external partners
@@ -58,6 +99,15 @@ Only read these materials if you work with personal data (data that can identify
 -   [TU Delft Information about privacy](https://www.tudelft.nl/en/privacy-security/privacy/)
 -   If you conduct research which involves human Research Subjects (ie: where human participants are the source your research data), you will have to submit an application for approval to the [TU Delft Human Research Ethic Committee](https://www.tudelft.nl/en/about-tu-delft/strategy/integrity-policy/human-research-ethics).
 -   [Personal data management - The Turing Way](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-personal.html)
+
+When working with personal data, you will likely encounter the following definitions: 
+
+- **Anonymised Data**: Anonymisation involves the removal of personal information. 
+Therefore anonymised data is often considered less sensitive and may have fewer data protection requirements.
+- **Pseudonymised Data**: Pseudonymisation involves replacing identifiable information with pseudonyms or codes. 
+While it reduces the risk of identifying individuals, it may still be subject to data protection regulations depending on the level of re-identification risk.
+- **De-identified Data**: De-identification goes a step further by removing or modifying both direct and indirect identifiers, making it extremely challenging to re-identify individuals. 
+De-identified data is generally subject to fewer data protection requirements.
 
 [![The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807.](https://raw.githubusercontent.com/alan-turing-institute/the-turing-way/main/book/website/figures/sensitive-data.jpg){fig-alt="A visualisation on how sensitive data requires an additional track or process to be able to share (parts of it). Tools that can help to make research based on senstive data reproducible are: encryption, consent, deidentification, sytnethic data and data safe havens." width="68%"}](https://doi.org/10.5281/zenodo.3332807)
 
