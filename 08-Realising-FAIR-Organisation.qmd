@@ -10,7 +10,7 @@ In this module, we will focus on the realisation of FAIR data. We will explore s
 ## Activities
 
 -   Watch the videos about 'Data organisation' and complete the quiz
--   Try out Cookiecutter, share your folder structure on [GitHub discussion #102 Folder Structure](https://github.com/EstherPlomp/TNW-RDM-101/discussions/102), and comment on another person's folder structure
+-   Try out Cookiecutter, share your folder structure on [GitHub discussion #127 Folder Structure](https://github.com/EstherPlomp/TNW-RDM-101/discussions/127), and comment on another person's folder structure
 :::
 
 ## Data Organisation
@@ -83,7 +83,7 @@ Note that you need to have Python and pip (or Anaconda) installed to easily foll
 
 3.  Work on your own to populate the template with information/files from your project.
 
-4.  Share your folder structure on [GitHub discussion #102 Folder Structure](https://github.com/EstherPlomp/TNW-RDM-101/discussions/102) and comment on another person's folder structure
+4.  Share your folder structure on [GitHub discussion #127 Folder Structure](https://github.com/EstherPlomp/TNW-RDM-101/discussions/127) and comment on another person's folder structure
 
 5.  Discuss with your peers how similar your own folder structure is to the one you created using Cookiecutter. What additional elements are there in the Cookiecutter project? Is there anything that the Cookiecutter template is missing?
 
