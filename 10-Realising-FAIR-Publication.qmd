@@ -50,20 +50,17 @@ Only read this section if you're working with code in your project, or if Resear
 
 Before you get started with writing your code, you might want to look for code and software that others have already written and shared. This could be work by a predecessor in your team, a code snippet you found online, or software that is published and archived. When reusing research software, there are some relevant factors to consider, such as, where to find and how to evaluate the reusability of the available software? Maurits walks you through those considerations in the following video:
 
-[Finding and reusing code](https://collegerama.tudelft.nl/Mediasite/Play/df8ecdd445bf4ebd8c048498216704ca1d?playFrom=29250&popout=true)
-Video citation: Finding and reusing code. Video recording from TU Delft MOOC Open Science: Sharing Your Research with the World. Presenter: Dr. Maurits Kok. Credits: TU Delft Extension School, TU Delft New Media Center, TU Delft Digital Competence Center. Licence: CC-BY-NC-SA]
+[Finding and reusing code](https://collegerama.tudelft.nl/Mediasite/Play/df8ecdd445bf4ebd8c048498216704ca1d?playFrom=29250&popout=true) (*4 minutes*)
 
 Once you get started writing your code or developing your software, other best practices and management tools will be needed. If you have collected code snippets from different sources, debugging the code might be challenging, and as the development process goes along, you might want to compare current versions to earlier versions.
 
 The same as with research data, you should always think ‘who might be reusing your code?’ At the very least, it is your past, present and future selves. Therefore, implementing best practices to make your software FAIR and reproducible since the beginning of the project is very relevant! In the next video, Maurits will provide an overview of good practices for developing reproducible and reusable code:
 
-[Developing research software](https://collegerama.tudelft.nl/Mediasite/Play/224ff6a1ae7b4085a5ea7a963b1f91e71d?playFrom=1216&popout=true)
-Video citation: Developing research software. Video recording from TU Delft MOOC Open Science: Sharing Your Research with the World. Presenter: Dr. Maurits Kok. Credits: TU Delft Extension School, TU Delft New Media Center, TU Delft Digital Competence Center. Licence: CC-BY-NC-SA
+[Developing research software](https://collegerama.tudelft.nl/Mediasite/Play/224ff6a1ae7b4085a5ea7a963b1f91e71d?playFrom=1216&popout=true) (*7 minutes*)
 
 Once you are ready to publish your research work, the data and the code also needs to be published as you have already learned in the ‘Data Access and Data Publication’ video. If you need some extra encouragement to publish your research software or piece of code, in the following video Maurits will tell you why you should publish your code as open source and how to do so following the FAIR principles for research software:
 
-[Publishing Research Software](https://collegerama.tudelft.nl/Mediasite/Play/ae62a315741641fbb9e42b2c061c47e51d?playFrom=772&popout=true)
-Video citation: Publishing Research Software. Video recording from TU Delft MOOC Open Science: Sharing Your Research with the World. Presenter: Dr. Maurits Kok. Credits: TU Delft Extension School, TU Delft New Media Center, TU Delft Digital Competence Center. Licence: CC-BY-NC-SA
+[Publishing Research Software](https://collegerama.tudelft.nl/Mediasite/Play/ae62a315741641fbb9e42b2c061c47e51d?playFrom=772&popout=true) (*5.28 minutes*)
 
 Helpful resources: 
 
@@ -71,6 +68,7 @@ Helpful resources:
 - [Software Carpentry lessons](https://software-carpentry.org/lessons/)
 - [CodeRefinery lessons](https://coderefinery.org/lessons/core/)
 
+### FAIR software
 Just sharing software via platforms like GitHub is not sufficient to adhere to the FAIR principles. 
 GitHub/GitLab does not assign a persistent identifier/DOI to the software, and GitHub/GitLab does not have a long term preservation policy like data repositories do. 
 You can share your software on GitHub/GitLab and share a snapshot/version of the code in a data repository as well. 
@@ -141,3 +139,7 @@ Link to dataset: [https://cloudstor.aarnet.edu.au/plus/s/rxYKXBS7Tq0kB8o](https:
 
 -   @colavizza2020
 -   [H2020 Programme Guidelines on FAIR Data Management in Horizon 2020](https://core.ac.uk/download/pdf/301306355.pdf). Version 3.0. 26 July 2016.
+
+**Finding and reusing code**. Video recording from TU Delft MOOC Open Science: Sharing Your Research with the World. Presenter: Dr. Maurits Kok. Credits: TU Delft Extension School, TU Delft New Media Center, TU Delft Digital Competence Center. Licence: CC-BY-NC-SA
+**Developing research software**. Video recording from TU Delft MOOC Open Science: Sharing Your Research with the World. Presenter: Dr. Maurits Kok. Credits: TU Delft Extension School, TU Delft New Media Center, TU Delft Digital Competence Center. Licence: CC-BY-NC-SA
+**Publishing Research Software**. Video recording from TU Delft MOOC Open Science: Sharing Your Research with the World. Presenter: Dr. Maurits Kok. Credits: TU Delft Extension School, TU Delft New Media Center, TU Delft Digital Competence Center. Licence: CC-BY-NC-SA
