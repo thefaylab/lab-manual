@@ -22,4 +22,4 @@ If appropriate, you can use the 'Additional Information' box in the template to 
 
 ## Submit your assignment
 
-When you're done filling out your Data Management Plan, you can **ask for Feedback using the 'Request Feedback' button**. This will notify Esther that your plan is ready. If you weren't able to answer all the questions, this is also the way to ask for support. Please **finalise your DMP before ({{< var assign4 >}}) **13:00**!
+When you're done filling out your Data Management Plan, you can **ask for Feedback using the 'Request Feedback' button**. This will notify Esther that your plan is ready. If you weren't able to answer all the questions, this is also the way to ask for support. Please **finalise your DMP before ({{< var assign4 >}}) 13:00**!
