@@ -85,9 +85,7 @@ specific characteristics of software — such as its executability, composite na
 Let’s hear from Maurits, one of TU Delft research software engineers, how the FAIR principle apply to Research Software and the distinction between FAIR software and open source:
 
 [Video: FAIR and Open Software](https://collegerama.tudelft.nl/Mediasite/Play/deb1f179d53a4ef899b7f3df9f939d151d?playFrom=
-11563&popout=true)
-
-Video citation: FAIR and Open Software. Video recording from TU Delft MOOC Open Science: Sharing Your Research with the World. Presenter: Dr. Maurits Kok. Credits: TU Delft Extension School, TU Delft New Media Center, TU Delft Digital Competence Center. Licence: CC-BY-NC-SA]
+11563&popout=true) (*4 min*)
 
 
 ## FAIR in the literature
@@ -98,3 +96,4 @@ Video citation: FAIR and Open Software. Video recording from TU Delft MOOC Open 
 
 
 ## References {.unnumbered}
+FAIR and Open Software. Video recording from TU Delft MOOC Open Science: Sharing Your Research with the World. Presenter: Dr. Maurits Kok. Credits: TU Delft Extension School, TU Delft New Media Center, TU Delft Digital Competence Center. Licence: CC-BY-NC-SA
