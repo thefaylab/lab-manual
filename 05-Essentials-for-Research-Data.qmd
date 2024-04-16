@@ -28,6 +28,11 @@ Depending on the discipline you work in, research data can be collected or produ
 You can capture them in real-time (sensors, images), you can collect them using laboratory instruments and they can derive from interviews or numerical simulations, among others. Research Data can be digital such as tabular data, videos, algorithms, scripts, transcripts, and codebooks. 
 They can also be non-digital, for example, laboratory samples, sketchbooks, and prototypes.
 
+In the next two videos, researchers from TU Delft tell us about the confidential data they work with and what RDM best-practice they follow:
+
+-   [Sian Jones talking about collaboration with industry](https://youtu.be/5MbwTjgc8Vk)
+-   [Wirawan Agahari talking about personal data in his research](https://youtu.be/YCXZce3qGXI)
+
 Data can be classified in various ways, which is important for effective data management. 
 The following categories provide a structured framework for understanding and working with research data:
 
@@ -87,10 +92,6 @@ There are multiple types of confidential data that you might be working with dur
 
 When working with confidential data, you need additional security measures for your data to make sure that they are not accidentally released.
 
-In the next two videos, researchers from TU Delft tell us about the confidential data they work with and what RDM best-practice they follow:
-
--   [Sian Jones talking about collaboration with industry](https://youtu.be/5MbwTjgc8Vk)
--   [Wirawan Agahari talking about personal data in his research](https://youtu.be/YCXZce3qGXI)
 
 ## Personal Data
 
@@ -153,7 +154,7 @@ This Framework policy is accompanied by **Faculty-specific data management polic
 
 -   [Faculty Research Data Management Policies](https://www.tudelft.nl/en/library/research-data-management/r/policies/tu-delft-faculty-policies) or [direct download of the TNW/AS policy](https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Beleid/2020_AS_Research_Data_Management_Policy.pdf).
 
-Software is recognised at TU Delft as a valuable research output that needs to be well documented, preserved and, whenever possible, consistent with the [FAIR principles](https://estherplomp.github.io/TNW-RDM-101/07-FAIR-principles.html). The **TU Delft Research Software Policy** provides a clear division of roles and responsibilities and sets out a simplified, streamlined process to help researchers share software.
+At TU Delft, software is recognised as a valuable research output that needs to be well documented, preserved and, whenever possible, consistent with the [FAIR principles](https://estherplomp.github.io/TNW-RDM-101/07-FAIR-principles.html). The **TU Delft Research Software Policy** provides a clear division of roles and responsibilities and sets out a simplified, streamlined process to help researchers share software.
 
 -   [TUD Research Software Policy](https://zenodo.org/record/4629662)
 
