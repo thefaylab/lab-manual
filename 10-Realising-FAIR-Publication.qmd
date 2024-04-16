@@ -141,5 +141,8 @@ Link to dataset: [https://cloudstor.aarnet.edu.au/plus/s/rxYKXBS7Tq0kB8o](https:
 -   [H2020 Programme Guidelines on FAIR Data Management in Horizon 2020](https://core.ac.uk/download/pdf/301306355.pdf). Version 3.0. 26 July 2016.
 
 **Finding and reusing code**. Video recording from TU Delft MOOC Open Science: Sharing Your Research with the World. Presenter: Dr. Maurits Kok. Credits: TU Delft Extension School, TU Delft New Media Center, TU Delft Digital Competence Center. Licence: CC-BY-NC-SA
+
 **Developing research software**. Video recording from TU Delft MOOC Open Science: Sharing Your Research with the World. Presenter: Dr. Maurits Kok. Credits: TU Delft Extension School, TU Delft New Media Center, TU Delft Digital Competence Center. Licence: CC-BY-NC-SA
+
 **Publishing Research Software**. Video recording from TU Delft MOOC Open Science: Sharing Your Research with the World. Presenter: Dr. Maurits Kok. Credits: TU Delft Extension School, TU Delft New Media Center, TU Delft Digital Competence Center. Licence: CC-BY-NC-SA
+
