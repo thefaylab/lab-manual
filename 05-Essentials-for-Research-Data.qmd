@@ -17,7 +17,6 @@ In this module, we start to dig deeper into RDM by introducing multiple topics c
 -   If you work with personal data, read the information on the two linked websites
 -   Look at the research cycle image and the RDM questions you need to ask yourself at each step of your project
 -   Watch the video about data storage & infrastructure available at TU Delft
--   Respond to [GitHub discussion #125](https://github.com/EstherPlomp/TNW-RDM-101/discussions/125) with your data challenge
 -   Read the policy responsibilities 
 :::
 
