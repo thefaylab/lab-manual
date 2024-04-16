@@ -28,4 +28,4 @@ This website is a copy of the [lab manual for the Fay Lab](https://thefaylab.git
 
 ------------------------------------------------------------------------
 
-[![](https://creativecommons.org/licenses/by/4.0/)](http://creativecommons.org/licenses/by/4.0/){fig-alt="Creative Commons License"}This webpage is licensed under a [Creative Commons Attribution 4.0 International License.](http://creativecommons.org/licenses/by/4.0/) and requires the attribution of the [lab manual for the Fay Lab](https://thefaylab.github.io/lab-manual/) and Martinez-Lavanchy, P.M., van Schöll, Pim, & Zormpa, Eirini. (2022, July 8). TU Delft Research Data Management 101 course. Zenodo. <https://doi.org/10.5281/zenodo.6325919>.
+This webpage is licensed under a [Creative Commons Attribution 4.0 International License.](http://creativecommons.org/licenses/by/4.0/) and requires the attribution of the [lab manual for the Fay Lab](https://thefaylab.github.io/lab-manual/) and Martinez-Lavanchy, P.M., van Schöll, Pim, & Zormpa, Eirini. (2022, July 8). TU Delft Research Data Management 101 course. Zenodo. <https://doi.org/10.5281/zenodo.6325919>.
