@@ -70,11 +70,6 @@ If the associated software/hardware is no longer used, data may become inaccessi
 To ensure the longevity and accessibility of your research data, it is strongly recommended to **use standard, exchangeable, or open file formats**. 
 4TU.ResearchData provides a [list of preferred file formats](https://data.4tu.nl/s/documents/Preferred_File_Formats_2019.pdf) for which they guarantee long-term support. 
 
-We talked to some TU Delft researchers working in different disciplines and we asked them: 'What is the research data you work with?' Let's see what they shared with us:
-
--   [Sian Jones -- Faculty Of Civil Engineering and Geosciences (CEG)](https://youtu.be/X9ixhwUIGug)
--   [Wirawan Agahari -- TU Delft Faculty of Technology, Policy and Management (TPM)](https://youtu.be/sGtoAd8EZl8)
-
 ![Image by [Piotr Kononow](https://twitter.com/aabella/status/1527533226574680064)](https://pbs.twimg.com/media/FTLi4U2WIAAQdC9){width="50%"}
 
 ## Confidential data
@@ -86,7 +81,7 @@ There are multiple types of confidential data that you might be working with dur
 -   data falling under export control regulations
 -   confidential data received from commercial, or other external partners
 -   data related to competitive advantage (for example, patent, IP)
--   data which could lead to reputation/brand damage (e.g. climate change, personal information, animal research)
+-   data which could lead to reputation/brand damage (such as climate change, personal information, animal research)
 -   politically-sensitive data (such as research commissioned by public authorities, research on societal issues)
 
 When working with confidential data, you need additional security measures for your data to make sure that they are not accidentally released.
@@ -97,7 +92,7 @@ When working with confidential data, you need additional security measures for y
 Only read these materials if you work with personal data (data that can identify a person)
 
 -   [TU Delft Information about privacy](https://www.tudelft.nl/en/privacy-security/privacy/)
--   If you conduct research which involves human Research Subjects (ie: where human participants are the source your research data), you will have to submit an application for approval to the [TU Delft Human Research Ethic Committee](https://www.tudelft.nl/en/about-tu-delft/strategy/integrity-policy/human-research-ethics).
+-   If you conduct research which involves human Research Subjects (where human participants are the source your research data), you will have to submit an application for approval to the [TU Delft Human Research Ethic Committee](https://www.tudelft.nl/en/about-tu-delft/strategy/integrity-policy/human-research-ethics).
 -   [Personal data management - The Turing Way](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-personal.html)
 
 When working with personal data, you will likely encounter the following definitions: 
@@ -116,16 +111,6 @@ De-identified data is generally subject to fewer data protection requirements.
 In the following presentation you can go through a simplified cycle which can represent your project. Have a look at the RDM questions you might ask at each step of research.
 
 [02-1\_ Module-2_handout_RDM_steps_Interactive_image](https://surfdrive.surf.nl/files/index.php/s/KiQo8RsVXHPHUUp)
-
-## Discussion
-
-For this module's discussion, please answer the following question:
-
--   What is your main challenge regarding your data management?
-
-Post your answers in [GitHub discussion #101](https://github.com/EstherPlomp/TNW-RDM-101/discussions/101).
-
-Please read your peers' responses and reply to any you find interesting!
 
 ## Research Data infrastructure at TU Delft
 
