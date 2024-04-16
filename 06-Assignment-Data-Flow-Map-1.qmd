@@ -8,6 +8,7 @@ In this assignment [based on @martinez-lavanchy2022] you will have to write down
 -   Download the first file: 01_DFM_Template_Power_Point.pptx (ignore all other files!)
 -   Follow the instructions on slide 2 (see step 4 below for additional information)
 -   **Ignore any comments about Brightspace** - you'll have to follow step 5 outlined below to share your assignment using GitHub
+-   **Only focus on slides 1-4** - the later slides are covered in [Assignment 3](https://estherplomp.github.io/TNW-RDM-101/11-Assignment-Data-Flow-Map-2.html)
 
 ### Step 4 - Reflect on the theme Back-up and Storage {-}
 
