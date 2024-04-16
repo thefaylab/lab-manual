@@ -50,6 +50,7 @@ See also [Leiden University's video on Metadata](https://www.youtube.com/watch?v
 You can use [FAIRsharing.org](https://fairsharing.org/) to check if a **metadata standard** exists for your discipline or type of data.
 
 Examples of possible relevant metadata standards: 
+
 - [ISA-Tab](http://rd-alliance.github.io/metadata-directory/standards/isa-tab.html)
 - [MIBBI (Minimum Information for Biological and Biomedical Investigations)](http://rd-alliance.github.io/metadata-directory/standards/mibbi-minimum-information-biological-and-biomedical-investigations.html)
 - [NeXus](http://rd-alliance.github.io/metadata-directory/standards/nexus.html)
@@ -68,12 +69,25 @@ Examples of possible relevant metadata standards:
 
 ## Data and Code Licences
 
-More resources on licences:
-
--   Licenses for data, presentations and articles: Use the CC [license chooser](https://chooser-beta.creativecommons.org/).
--   Software: [Choose a License](https://choosealicense.com/licenses/). (For more detailed information, see '[How to choose a software licence](https://softwaresaved.github.io/software-deposit-guidance/HowToChooseSoftwareLicence.html)').
+-   To choose a licenses for data (and presentations and articles!): Use the CC [license chooser](https://chooser-beta.creativecommons.org/).
+-   To choose a license for software: Use [Choose a License](https://choosealicense.com/licenses/). (For more detailed information, see '[How to choose a software licence](https://softwaresaved.github.io/software-deposit-guidance/HowToChooseSoftwareLicence.html)').
 -   Note that apart from CC0, the licenses for data and code are different. Software licenses are more complex as software differs from data in the ways you can reuse it, as unlike data, software is executable.
 -   If in doubt, talk to Esther.
+
+## FAIR software
+
+Only read this section if you're working with code in your project, or if Research Software is one of the main outputs of your projects! 
+
+Many of the FAIR Guiding Principles for research data can be directly applied to research software by treating software and data as similar digital research objects. However,
+specific characteristics of software — such as its executability, composite nature, and continuous evolution and versioning — make it necessary to revise and extend the principles. When you need to share the code/software, you can follow the [FAIR software checklist](https://tu-delft-dcc.github.io/software/checklist.html) developed by TU Delft's Digital Competence Center.
+
+Let’s hear from Maurits, one of TU Delft research software engineers, how the FAIR principle apply to Research Software and the distinction between FAIR software and open source:
+
+[Video: FAIR and Open Software](https://collegerama.tudelft.nl/Mediasite/Play/deb1f179d53a4ef899b7f3df9f939d151d?playFrom=
+11563&popout=true)
+
+Video citation: FAIR and Open Software. Video recording from TU Delft MOOC Open Science: Sharing Your Research with the World. Presenter: Dr. Maurits Kok. Credits: TU Delft Extension School, TU Delft New Media Center, TU Delft Digital Competence Center. Licence: CC-BY-NC-SA]
+
 
 ## FAIR in the literature
 
