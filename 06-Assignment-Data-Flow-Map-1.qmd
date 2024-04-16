@@ -2,32 +2,12 @@
 
 *Estimated time: 60 minutes*
 
-In this assignment [based on @martinez-lavanchy2022] you will have to write down what data you expect to collect/create during your project. After this, you will reflect on the back-up and storage for your data. We will provide you with a toolbox and a step-by-step guide to help you reflect on your data. At the bottom of the page you will find some examples we prepared. You can download the PowerPoint template via a data repository.
+In this assignment [based on @martinez-lavanchy2022] you will have to write down what data you expect to collect/create during your project. After this, you will reflect on the back-up and storage for your data. We will provide you with a toolbox and a step-by-step guide to help you reflect on your data. You can download the PowerPoint template via a data repository:
 
--   Go to <https://doi.org/10.5281/zenodo.6325938>
--   Download the second file: RDM101_Assignment1_Week1_DataFlowMap_Template.pptx
-
-You can either use the template, or work on a sheet of paper with post-its.
-
-At the end, make sure you submit the reflections for every step.
-
-### Step 1 - Fill out the data you will collect/create with a short description {-}
-
--   Start with identifying and listing the different datasets that you will be collecting or creating during your project. Remember that code, models, interviews, are also  types of research data.
-    -   Give each dataset a descriptive name and fill this out on the template. For example: Interview videos, Sequencing data, Sensor data.
-    -   Add to the template a very short description of each dataset (what is the data, how it is collected/created, what is the file format, what is the (file)size.)
-    -   Do not restrict yourself to list only three types of datasets! Please provide a comprehensive list. If you would like to extend the list, you can do so by duplicating the provided slides.
-
-### Step 2 - Indicate actions to the data {-}
-
--   Go to the toolbox in the PowerPoint template (slide 2).
--   Select/Copy the green actions arrows that are related to the datasets you listed and add them on your template. This will help to add some extra description to the data that can influence your reflections.
--   Actions to consider: Were the data collected, were they created or are you re-using data from others? If necessary, add new data sets depending on your action.
-    -   For example, if you collected interviews, you might need to transcribe them generating a new dataset consisting of transcription files.
-
-### Step 3 - Reflect on your data {-}
-
--   Use the red flags in the toolbox in the PowerPoint template (slide 2) to indicate important characteristics of your data that might influence how you need to manage it.
+-   Go to <https://doi.org/10.5281/zenodo.10731934>
+-   Download the first file: 01_DFM_Template_Power_Point.pptx (ignore all other files!)
+-   Follow the instructions on slide 2 (see step 4 below for additional information)
+-   **Ignore any comments about Brightspace** - you'll have to follow step 5 outlined below to share your assignment using GitHub
 
 ### Step 4 - Reflect on the theme Back-up and Storage {-}
 
@@ -44,6 +24,7 @@ To share your assignment you will need to either upload your assignment somewher
 
 -   **SURFdrive**: When the Desktop app is active, you can right-click files, select SURFdrive, and select 'create and copy a public link. See [Sharing using SURFdrive](https://estherplomp.github.io/TNW-OS-support/posts/data-sharing-SURFdrive/) for more details.
 
--   **OneDrive**: Right-click the file or folder in your OneDrive folder on your computer and select Share a OneDrive link.
+-   **OneDrive**: Right-click the file or folder in your OneDrive folder on your computer and select Share a OneDrive link. 
+See [Sharing using OneDrive](https://estherplomp.github.io/TNW-OS-support/posts/data-sharing-Onedrive/index.html) for more details.
 
 ## References {-}
