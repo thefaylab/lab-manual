@@ -8,11 +8,11 @@ This course contains a lot of self-paced elements. Make sure to plan your time a
 
 ## Relevant dates:
 
-**Course start:** 8 February
+**Course start:** 23 April (start email with information)
 
-**Course end date:** 12 March
+**Course end date:** 31 May
 
-**Class sessions: 15 February and 12 March**
+**Class sessions: 30 April and 31 May**
 
 **Course load:** approximately [**4-6 hours per week**]{.underline}
 
@@ -44,11 +44,11 @@ If at any point you're confronted with undesirable behaviour, please reach out t
 In order to receive the 1.5 Graduate School Credits you have to:
 
 -   Complete all activities
-    -   Participate in all discussions and respond to the relevant GitHub issues
+    -   Participate in all discussions and respond to the relevant GitHub issues (Assignment 1)
 
-    -   Submit assignments (data flow maps) in [weeks 1](https://estherplomp.github.io/TNW-RDM-101/06-Assignment-Data-Flow-Map-1.html) and [2](https://estherplomp.github.io/TNW-RDM-101/11-Assignment-Data-Flow-Map-2.html) and the assignment of [week 3](https://estherplomp.github.io/TNW-RDM-101/14-Assignment-Data-Flow-Map-3.html).
+    -   Submit assignments (data flow maps): [Assignment 2](https://estherplomp.github.io/TNW-RDM-101/06-Assignment-Data-Flow-Map-1.html) and [Assignment 3](https://estherplomp.github.io/TNW-RDM-101/11-Assignment-Data-Flow-Map-2.html) and the [Assignment 5](https://estherplomp.github.io/TNW-RDM-101/14-Assignment-Data-Flow-Map-3.html).
 
-    -   Write a Data Management Plan using DMPonline
+    -   Write a Data Management Plan using DMPonline (Assignment 4)
 -   Attend and participate in both class sessions (including a 3 minute presentation of your data flow map assignment)
 
 ::: callout-note
