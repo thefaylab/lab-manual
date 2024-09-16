@@ -62,7 +62,6 @@ Twitter is a great tool for interacting with others about your science. It is al
 
 As you know, there are many social media platforms, and many (all?) of these are being used in some way for science communication. This includes but not limited to: 
 
-- Twitter
 - Instagram
 - Facebook
 - LinkedIn
