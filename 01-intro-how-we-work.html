@@ -90,35 +90,6 @@ div.csl-indent {
   }
 }</script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
@@ -287,7 +258,7 @@ Our quantitative work is based on statistical thinking, using evidence-based app
 <p>[To come: recommended reading list]</p>
 <section id="how-we-meet" class="level2" data-number="2.1">
 <h2 data-number="2.1" class="anchored" data-anchor-id="how-we-meet"><span class="header-section-number">2.1</span> How we meet</h2>
-<p>Currently, we meet virtually by Zoom for weekly lab meetings, individual meetings with Gavin, and our Shut Up and Write session.<br>
+<p>Currently, we meet virtually by Zoom for weekly lab meetings and individual meetings with Gavin. In previous years, we have met for Shut Up and Write sessions to practice and make progress on our writing. More recently, writing workshops have taken place during some of our lab meetings.<br>
 We use Googledocs to set agendas, record decisions made, and outline action items during meetings. Each lab member has their own google doc for their 1:1 meetings with Gavin. Prior to each meeting, create your agenda for that meeting there.</p>
 </section>
 <section id="how-we-give-feedback" class="level2" data-number="2.2">
@@ -307,7 +278,7 @@ We use Googledocs to set agendas, record decisions made, and outline action item
 </section>
 <section id="shared-lab-resources" class="level2" data-number="2.4">
 <h2 data-number="2.4" class="anchored" data-anchor-id="shared-lab-resources"><span class="header-section-number">2.4</span> Shared lab resources</h2>
-<p>Where to find shared resources: - Google Drive - You will be given access to the shared drive during onboarding, take a look at the Lab Meetings folder to find Lab Meeting Notes for each semester (previously called the Supercharge Plan) - GitHub - thefaylab is the shared GitHub account for the lab - lab-manual - This repository contains the lab manual, see section <span class="math inline">\(\ref{#umassd-resources}\)</span> for other useful resources and take a look at the <a href="https://github.com/thefaylab/lab-manual/wiki/Lab-Meeting-Schedule">Wiki</a> to see the lab meeting schedule - lab-chat - This repository contains shared institutional knowledge for the Fay lab, take a look at Issue #22 for Zoom meeting links - Website - Take a look at the lab website, most of its information is duplicated in one of the above resources: <a href="http://www.smast.umassd.edu/lab_fay/" class="uri">http://www.smast.umassd.edu/lab_fay/</a></p>
+<p>Where to find shared resources: - Google Drive - You will be given access to the shared drive during onboarding, take a look at the Lab Meetings folder to find Lab Meeting Notes for each semester (previously called the Supercharge Plan) - GitHub - thefaylab is the shared GitHub account for the lab - lab-manual - This repository contains the lab manual, see section <a href="https://thefaylab.github.io/lab-manual/12-umassd-resources.html">13</a> for other useful resources and take a look at the <a href="https://github.com/thefaylab/lab-manual/wiki/Lab-Meeting-Schedule">Wiki</a> to see the lab meeting schedule - lab-chat - This repository contains shared institutional knowledge for the Fay lab, take a look at Issue #22 for Zoom meeting links - Website - Take a look at the lab website, most of its information is duplicated in one of the above resources: <a href="http://www.smast.umassd.edu/lab_fay/" class="uri">http://www.smast.umassd.edu/lab_fay/</a></p>
 </section>
 <section id="references" class="level2" data-number="2.5">
 <h2 data-number="2.5" class="anchored" data-anchor-id="references"><span class="header-section-number">2.5</span> References</h2>

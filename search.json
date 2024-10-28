@@ -14,7 +14,7 @@
     "href": "01-intro-how-we-work.html",
     "title": "2  Introduction",
     "section": "",
-    "text": "2.1 How we meet\nCurrently, we meet virtually by Zoom for weekly lab meetings, individual meetings with Gavin, and our Shut Up and Write session.\nWe use Googledocs to set agendas, record decisions made, and outline action items during meetings. Each lab member has their own google doc for their 1:1 meetings with Gavin. Prior to each meeting, create your agenda for that meeting there.",
+    "text": "2.1 How we meet\nCurrently, we meet virtually by Zoom for weekly lab meetings and individual meetings with Gavin. In previous years, we have met for Shut Up and Write sessions to practice and make progress on our writing. More recently, writing workshops have taken place during some of our lab meetings.\nWe use Googledocs to set agendas, record decisions made, and outline action items during meetings. Each lab member has their own google doc for their 1:1 meetings with Gavin. Prior to each meeting, create your agenda for that meeting there.",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
     ]
@@ -44,7 +44,7 @@
     "href": "01-intro-how-we-work.html#shared-lab-resources",
     "title": "2  Introduction",
     "section": "2.4 Shared lab resources",
-    "text": "2.4 Shared lab resources\nWhere to find shared resources: - Google Drive - You will be given access to the shared drive during onboarding, take a look at the Lab Meetings folder to find Lab Meeting Notes for each semester (previously called the Supercharge Plan) - GitHub - thefaylab is the shared GitHub account for the lab - lab-manual - This repository contains the lab manual, see section \\(\\ref{#umassd-resources}\\) for other useful resources and take a look at the Wiki to see the lab meeting schedule - lab-chat - This repository contains shared institutional knowledge for the Fay lab, take a look at Issue #22 for Zoom meeting links - Website - Take a look at the lab website, most of its information is duplicated in one of the above resources: http://www.smast.umassd.edu/lab_fay/",
+    "text": "2.4 Shared lab resources\nWhere to find shared resources: - Google Drive - You will be given access to the shared drive during onboarding, take a look at the Lab Meetings folder to find Lab Meeting Notes for each semester (previously called the Supercharge Plan) - GitHub - thefaylab is the shared GitHub account for the lab - lab-manual - This repository contains the lab manual, see section 13 for other useful resources and take a look at the Wiki to see the lab meeting schedule - lab-chat - This repository contains shared institutional knowledge for the Fay lab, take a look at Issue #22 for Zoom meeting links - Website - Take a look at the lab website, most of its information is duplicated in one of the above resources: http://www.smast.umassd.edu/lab_fay/",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
     ]
