@@ -11,7 +11,7 @@ This lab manual resource is intended to provide an overview for lab members and 
 
 The content for this book was developed as part of our group's participation in the [Openscapes Champions program](https://openscapes.org).\
 We are extremely grateful to and acknowledge [Dr. Julia Stewart Lowndes](https://twitter.com/juliesquid)' role in helping shape how our lab both works and how we articulate our identity. 🙏\
-Thanks also to [Ileana Fenwick](https://twitter.com/_ileanaf) and [Stefanie Butland](https://twitter.com/StefanieButland) for their work moving the lab-manual from bookdown to Quarto. 🙌\
+Thanks also to <a href="#" onclick='window.open("https://twitter.com/_ileanaf");return false;'>Ileana Fenwick...</a> and [Stefanie Butland](https://twitter.com/StefanieButland) for their work moving the lab-manual from bookdown to Quarto. 🙌\
 
 
 [![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){fig-align="left" width="35px"}](https://github.com/thefaylab/lab-manual) \< link to this book's GitHub repository. Also see [Quick steps to making a copy of the lab manual and publishing it](https://github.com/thefaylab/lab-manual/wiki/Quick-steps-to-making-a-copy-of-the-lab-manual-&-publishing-it)!
