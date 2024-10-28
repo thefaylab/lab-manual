@@ -52,7 +52,7 @@ The Fay lab prioritizes marginalized people’s safety over privileged people’
 
 ### Reporting
 
-If you are being harassed by a member of the Fay lab, notice that someone else is being harassed, or have any other concerns, please contact the PI, Dr. Gavin Fay, at [gfay@umassd.edu](mailto:gfay@umassd.edu). If you do not wish to contact Dr. Fay, please contact Department Chair Dr. Steve Cadrin [scadrin@umassd.edu](mailto:scadrin@umassd.edu) and/or SMAST Assistant Dean Mike Marino [mmarino@umassd.edu](mailto:mmarino@umassd.edu). If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.  
+If you are being harassed by a member of the Fay lab, notice that someone else is being harassed, or have any other concerns, please contact the PI, Dr. Gavin Fay, at [gfay@umassd.edu](mailto:gfay@umassd.edu). If you do not wish to contact Dr. Fay, please contact Department Chair Dr. Changsheng Chen [c1chen@umassd.edu](mailto:c1chen@umassd.edu) and/or SMAST Assistant Dean Mike Marino [mmarino@umassd.edu](mailto:mmarino@umassd.edu). If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.  
 
 Lab members who believe they have been subjected to any kind of discrimination that conflicts with the University of Massachusetts’ policies and/or the laws of the Commonwealth of Massachusetts’ should seek assistance from a supervisor or an HR representative. [Information about the University of Massachusetts Dartmouth’s Equal Opportunity and Anti-Harassment policies, complaint procedures and form](https://www.umassd.edu/media/umassdartmouth/eeo/pdfs/Complaint_Procedures_and_Form_Revised_September_2017.pdf).  
 
@@ -90,4 +90,4 @@ Other [University of Massachusetts Board of Trustees and University documents](h
 
 ## License and attribution
 
-This anti-harassment policy is based on the [example policy created by the Geek Feminism community](https://geekfeminism.wikia.org/wiki/Community_anti-harassment). It has also been written to fall within the [SMAST Code of Conduct and Diversity Statement](https://www.umassd.edu/media/umassdartmouth/smast/lab-pdf-files/SMAST---Code-of-conduct-and-diversitystatement_2.25.20-(1).docx), and has been reviewed by the SMAST Dean’s office and UMass Dartmouth Departments of Human Resources and Office of Diversity Equity and Inclusion. 
+This anti-harassment policy is based on the [example policy created by the Geek Feminism community](https://geekfeminism.wikia.org/wiki/Community_anti-harassment). It has also been written to fall within the [SMAST Code of Conduct and Diversity Statement](https://www.umassd.edu/media/umassdartmouth/smast/lab-pdf-files/SMAST-Code-of-Conduct-and-Diversity-Statement.pdf), and has been reviewed by the SMAST Dean’s office and UMass Dartmouth Departments of Human Resources and Office of Diversity Equity and Inclusion. 
