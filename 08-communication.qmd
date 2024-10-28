@@ -66,6 +66,9 @@ All have a different purpose and type of engagement. They can be used for intera
 
 Here are some great resources on how [social media can be used to more effectively communicate science](https://www.linkedin.com/pulse/making-impact-science-communication-social-media-sarah-wettstadt-nea7e/), and how it can even be used to help better inform [fisheries research and management](https://onlinelibrary.wiley.com/doi/full/10.1111/faf.12663). 
 
+## Posit Cloud
+
+[Posit Cloud](https://posit.cloud) is a web-based interface for working in open-source programming languages such as R and Python. It allows you to write, access, analyze, and share code in your browser, as well as access learning materials such as coding cheatsheets and workshops.
 
 ## Contributing to regional publications  
 
