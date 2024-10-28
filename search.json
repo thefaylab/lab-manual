@@ -380,11 +380,21 @@
     ]
   },
   {
+    "objectID": "08-communication.html#posit-cloud",
+    "href": "08-communication.html#posit-cloud",
+    "title": "9  Communication",
+    "section": "9.5 Posit Cloud",
+    "text": "9.5 Posit Cloud\nPosit Cloud is a web-based interface for working in open-source programming languages such as R and Python. It allows you to write, access, analyze, and share code in your browser, as well as access learning materials such as coding cheatsheets and workshops.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Communication</span>"
+    ]
+  },
+  {
     "objectID": "08-communication.html#contributing-to-regional-publications",
     "href": "08-communication.html#contributing-to-regional-publications",
     "title": "9  Communication",
-    "section": "9.5 Contributing to regional publications",
-    "text": "9.5 Contributing to regional publications\n[more to come on engaging with our local press, etc.]",
+    "section": "9.6 Contributing to regional publications",
+    "text": "9.6 Contributing to regional publications\n[more to come on engaging with our local press, etc.]",
     "crumbs": [
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Communication</span>"
     ]
