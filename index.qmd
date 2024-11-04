@@ -10,7 +10,7 @@ This lab manual resource is intended to provide an overview for lab members and 
 <br>
 
 The content for this book was developed as part of our group's participation in the [Openscapes Champions program](https://openscapes.org).\
-We are extremely grateful to and acknowledge [Dr. Julia Stewart Lowndes](https://twitter.com/juliesquid)' role in helping shape how our lab both works and how we articulate our identity. 🙏\
+We are extremely grateful to and acknowledge [Dr. Julia Stewart Lowndes](https://www.linkedin.com/in/julia-stewart-lowndes/){target="_blank"}' role in helping shape how our lab both works and how we articulate our identity. 🙏\
 Thanks also to [Ileana Fenwick](https://www.linkedin.com/in/ileana-fenwick-0238ba132/){target="_blank"} and [Stefanie Butland](https://www.linkedin.com/in/stefaniebutland/?originalSubdomain=ca){target="_blank"} for their work moving the lab-manual from bookdown to Quarto. 🙌\
 
 
