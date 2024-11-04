@@ -9,17 +9,17 @@ This lab manual resource is intended to provide an overview for lab members and 
 
 <br>
 
-The content for this book was developed as part of our group's participation in the [Openscapes Champions program](https://openscapes.org).\
+The content for this book was developed as part of our group's participation in the [Openscapes Champions program](https://openscapes.org){target="_blank"}.\
 We are extremely grateful to and acknowledge [Dr. Julia Stewart Lowndes](https://www.linkedin.com/in/julia-stewart-lowndes/){target="_blank"}' role in helping shape how our lab both works and how we articulate our identity. 🙏\
 Thanks also to [Ileana Fenwick](https://www.linkedin.com/in/ileana-fenwick-0238ba132/){target="_blank"} and [Stefanie Butland](https://www.linkedin.com/in/stefaniebutland/?originalSubdomain=ca){target="_blank"} for their work moving the lab-manual from bookdown to Quarto. 🙌\
 
 
-[![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){fig-align="left" width="35px"}](https://github.com/thefaylab/lab-manual) \< link to this book's GitHub repository. Also see [Quick steps to making a copy of the lab manual and publishing it](https://github.com/thefaylab/lab-manual/wiki/Quick-steps-to-making-a-copy-of-the-lab-manual-&-publishing-it)!
+[![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){fig-align="left" width="35px"}](https://github.com/thefaylab/lab-manual){target="_blank"} \< link to this book's GitHub repository. Also see [Quick steps to making a copy of the lab manual and publishing it](https://github.com/thefaylab/lab-manual/wiki/Quick-steps-to-making-a-copy-of-the-lab-manual-&-publishing-it){target="_blank"}!
 
 ![](img/openscapes_hex_badge.png){width="25%"}
 
-[*We're proud Openscapes Champions!*](https://openscapes.org)
+[*We're proud Openscapes Champions!*](https://openscapes.org){target="_blank"}
 
 ------------------------------------------------------------------------
 
-[![](img/creative_commons.png)](http://creativecommons.org/licenses/by/4.0/){fig-alt="Creative Commons License"}This lab is licensed under a [Creative Commons Attribution 4.0 International License.](http://creativecommons.org/licenses/by/4.0/)
+[![](img/creative_commons.png)](http://creativecommons.org/licenses/by/4.0/){fig-alt="Creative Commons License"}This lab is licensed under a [Creative Commons Attribution 4.0 International License.](http://creativecommons.org/licenses/by/4.0/){target="_blank"}
