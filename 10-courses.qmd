@@ -42,24 +42,25 @@ Typically, most remaining coursework is completed in years 2-3, but this will va
 
 ### Other courses Gavin will strongly 'suggest' you take
 
-MAR 580: Advanced Population Modeling (Fay) (odd years)  
+MAR 580: Advanced Population Modeling (Fay) (fall odd years)  
 
 ### Other courses you might want to take
 
 *Fall*
-MAR 525: US Ocean Policy (Pierce, fall even yrs)  [PC]  
-MAR 522: Science Communication for Research Scientists (Fay, fall)  
-MAR 599: Bayesian Statistics and Hierarchical Modeling (Fay, fall even yrs)  
-MAR 527: Fisheries Management (Cadrin, fall odd yrs)  
+MAR 522: Science Communication for Research Scientists (Fay, fall even yrs)  
+MAR 599: Bayesian Statistics and Hierarchical Modeling (Fay, occasional)  
+MAR 622: Stock Identification Methods (Cadrin, spring even)  
+MAR 580: Fish Behavior & Conservation Engineering (He)  
+POL 663: Oceans Policy (McGuire) [PC]
+
 *Spring*
 BIO XXX: Biological Statistics I (Kozak, spring)  
-MAR 622: Stock Identification Methods (Cadrin, spring even)  
-*Based on interest*
-MAR 5XX: Marine Resource Economics (Griffin & DePiper)  [PC]  
+MAR 527: Fisheries Management (Cadrin, spring odd yrs) [PC] 
 MAR 580: Conservation in World Marine Capture Fisheries (He)  [PC]  
-MAR 580: Fish Behavior & Conservation Engineering (He)  
-MAR 580: Field Methods in Fisheries Research (Cadrin/Bethoney)  
+MAR 622: Offshore Wind and Fisheries (Cadrin, spring even yrs)
+MAR 580: Field Methods in Fisheries Research (had been on hiatus but might be returning)  
 
+There are also some new courses in development that will hopefully be offered in AY25-26 and AY26-27.
 
 Of course there are lots of other course offerings - these are the ones that lab members have taken more than once. For present semester offerings, see the [SMAST website](https://www.umassd.edu/smast/academics/course-list/). Full list of current SMAST courses and for which courses meet IMS core course requirements can be found [here](https://thefaylab.github.io/lab-manual/smast_curriculum.html).  
 
