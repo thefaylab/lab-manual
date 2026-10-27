@@ -31,6 +31,8 @@ book:
     - 10-courses.qmd
     - 11-computing.qmd
     - 12-umassd-resources.qmd
+    - chapter: 13-fay lab curriculum and resources guide 
+      contents: command-line.qmb
 #    - 13-smast-resources.qmd
 #    - 14-other-faylab-resources.qmd  
 

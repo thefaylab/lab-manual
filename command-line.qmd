@@ -1,0 +1,75 @@
+---
+title: "command-line"
+format: html
+editor: visual
+---
+
+## Command Line Interface and Shell Scripts
+
+The terminal may be intimidating, but learning how to use the command line interface (CLI) and write shell scripts helps improve your workflow and efficiency when doing computational research. It allows you to directly access your operating system, install and remove software, navigate between different software interfaces and programs from the same control center, and much more! Even if there is a bit of a learning curve, once you master some of the basics you will feel just like one of those computer hackers in movies! Just make sure you don’t type “systemreset --factoryreset!” 
+
+First, why bother even using the command line? Lots of softwares and operating systems around these days have more user-friendly interfaces for achieving the same tasks as those listed above. However, there are lots of advantages for specifically using the command line in your workflow. They include but are not limited to:\
+
+- Automation, speed, and efficiency
+
+  - A single command or a shell script can automate repetitive or tedious tasks (e.g. renaming files, moving files to different directories), which makes better use of your time and reduces the likelihood of human error.
+
+- Access to remote or headless systems 
+
+  - Some cloud servers, high performance computing clusters, and remote databases lack GUIs as they take up additional processing power. Knowing how to use the command line can be essential for using these resources. 
+
+- Scientific reproducibility 
+
+  - Commands or shell scripts provide better documentation for replicating your results than giving someone a complicated explanation of how you clicked and “drag n’ dropped” your way through a workflow 
+
+- Resource efficiency 
+
+  - Terminal interfaces consume a much smaller fraction of system resources (e.g. RAM) than many GUIs 
+
+Here is a helpful video that goes into some of these points in greater detail: <https://www.youtube.com/watch?v=4IiZZkuxdew>
+
+In case that wasn’t convincing enough, here is a list of things that our group does that rely on (or are greatly improved by) using the command line:
+
+- Certain model programming softwares (e.g. ADMB) that are commonly used in fisheries science
+
+- The UMass Unity high-performance computing cluster that many members of our lab use to speed their workflows <https://unityhpc.org/documentation/>
+
+- Parallelizations when running large numbers of simulations for Management Strategy Evaluation or stock assessment model testing 
+
+- Running executables that jump between different softwares 
+
+- Compiling code 
+
+- The terminal in RStudio for easily retrieving files relevant to your work session and assisting in package installation
+
+First, some very basic introductions on CLI that goes into how to enter some basic commands and navigate around your computer:
+
+<https://www.theodinproject.com/lessons/foundations-command-line-basics>
+
+This resource here also goes into more detail about why it’s useful to know how to use the CLI:
+
+<https://preview.carpentries.org/lc-shell/01-intro-shell.html>
+
+Once you’ve done that without causing irreparable damage to your operating system, time to learn some basic introduction on writing and running bash scripts. Bash scripts are very useful since you can seamlessly transition between different software programs without having to manually jump around your computer:
+
+<https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/#heading-comments-in-bash-scripting>
+
+After you’ve mastered the basics, here are a couple of resources that provide more detailed descriptions on writing and running bash scripts, as well as inventories of various bash commands and syntax that you may need to use:
+
+<https://learnxinyminutes.com/bash/>
+
+<http://mywiki.wooledge.org/BashGuide>
+
+Once you start moving onto advanced-level coding, it is useful to have access to the most in-depth inventory of bash commands and syntax, directly from the source:
+
+<https://www.gnu.org/software/bash/manual/bash.html>
+
+The coding side of CLI and shell scripting can also be frustrating at times. Even though there are an array of \*online resources\* that can help correct bugs in your code and make sure you spend less time on your syntax and more time on your science, here is one interesting tool specifically for debugging bash scripts and CLI notation that may be of help:
+
+<https://www.shellcheck.net/>
+
+Lastly, although this information might be overwhelming, it’s important to remember that you do not need to know ALL of this information for your science. I would say that the basics that should be learned from the resources above are navigating between directories, copying files and directories, basic shell scripts with loops with arguments, and some basic keyboard shortcuts (e.g. “up arrow” for repeating the previous line!). Anything beyond that is likely relevant to you and your own research journey, and the more comprehensive resources provided are just for your own interest or as needed. 
+
+Happy coding! 
+
+\
